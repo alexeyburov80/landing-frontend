@@ -31,11 +31,12 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
 
         if (swiperEl) {
           Object.assign(swiperEl, {
-            spaceBetween: 10,
+            spaceBetween: 4,
             slidesPerView: 1,
-            centeredSlides: false,
+            centeredSlides: true,
             initialSlide: 0,
-            loop: false,
+            loop: true,
+            loopAdditionalSlides: 2, // Добавляет копии слайдов для плавного loop
             watchSlidesProgress: true,
             resizeObserver: true,
             watchOverflow: true,
@@ -43,24 +44,24 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
               640: {
                 slidesPerView: 2,
                 centeredSlides: false,
-                spaceBetween: 15,
+                spaceBetween: 4,
               },
               768: {
                 slidesPerView: 3,
                 centeredSlides: false,
-                spaceBetween: 20,
+                spaceBetween: 4,
               },
               1024: {
                 slidesPerView: 4,
                 centeredSlides: false,
-                spaceBetween: 25,
+                spaceBetween: 4,
               },
             },
           });
 
           swiperEl.initialize();
         }
-      }, 300); // Небольшая задержка для гарантированной инициализации
+      }, 300);
     }
   }
 

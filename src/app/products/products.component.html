@@ -1,16 +1,20 @@
 <h1>ПРОДУКТЫ</h1>
-<swiper-container
-  class="swiper"
-  init="false"
-  grab-cursor="true"
-  touch-ratio="1"
->
-  <swiper-slide class="slide" *ngFor="let item of productItems$ | async">
-    <h4>{{ item.title }}</h4>
-    <app-json-viewer class="json-viewer" [jsonData]="item.data"></app-json-viewer>
-    <div class="button-container">
-      <button>{{ 'Скачать JSON' }}</button>
-      <button>{{ 'Скачать EXCEL' }}</button>
-    </div>
-  </swiper-slide>
-</swiper-container>
+<div class="swiper-container-wrapper">
+  <swiper-container
+    class="swiper"
+    init="false"
+    grab-cursor="true"
+    touch-ratio="1"
+  >
+    <swiper-slide class="slide" *ngFor="let item of productItems$ | async">
+      <div class="slide-content">
+        <h4>{{ item.title }}</h4>
+        <app-json-viewer class="json-viewer" [jsonData]="item.data"></app-json-viewer>
+        <div class="button-container">
+          <button>{{ 'Скачать JSON' }}</button>
+          <button>{{ 'Скачать EXCEL' }}</button>
+        </div>
+      </div>
+    </swiper-slide>
+  </swiper-container>
+</div>
