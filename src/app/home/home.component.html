@@ -1,0 +1,8 @@
+<ng-container *ngIf="data$ | async as data">
+  <div class="home-container">
+    <div class="sub-title">{{ data.subtitle }}</div>
+    <h1>{{ data.title }}</h1>
+    <div class="description">{{ data.description }}</div>
+    <app-socials [data]="data.socials" class="socials-container"></app-socials>
+  </div>
+</ng-container>

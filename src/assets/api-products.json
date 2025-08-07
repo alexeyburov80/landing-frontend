@@ -1,0 +1,268 @@
+{
+  "products": [
+    {
+      "title": "hh.ru",
+      "file": "",
+      "data": {
+        "premium": false,
+        "name": "QA специалист / тестировщик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "98",
+          "name": "Ульяновск",
+          "url": "https://api.hh.ru/areas/98"
+        },
+        "salary": null,
+        "salary_range": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Ульяновск",
+          "street": "улица Рылеева",
+          "building": "21а",
+          "lat": 54.328302,
+          "lng": 48.40129,
+          "description": null,
+          "raw": "Ульяновск, улица Рылеева, 21а",
+          "metro": null,
+          "metro_stations": [],
+          "id": "457345"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2025-05-19T13:53:17+0300",
+        "created_at": "2025-05-19T13:53:17+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120708661",
+        "show_logo_in_search": null,
+        "show_contacts": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/120708661?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/120708661",
+        "relations": [],
+        "employer": {
+          "id": "876514",
+          "name": "ASTRIO",
+          "url": "https://api.hh.ru/employers/876514",
+          "alternate_url": "https://hh.ru/employer/876514",
+          "logo_urls": {
+            "90": "https://img.hhcdn.ru/employer-logo/1707750.jpeg",
+            "240": "https://img.hhcdn.ru/employer-logo/1707751.jpeg",
+            "original": "https://img.hhcdn.ru/employer-logo-original/316346.jpg"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=876514",
+          "accredited_it_employer": true,
+          "employer_rating": {
+            "total_rating": "4.9",
+            "reviews_count": 4
+          },
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Общий стаж работы в тестировании не менее 1 года обязателен. Понимание методологии проведения различных видов тестирования. Базовое знание клиент-серверной...",
+          "responsibility": "Работа с российскими и зарубежными проектами на платформе Magento, Битрикс и др. Составление чек-листов и тест-кейcов по функциональным..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "fly_in_fly_out_duration": [],
+        "work_format": [
+          {
+            "id": "ON_SITE",
+            "name": "На месте работодателя"
+          }
+        ],
+        "working_hours": [
+          {
+            "id": "HOURS_8",
+            "name": "8 часов"
+          }
+        ],
+        "work_schedule_by_days": [
+          {
+            "id": "FIVE_ON_TWO_OFF",
+            "name": "5/2"
+          }
+        ],
+        "night_shifts": false,
+        "professional_roles": [
+          {
+            "id": "124",
+            "name": "Тестировщик"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "employment_form": {
+          "id": "FULL",
+          "name": "Полная"
+        },
+        "internship": false,
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      }
+    },
+    {
+      "title": "dns",
+      "file": "",
+      "data": [
+        {
+          "name": "Мини ПК INFERIT Micro [INFR0748] [Intel Celeron J4125, 4 x 2 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), SoC, блок питания - 120 Вт]",
+          "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/4c63ca52c59c6d5805117182d92189d2/07bb2b42fb284c8f407440872b603e10032bf2e41d22eaebd7af13035d8ac00d.jpg.webp",
+          "price": 9899,
+          "rating": 4.68
+        },
+        {
+          "name": "Мини ПК INFERIT Mini [INFR0754] [Intel Celeron J4125, 4 x 2 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), SoC, блок питания - 220 Вт]",
+          "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/49c879b8ce6b1a4b3bde42bed4b98eae/1ad49c6b0c4b6404532c920029f107c994c4e93fc3af4bc79742c47a405f1265.jpg.webp",
+          "price": 11999,
+          "rating": 4.76
+        },
+        {
+          "name": "Рабочая станция Digma DPCN-8CXW01 [Intel Celeron N4020, 2 x 1.1 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x VGA (D-Sub), 2 x HDMI, Wi-Fi, Bluetooth, блок питания - 36 Вт]",
+          "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d180371191756e380b95703dd55ff80f/1e6c16ea36f5c3d526b8b0a3953fe2dee8d36ac9f8406995688dd183a786f75e.jpg.webp",
+          "price": 17899,
+          "rating": 2
+        },
+        {
+          "name": "ПК DEXP Aquilon O308 [Intel Pentium Gold G6405, 2 x 4.1 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H470, блок питания - 400 Вт]",
+          "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3fcfa4607b71e0640be5b4dc3a88cbc6/a76d68743f73d692c1fd2df38282c3de80e1fae40b299a3f38e8ce68050db661.png.webp",
+          "price": 21599,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "title": "avito",
+      "file": "",
+      "data": {
+        "room": "3-к",
+        "flat": "апартаменты",
+        "amount": 123,
+        "price_amount": 750000,
+        "price": 92250000,
+        "floor": 3,
+        "floor_all": 6,
+        "street": "ул. Ямского Поля",
+        "metro": "Белорусская",
+        "metro_time": "6–10",
+        "company": "SHOW ME | Недвижимость",
+        "bonus": [
+          "Надёжный партнёр",
+          "Реквизиты проверены"
+        ],
+        "description": "К продаже предлагается эксклюзивный апартамент со стильным дизайнерским ремонтом.\n\nПланировка апартамента включает в себя:\n\n— хозяйскую мастер-спальню,\n\n— детскую комнату с двумя кроватями,\n\n— просторную кухню-столовую-гостиную,\n\n— 3 санузла,\n\n— 3 гардеробные комнаты,\n\n— хоз блок.\n\nОтделка выполнена с использованием лучших мировых брендов, мебель и элементы декора привозились из Европы и Америки.\n\nАпартамент находится в жилом комплексе Art Residence — малоэтажный комплекс особняков премиум-класса расположен в центре Москвы, в 5 мин. От «Белорусской» и 500 м от Тверской.\n\nКаждый корпус отмечен собственной концептуальной архитектурой. В отделке общих зон использованы эксклюзивные натуральные материалы.\n\nНа территории работает 3-уровневая система безопасности. Внутренний двор включает зону отдыха на зеленой террасе с ландшафтным дизайном.\n\nРезидентам доступны премиальный консьерж-сервис, впервые на рынке жилой недвижимости Москвы — услуга valet-паркинга, а также программа лояльности, включающая особые условия обслуживания во всех точках инфраструктуры комплекса.\n\nПрямой представитель собственника. Оперативный показ.\n\nЗвоните в любое время."
+      }
+    },
+    {
+      "title": "ozon",
+      "file": "",
+      "data": [
+        {
+          "name": "Black & White PC Системный блок Компьютер Combo i5 512 (Intel Core i5-3470, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2500, Windows), серый",
+          "price": 49000,
+          "discount": "−68%",
+          "price_discount": 15393,
+          "quantit": "Осталось 44 шт",
+          "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-p/wc500/7375828273.jpg",
+          "rating": 4.9
+        },
+        {
+          "name": "Системный блок Компьютер  (Intel Core i3-3220, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro), черный",
+          "price": 26733,
+          "discount": "−44%",
+          "price_discount": 14715,
+          "quantit": "Осталось 154 шт",
+          "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-v/wc500/7355804791.jpg",
+          "rating": 4.6
+        }
+      ]
+
+    },
+    {
+      "title": "citilink",
+      "file": "",
+      "data": [
+        {
+          "name": "Компьютер  iRU Game 310H6GE,  Intel  Core i5  12400F,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+          "img": "https://cdn.citilink.ru/CCWcTazKp2kfEbLWjMQi5Sf_gvmC6o9i6BYl9ZJw4Yo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0f35abe5-a0ca-42d6-a200-232a76c551fc.jpg",
+          "price": 66190,
+          "rating": 5
+        },
+        {
+          "name": "Компьютер  iRU Опал 515,  Intel  Core i5  10400,  DDR4 32ГБ, 512ГБ,  Free DOS,  черный",
+          "img": "https://cdn.citilink.ru/p5A3ThiXAw9AIEfOz5rmIHz_5ErDoFvDijCxCUQucUE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/9ff9b247-26f9-4cdc-85b0-5b45fdc4fa2e.jpg",
+          "price": 96930,
+          "rating": 0
+        },
+        {
+          "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i5  12400,  DDR4 32ГБ, 512ГБ,  Free DOS,  черный",
+          "img": "https://cdn.citilink.ru/wskdl81YVVcUiCLSMpUk0gB2omj0Io4hQ6Fd4i-4bOo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b9af9032-bf96-414f-b20b-534c8ef72b2c.jpg",
+          "price": 40490,
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "title": "wildberries",
+      "file": "",
+      "data": [
+        {
+          "name": "/ Моноблок Optimum 23.8\" N6000 8 256ГБ UHD Graphics W11Pro",
+          "sell": "−39%",
+          "img": "https://basket-16.wbbasket.ru/vol2464/part246454/246454224/images/c516x688/1.webp",
+          "price_sell": "35610",
+          "rating": "4,8",
+          "rating_count": "78 оценок"
+        },
+        {
+          "name": "/ Моноблок Action 21.5\" Celeron N5095A 8 256ГБ UHD Windows",
+          "sell": "−37%",
+          "img": "https://basket-16.wbbasket.ru/vol2523/part252314/252314909/images/c516x688/1.webp",
+          "price_sell": "28539",
+          "rating": "4,8",
+          "rating_count": "78 оценок"
+        }
+        ]
+    },
+    {
+      "title": "yandex",
+      "file": "",
+      "data": [{
+          "img": "//avatars.mds.yandex.net/get-goods_pic/10820292/hat7e59d83fac270d7c92e4e8e4c2221852/500x500",
+          "name": "Lenovo Системный блок ThinkCentre M71  Intel Core i3-2100, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Pro , черный",
+          "price_sell": "5565₽",
+          "price": "18500₽",
+          "sell": "−70%",
+          "rating": "4,7"
+        },
+        {
+          "img": "//avatars.mds.yandex.net/get-goods_pic/15112900/hat581f71764e5bd395e02888fef5c11012/500x500",
+          "name": "Системный блок AURORA PC  Intel Core i5-3470, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2500, Windows 10 Pro , черный матовый",
+          "price_sell": "5565₽",
+          "price": "18500₽",
+          "sell": "−63%",
+          "rating": "4,7"
+        }
+      ]
+    }
+  ]
+}

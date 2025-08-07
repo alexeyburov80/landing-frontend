@@ -1,0 +1,24 @@
+{
+  "home": {
+    "title": "br.parsing",
+    "subtitle": "Парсинг сайта от одного дня Задачи любой сложности",
+    "description": "Сбор данных из открытых источников Профессиональная команда разработчиков",
+    "socials": [
+      {
+        "name": "telegram",
+        "href": "https://t.me/ulpostru",
+        "icon": "assets/telegram.svg"
+      },
+      {
+        "name": "mail",
+        "href": "https://alexeyburov80@gmail.com",
+        "icon": "assets/email.svg"
+      },
+      {
+        "name": "vk",
+        "href": "https://t.me/ulpostru",
+        "icon": "assets/vk.svg"
+      }
+    ]
+  }
+}

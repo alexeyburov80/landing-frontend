@@ -1,0 +1,16 @@
+pre {
+  background: #2e2e2e;
+  color: white;
+  padding: 1rem;
+  overflow: hidden;
+  font-family: monospace;
+  text-align: left;
+  font-size: small;
+  height: 100%;
+}
+
+.string { color: #90ee90; }
+.number { color: #fca130; }
+.boolean { color: #f77; }
+.null { color: #999; }
+.key { color: #e300ff; }

@@ -1,0 +1,15 @@
+<nav class="nav">
+  <!-- Navigation list -->
+  <ul class="nav-list" [class.active]="isMenuOpen">
+    <li class="nav-item"
+        *ngFor="let item of navItems"
+        [class.active]="item.isActive"
+        (click)="selectItem(item)"
+        (keyup.enter)="selectItem(item)"
+        tabindex="0"
+    >
+      {{item.label}}
+    </li>
+    <div class="nav-indicator"></div>
+  </ul>
+</nav>

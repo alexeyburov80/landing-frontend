@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="-450 -450 900 900">
+  <defs>
+    <!-- Радиальная шкала для разрывов -->
+    <radialGradient id="gapGradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff0000" />
+      <stop offset="50%" stop-color="#ffff00" />
+      <stop offset="100%" stop-color="#00ff00" />
+    </radialGradient>
+    
+    <!-- Стиль для дуг и лучей -->
+    <style>
+      .ring {
+        fill: none;
+        stroke-width: 4;
+        stroke-linecap: round;
+      }
+      .ray {
+        fill: none;
+        stroke-width: 4;
+        stroke-linecap: round;
+        opacity: 0.7;
+      }
+    </style>
+  </defs>
+  
+  <!-- Центр (для наглядности) -->
+  <circle cx="0" cy="0" r="5" fill="#000" />
+  
+  <!-- Анимированные кольца -->
+  <g id="rings">
+    <!-- Кольцо 1 (R=44) -->
+    <g transform="rotate(0)">
+      <path class="ring" stroke="#3498db" d="M 44,0 A 44,44 0 0,1 0,44" />
+      <path class="ring" stroke="url(#gapGradient)" d="M 0,44 A 44,44 0 0,1 -44,0" />
+      <path class="ray" stroke="#3498db" d="M 44,0 L 100,0" />
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="20s" repeatCount="indefinite" />
+    </g>
+    
+    <!-- Кольцо 2 (R=278) -->
+    <g transform="rotate(72)">
+      <path class="ring" stroke="#e74c3c" d="M 278,0 A 278,278 0 0,1 0,278" />
+      <path class="ring" stroke="url(#gapGradient)" d="M 0,278 A 278,278 0 0,1 -278,0" />
+      <path class="ray" stroke="#e74c3c" d="M 278,0 L 350,0" />
+      <animateTransform attributeName="transform" type="rotate" from="72 0 0" to="432 0 0" dur="25s" repeatCount="indefinite" />
+    </g>
+    
+    <!-- Кольцо 3 (R=294) -->
+    <g transform="rotate(144)">
+      <path class="ring" stroke="#2ecc71" d="M 294,0 A 294,294 0 0,1 0,294" />
+      <path class="ring" stroke="url(#gapGradient)" d="M 0,294 A 294,294 0 0,1 -294,0" />
+      <path class="ray" stroke="#2ecc71" d="M 294,0 L 370,0" />
+      <animateTransform attributeName="transform" type="rotate" from="144 0 0" to="504 0 0" dur="30s" repeatCount="indefinite" />
+    </g>
+    
+    <!-- Кольцо 4 (R=387) -->
+    <g transform="rotate(216)">
+      <path class="ring" stroke="#f39c12" d="M 387,0 A 387,387 0 0,1 0,387" />
+      <path class="ring" stroke="url(#gapGradient)" d="M 0,387 A 387,387 0 0,1 -387,0" />
+      <path class="ray" stroke="#f39c12" d="M 387,0 L 470,0" />
+      <animateTransform attributeName="transform" type="rotate" from="216 0 0" to="576 0 0" dur="35s" repeatCount="indefinite" />
+    </g>
+    
+    <!-- Кольцо 5 (R=402) -->
+    <g transform="rotate(288)">
+      <path class="ring" stroke="#9b59b6" d="M 402,0 A 402,402 0 0,1 0,402" />
+      <path class="ring" stroke="url(#gapGradient)" d="M 0,402 A 402,402 0 0,1 -402,0" />
+      <path class="ray" stroke="#9b59b6" d="M 402,0 L 490,0" />
+      <animateTransform attributeName="transform" type="rotate" from="288 0 0" to="648 0 0" dur="40s" repeatCount="indefinite" />
+    </g>
+  </g>
+</svg>

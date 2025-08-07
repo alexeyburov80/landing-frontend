@@ -1,0 +1,77 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.content-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+
+  h1 {
+    //font-size: 6rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  }
+}
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.content-container {
+  animation: fadeInUp 0.4s ease-out both;
+
+  > div {
+    animation-delay: 0.2s;
+  }
+
+  h2 {
+    animation: fadeInUp 0.5s ease-out 0.3s both;
+
+
+    &::after {
+      content: '';
+      //position: absolute;
+      bottom: -10px;
+      left: 0;
+      animation: fadeInUp 0.5s ease-out 0.5s both;
+    }
+  }
+
+  p {
+    animation: fadeInUp 0.5s ease-out 0.4s both;
+  }
+
+  .contact-info {
+    animation: fadeInUp 0.5s ease-out 0.5s both;
+
+    h3 {
+      animation: fadeInUp 0.5s ease-out 0.6s both;
+    }
+
+    p {
+      animation: fadeInUp 0.5s ease-out 0.7s both;
+    }
+  }
+}
+

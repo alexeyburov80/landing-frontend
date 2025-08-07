@@ -1,0 +1,104 @@
+:host {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  width: auto;
+  height: auto;
+  z-index: 2;
+  @media (max-width: 780px) {
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+  }
+  @media (max-width: 480px) {
+    width: 100%;
+    left: 0;
+  }
+}
+
+.nav {
+  font-family: Arial, sans-serif;
+  font-size: 0.8rem;
+  position: relative;
+  height: 100%; /* Родитель должен иметь высоту */
+}
+
+.nav-list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  height: 100%;
+
+  @media (max-width: 780px) {
+    position: absolute;
+    top: 38px;
+    left: 0;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at center, rgba(47, 49, 54, 0.96), rgba(28, 30, 34, 0.96));
+    padding: 10px 0;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    overflow-y: auto;
+    border-radius: 12px;
+    z-index: 10;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+
+    &.active {
+      opacity: 1;
+      visibility: visible;
+      animation: fadeIn 0.3s ease;
+    }
+  }
+}
+
+
+.nav-item {
+  padding: 15px 25px;
+  cursor: pointer;
+  color: #979797;
+  transition: color 0.3s ease, background-color 0.3s ease;
+
+  &:hover {
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  &.active {
+    font-weight: bold;
+    color: #ffffff;
+    @media(max-width: 780px) {
+      background-color: rgba(255, 255, 255, 0.2);
+    }
+  }
+}
+
+/* Остальные стили остаются без изменений */
+.nav-indicator {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  background-color: #ffffff;
+  transition: all 0.3s ease;
+
+  @media (max-width: 780px) {
+    display: none;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

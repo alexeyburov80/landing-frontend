@@ -1,0 +1,13 @@
+<div class="background">
+  <img ngSrc="/assets/bg.svg" class="animate-bg" height="900" width="900" alt="bg">
+  <div class="content">
+    <!-- Mobile menu button -->
+    <button class="mobile-menu-button" [class.active]="isMenuOpen" (click)="toggleMenu()" aria-label="Toggle menu">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </button>
+    <app-navigation [class.active]="getMenuAvailable()" [class.inactive]="!getMenuAvailable()" [isMenuOpen]="getMenuAvailable()" (toggleChange)="setToggle($event)"></app-navigation>
+    <router-outlet></router-outlet>
+  </div>
+</div>
