@@ -1,0 +1,77 @@
+<div class="contact-form">
+  <h2>Напишите нам</h2>
+
+  <form [formGroup]="contactForm" (ngSubmit)="onSubmit()" class="form">
+    <!-- Name Field -->
+    <div class="form-group">
+      <input
+        type="text"
+        id="name"
+        formControlName="name"
+        placeholder="Как к Вам обращаться"
+        class="form-control"
+        [ngClass]="{ 'is-invalid': name.invalid && (name.dirty || name.touched) }"
+      >
+      <div *ngIf="name.invalid && (name.dirty || name.touched)" class="invalid-feedback">
+        <div *ngIf="name.errors?.['required']">Это поле обязательно</div>
+      </div>
+    </div>
+
+    <!-- Contacts Array -->
+    <div formArrayName="contacts">
+      <div *ngFor="let contact of contacts.controls; let i = index" [formGroupName]="i" class="contact-item">
+        <div class="form-group">
+          <div class="input-group">
+            <input
+              type="text"
+              formControlName="value"
+              placeholder="Ваши контакты ({{i + 1}})"
+              class="form-control"
+              [ngClass]="{ 'is-invalid': contact.get('value')?.invalid && (contact.get('value')?.dirty || contact.get('value')?.touched) }"
+            >
+            <button
+              type="button"
+              class="btn btn-danger"
+              (click)="removeContact(i)"
+              *ngIf="contacts.controls.length > 1"
+            >
+              Удалить
+            </button>
+          </div>
+          <div *ngIf="contact.get('value')?.invalid && (contact.get('value')?.dirty || contact.get('value')?.touched)" class="invalid-feedback">
+            <div *ngIf="contact.get('value')?.errors?.['required']">Это поле обязательно</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Add Contact Button -->
+    <div class="form-group">
+      <button type="button" class="btn btn-secondary" (click)="addContact()">
+        Добавить контакт
+      </button>
+    </div>
+
+    <!-- Description Field -->
+    <div class="form-group">
+      <textarea
+        id="description"
+        formControlName="description"
+        rows="4"
+        placeholder="Кратко опишите вопрос"
+        class="form-control"
+        [ngClass]="{ 'is-invalid': description.invalid && (description.dirty || description.touched) }"
+      ></textarea>
+      <div *ngIf="description.invalid && (description.dirty || description.touched)" class="invalid-feedback">
+        <div *ngIf="description.errors?.['required']">Это поле обязательно</div>
+      </div>
+    </div>
+
+    <!-- Submit Button -->
+    <div class="form-group">
+      <button type="submit" class="btn btn-primary" [disabled]="contactForm.invalid">
+        Отправить
+      </button>
+    </div>
+  </form>
+</div>
