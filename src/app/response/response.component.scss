@@ -1,24 +1,21 @@
 .contact-form {
   max-width: 600px;
   margin: 70px auto 0 auto;
-
-  /* Скрываем скролл, но сохраняем возможность прокрутки */
   overflow-y: auto;
   overflow-x: hidden;
   max-height: 88%;
 
-  /* Стили для скрытия скроллбара в разных браузерах */
+  /* Скрытие скроллбара для всех браузеров */
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none; /* IE и Edge */
 
-  /* WebKit (Chrome, Safari) */
+  /* WebKit (Chrome, Safari, Opera) */
   &::-webkit-scrollbar {
     display: none;
     width: 0;
     height: 0;
     background: transparent;
   }
-
 
   h2 {
     margin-bottom: 20px;
@@ -27,6 +24,8 @@
 
   .form {
     margin: 0 24px;
+    padding-bottom: 20px; /* Добавляем отступ снизу */
+
     .form-group {
       margin-bottom: 20px;
 
@@ -37,7 +36,9 @@
       }
 
       .form-control {
-        width: -webkit-fill-available;
+        width: 100%; /* Заменяем -webkit-fill-available на стандартное решение */
+        width: -moz-available; /* Для Firefox */
+        box-sizing: border-box; /* Учитываем padding и border в ширине */
         border: 1px solid #ced4da;
         padding: 8px;
         border-radius: 4px;
@@ -121,9 +122,33 @@
 
       .input-group {
         display: flex;
+        width: 100%; /* Гарантируем, что группа не выйдет за пределы экрана */
+        overflow: hidden; /* Скрываем возможное переполнение */
 
         .form-control {
           flex: 1;
+          min-width: 0; /* Фикс для переполнения flex-элементов */
+        }
+      }
+    }
+  }
+}
+
+/* Медиа-запрос для мобильных устройств */
+@media (max-width: 768px) {
+  .contact-form {
+    margin: 20px auto 0 auto;
+    max-height: 90%;
+
+    .form {
+      margin: 0 15px;
+
+      .input-group {
+        flex-direction: column; /* Меняем направление flex на мобильных */
+
+        .form-control {
+          width: 100%;
+          margin-bottom: 10px;
         }
       }
     }

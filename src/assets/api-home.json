@@ -6,7 +6,7 @@
     "socials": [
       {
         "name": "telegram",
-        "href": "https://t.me/ulpostru",
+        "href": "https://t.me/BR_parsing",
         "icon": "assets/telegram.svg"
       },
       {
@@ -16,9 +16,15 @@
       },
       {
         "name": "vk",
-        "href": "https://t.me/ulpostru",
+        "href": "https://vk.com/BR_parsing",
         "icon": "assets/vk.svg"
+      },
+      {
+        "name": "zen",
+        "href": "https://dzen.ru/br_parsing",
+        "icon": "assets/zen.svg"
       }
+
     ]
   }
 }
