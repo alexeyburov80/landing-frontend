@@ -1,6 +1,7 @@
 import {Component, EventEmitter, Inject, Input, OnDestroy, OnInit, Output, PLATFORM_ID} from '@angular/core';
 import {CommonModule, isPlatformBrowser} from '@angular/common';
-import { Router } from '@angular/router';
+import { Router, NavigationEnd } from '@angular/router';
+import { filter } from 'rxjs/operators';
 
 @Component({
   selector: 'app-navigation',
@@ -10,21 +11,45 @@ import { Router } from '@angular/router';
 })
 export class NavigationComponent implements OnInit, OnDestroy {
   private timerId!: any;
+  private routerSubscription: any;
   @Input() isMenuOpen = false;
   @Output() toggleChange = new EventEmitter();
   navItems = [
-    { label: 'ГЛАВНАЯ', isActive: true, url: '/' },
-    { label: 'ПРОДУКТЫ', isActive: false, url: 'products' },
-    { label: 'КОНТАКТЫ', isActive: false, url: 'contact' },
-    { label: 'ОТКЛИК', isActive: false, url: 'response' },
-    { label: 'РЕКВИЗИТЫ', isActive: false, url: 'requisites' }
+    { label: 'ГЛАВНАЯ', isActive: false, url: '/' },
+    { label: 'ПРОДУКТЫ', isActive: false, url: '/products' },
+    { label: 'КОНТАКТЫ', isActive: false, url: '/contact' },
+    { label: 'ОТКЛИК', isActive: false, url: '/response' },
+    { label: 'РЕКВИЗИТЫ', isActive: false, url: '/requisites' }
   ];
+
   constructor(private router: Router,
               @Inject(PLATFORM_ID) private platformId: any) {
   }
 
   ngOnInit() {
+    this.initializeActiveItem();
     this.timerId = setTimeout(() => this.updateIndicatorPosition(), 0);
+
+    this.routerSubscription = this.router.events
+      .pipe(filter(event => event instanceof NavigationEnd))
+      .subscribe(() => {
+        this.initializeActiveItem();
+        this.updateIndicatorPosition();
+      });
+  }
+
+  initializeActiveItem() {
+    const currentUrl = this.router.url;
+    this.navItems.forEach(item => {
+      item.isActive = item.url === currentUrl;
+    });
+
+    if (currentUrl === '/' || currentUrl === '') {
+      this.navItems[0].isActive = true;
+      this.navItems.forEach((item, index) => {
+        if (index !== 0) item.isActive = false;
+      });
+    }
   }
 
   selectItem(selectedItem: any) {
@@ -57,6 +82,9 @@ export class NavigationComponent implements OnInit, OnDestroy {
   ngOnDestroy(): void {
     if (this.timerId) {
       clearTimeout(this.timerId);
+    }
+    if (this.routerSubscription) {
+      this.routerSubscription.unsubscribe();
     }
   }
 }
