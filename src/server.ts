@@ -4,64 +4,63 @@ import {
   isMainModule,
   writeResponseToNodeResponse,
 } from '@angular/ssr/node';
-import express, { Request, Response, NextFunction, ErrorRequestHandler } from 'express';
-import { join } from 'node:path';
-import { existsSync } from 'node:fs';
+import express from 'express';
+import { dirname, resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-const browserDistFolder = join(process.cwd(), 'dist/landing/browser');
-
-if (!existsSync(browserDistFolder)) {
-  throw new Error(`Browser dist folder not found: ${browserDistFolder}`);
-}
+const serverDistFolder = dirname(fileURLToPath(import.meta.url));
+const browserDistFolder = resolve(serverDistFolder, '../browser');
 
 const app = express();
 const angularApp = new AngularNodeAppEngine();
 
-// Базовые middleware
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
+/**
+ * Example Express Rest API endpoints can be defined here.
+ * Uncomment and define endpoints as necessary.
+ *
+ * Example:
+ * ```ts
+ * app.get('/api/**', (req, res) => {
+ *   // Handle API request
+ * });
+ * ```
+ */
 
-// Статические файлы
-app.use(express.static(browserDistFolder, {
-  maxAge: '1y',
-  index: false,
-  redirect: false
-}));
+/**
+ * Serve static files from /browser
+ */
+app.use(
+  express.static(browserDistFolder, {
+    maxAge: '1y',
+    index: false,
+    redirect: false,
+  }),
+);
 
-// Обработчик Angular SSR
-app.use((req: Request, res: Response, next: NextFunction) => {
-  console.log(`Handling: ${req.url}`);
-
-  angularApp.handle(req)
-    .then((response) => {
-      if (response) {
-        writeResponseToNodeResponse(response, res);
-        return; // Явный возврат
-      }
-      next();
-      return; // Явный возврат
-    })
-    .catch((err: Error) => {
-      console.error('SSR Error:', err);
-      next(err);
-      return; // Явный возврат
-    });
+/**
+ * Handle all other requests by rendering the Angular application.
+ */
+app.use('/**', (req, res, next) => {
+  angularApp
+    .handle(req)
+    .then((response) =>
+      response ? writeResponseToNodeResponse(response, res) : next(),
+    )
+    .catch(next);
 });
 
-// Обработчик ошибок
-const errorHandler: ErrorRequestHandler = (err: Error, req: Request, res: Response, next: NextFunction) => {
-  console.error('Server error:', err);
-  res.status(500).send('Internal Server Error');
-  return; // Явный возврат
-};
-app.use(errorHandler);
-
-// Старт сервера
+/**
+ * Start the server if this module is the main entry point.
+ * The server listens on the port defined by the `PORT` environment variable, or defaults to 4000.
+ */
 if (isMainModule(import.meta.url)) {
   const port = process.env['PORT'] || 4000;
   app.listen(port, () => {
-    console.log(`Server running on http://localhost:${port}`);
+    console.log(`Node Express server listening on http://localhost:${port}`);
   });
 }
 
+/**
+ * Request handler used by the Angular CLI (for dev-server and during build) or Firebase Cloud Functions.
+ */
 export const reqHandler = createNodeRequestHandler(app);

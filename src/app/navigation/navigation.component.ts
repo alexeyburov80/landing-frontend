@@ -16,7 +16,8 @@ export class NavigationComponent implements OnInit, OnDestroy {
     { label: 'ГЛАВНАЯ', isActive: true, url: '/' },
     { label: 'ПРОДУКТЫ', isActive: false, url: 'products' },
     { label: 'КОНТАКТЫ', isActive: false, url: 'contact' },
-    { label: 'ОТКЛИК', isActive: false, url: 'response' }
+    { label: 'ОТКЛИК', isActive: false, url: 'response' },
+    { label: 'РЕКВИЗИТЫ', isActive: false, url: 'requisites' }
   ];
   constructor(private router: Router,
               @Inject(PLATFORM_ID) private platformId: any) {
