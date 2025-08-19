@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "Телефон",
+      "text": "+7 969 521 4640",
+      "link": "tel:+79695214640"
+    },
+    {
+      "name": "Телеграм",
+      "text": "+7 969 521 4640",
+      "link": "https://t.me/+79695214640"
+    },
+    {
+      "name": "E-mail",
+      "text": "br_parsing@mail.ru",
+      "link": "mailto:br_parsing@mail.ru"
+    }
+  ]
+}

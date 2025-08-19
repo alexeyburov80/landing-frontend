@@ -1,5 +1,5 @@
 <div class="contact-form">
-  <h2>Напишите нам</h2>
+  <h1>НАПИШИТЕ НАМ</h1>
 
   <form [formGroup]="contactForm" (ngSubmit)="onSubmit()" class="form">
     <!-- Name Field -->
@@ -75,3 +75,4 @@
     </div>
   </form>
 </div>
+<app-loading *ngIf="isLoading" [text]="'Подождите, идет обработка отклика...'"></app-loading>

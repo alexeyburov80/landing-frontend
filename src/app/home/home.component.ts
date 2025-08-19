@@ -17,8 +17,4 @@ export class HomeComponent {
   constructor(private router: Router, private api: ApiService) {
     this.data$ = this.api.getHome();
   }
-
-  navigateTo(route: string) {
-    this.router.navigate([route]);
-  }
 }

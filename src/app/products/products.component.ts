@@ -1,16 +1,17 @@
 import {AfterViewInit, Component, CUSTOM_ELEMENTS_SCHEMA, Inject, OnDestroy, PLATFORM_ID} from '@angular/core';
-import {AsyncPipe, isPlatformBrowser, NgForOf} from '@angular/common';
+import {AsyncPipe, isPlatformBrowser, NgForOf, NgIf} from '@angular/common';
 import {Observable} from 'rxjs';
 import {ApiService} from '../services/api.service';
 import {JsonViewerComponent} from '../json-viewer/json-viewer.component';
 import {register} from 'swiper/element/bundle';
+import {LoadingComponent} from '../loading/loading.component';
 
 register();
 
 
 @Component({
   selector: 'app-products',
-  imports: [NgForOf, JsonViewerComponent, AsyncPipe],
+  imports: [NgForOf, JsonViewerComponent, AsyncPipe, NgIf, LoadingComponent],
   templateUrl: './products.component.html',
   schemas: [CUSTOM_ELEMENTS_SCHEMA],
   styleUrl: './products.component.scss',
@@ -18,6 +19,7 @@ register();
 export class ProductsComponent implements AfterViewInit, OnDestroy {
   productItems$: Observable<any[]>;
   private timerId!: any;
+  isLoading = false;
 
   constructor(@Inject(PLATFORM_ID) private platformId: any,
               private api: ApiService) {
@@ -69,5 +71,9 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
     if (this.timerId) {
       clearTimeout(this.timerId);
     }
+  }
+
+  getJSON(title: string) {
+
   }
 }

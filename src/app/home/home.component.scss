@@ -13,6 +13,7 @@
     margin-left: auto;
     font-size: 14px;
     text-align: right;
+    white-space: pre-line;
     @media(max-width: 780px) {
       font-size: 12px;
       max-width: 50%;
@@ -24,6 +25,7 @@
     max-width: 320px;
     font-size: 14px;
     text-align: left;
+    white-space: pre-line;
     @media(max-width: 780px) {
       font-size: 12px;
       max-width: 50%;

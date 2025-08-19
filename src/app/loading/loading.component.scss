@@ -1,0 +1,30 @@
+.loading-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0.6); /* или другой сплошной фон */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+
+
+.loading-spinner {
+  width: 120px;
+  height: 120px;
+  transform: scaleX(-1);
+  animation: spin 12s linear infinite;
+}
+@keyframes spin {
+  to {
+    transform: scaleX(-1) rotate(360deg);
+  }
+}

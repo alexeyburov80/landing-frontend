@@ -11,10 +11,11 @@
         <h4>{{ item.title }}</h4>
         <app-json-viewer class="json-viewer" [jsonData]="item.data"></app-json-viewer>
         <div class="button-container">
-          <button>{{ 'Скачать JSON' }}</button>
+          <button (click)="getJSON(item.file)">{{ 'Скачать JSON' }}</button>
           <button>{{ 'Скачать EXCEL' }}</button>
         </div>
       </div>
     </swiper-slide>
   </swiper-container>
 </div>
+<app-loading *ngIf="isLoading" [text]="'Подождите, идет загрузка...'"></app-loading>

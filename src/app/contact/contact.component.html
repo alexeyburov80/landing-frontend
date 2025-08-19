@@ -1,16 +1,13 @@
 <div class="content-container">
   <div>
     <h1>КОНТАКТЫ</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <p>Напишите нам для быстрого ответа</p>
 
-    <div class="contact-info">
-      <h3>Address</h3>
-      <p>Hill beevil, in borsus, fermentum eros imperdunt.<br>
-        Sincerentes cursus</p>
-
-      <h3>E-mail</h3>
-      <p>{{ 'sint@email.com' }}</p>
+    <div class="contact-info" *ngIf="contactItems$ | async as contacts">
+      <ng-container *ngFor="let contact of contacts">
+        <h3>{{ contact.name }}</h3>
+        <a [href]="contact.link" class="contact">{{ contact.text }}</a>
+      </ng-container>
     </div>
   </div>
 </div>
