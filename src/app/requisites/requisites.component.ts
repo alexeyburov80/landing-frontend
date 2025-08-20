@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-requisites',
   imports: [],
   templateUrl: './requisites.component.html',
-  styleUrl: './requisites.component.css'
+  styleUrl: './requisites.component.scss'
 })
 export class RequisitesComponent {
 
