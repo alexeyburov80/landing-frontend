@@ -1,0 +1,3456 @@
+[{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b0a"
+  },
+  "name": "",
+  "price": 0,
+  "img-ref": "",
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b0b"
+  },
+  "name": "Компьютер  iRU Game 310H6GE,  Intel  Core i5  12400F,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/CCWcTazKp2kfEbLWjMQi5Sf_gvmC6o9i6BYl9ZJw4Yo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0f35abe5-a0ca-42d6-a200-232a76c551fc.jpg",
+  "price": 66190,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b0c"
+  },
+  "name": "Неттоп  Dell Optiplex 7010,  Intel  Core i5  13500T,  DDR4 8ГБ, 256ГБ,  Linux,  черный",
+  "img": "https://cdn.citilink.ru/P7XBrpU4Y6MkD-qek0UyuGGksyhwf3mi8oneK-P7Uxw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c71b1d9a-51c6-42f2-be6e-23f88e47c41f.jpg",
+  "price": 65990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b0d"
+  },
+  "name": "Компьютер  iRU Game 310H6GE,  Intel  Core i5  12400F,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/x1hIMhTtZtUqAvlp8AGI7WsgHBA8zwLU0gN5tq9Wr0w/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8ab8c115-aaac-4e24-b9e3-43965aa69419.jpg",
+  "price": 75990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b0e"
+  },
+  "name": "Компьютер  iRU Опал 515,  Intel  Core i5  10400,  DDR4 32ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/p5A3ThiXAw9AIEfOz5rmIHz_5ErDoFvDijCxCUQucUE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/9ff9b247-26f9-4cdc-85b0-5b45fdc4fa2e.jpg",
+  "price": 96930,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b0f"
+  },
+  "name": "Неттоп  DIGMA PRO Minimax U1,  Intel  Core i3  1215U,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  темно-серый и черный",
+  "img": "https://cdn.citilink.ru/T5TPTbydqpHPVs88GZ0Rez_UqwHWS9TcfaKjxIjYhjQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/98065379-9f56-44b0-8e56-81cde21630a6.jpg",
+  "price": 31990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b10"
+  },
+  "name": "Мини ПК  CHUWI UBox AMD  Ryzen 5  6600H,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  белый и черный",
+  "img": "https://cdn.citilink.ru/Zht0CiDZiKGNsx1qs0s8lxhUySmkqHmRvqLVctkfiU8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f46d47d8-b61b-4855-9227-3ce2f115b818.jpg",
+  "price": 36990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b11"
+  },
+  "name": "Неттоп  Acer Gadget ETBox X,  Intel  Core i3  1220P,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный и серый",
+  "img": "https://cdn.citilink.ru/34jIpi6zn3JxxNGaaihgvqkwPyziGX2NrEYabyZOzW8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f73b0fb5-b8ae-4581-b2d1-e07e2dd914a3.jpg",
+  "price": 39990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b12"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/qlc34BnYi8WnK4f_FKda27hnGiTH21Kwsw4cQW31GoQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/be32dfdd-dfde-4e9d-99d4-d45314235a16.jpg",
+  "price": 31290,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b13"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i5  12400,  DDR4 32ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/wskdl81YVVcUiCLSMpUk0gB2omj0Io4hQ6Fd4i-4bOo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b9af9032-bf96-414f-b20b-534c8ef72b2c.jpg",
+  "price": 40490,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b14"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3 Ultra,  Intel  Core i7  14700,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/wf2IGTuoXZuUgR4R9kpIYl_izPGaHpN1WZbYI3BmY6g/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ffb58c30-07f0-4933-b9aa-d15954a6f102.jpg",
+  "price": 339990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b15"
+  },
+  "name": "Рабочая станция  Dell Precision 3260 Compact,  Intel  Core i5  13500,  DDR5 16ГБ, 1ТБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/a1IKHAvJO6KDhZPQLPEIXFb2KBawYXk85aBj8MzB_Kg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2aaa7494-0ce2-4ce3-8406-02eb4885983c.jpg",
+  "price": 151990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b16"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/x2TKW_d0HfS-SabsyE_rbbFdUni2g_ipdC6KBr6uKjQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/62b9105b-f0ff-4f6b-9a9f-c11875d980cb.jpg",
+  "price": 38090,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b17"
+  },
+  "name": "Неттоп  MSI Cubi N ADL-016BRU,  Intel  N200,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/83DZU25ZQouwEF2-E75_RzXDMOe66JimwndLSPz9ZU4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/97097abf-1b9d-4232-97c4-047eaba6e6e2.jpg",
+  "price": 27990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b18"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/IfhLWShklllUZxdVvkRkW0TnuFi6oPlwhPHwXOhz9-4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b1bbf79d-d874-4e4f-b1a5-4fd95f5f5109.jpg",
+  "price": 51990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b19"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3 Ultra,  Intel  Core i7  13700,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/c6hX3tjH3BsWcl27x7W1b0AaLVCsijiIhb6HTPky-3I/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/768481fa-e5b9-4c68-9d11-d5a38f865684.jpg",
+  "price": 289990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b1a"
+  },
+  "name": "Компьютер  iRU Game 510H6SEA,  Intel  Core i3  12100F,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/Sty2Qs8F5aCQHGVry20gmvuVEy504rXcQ2Ef_GqWirM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/58a64946-b11e-455b-90df-083ecae7cb1b.jpg",
+  "price": 57490,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b1b"
+  },
+  "name": "Неттоп  ASUS PL64-S3212MN,  Intel  Core i3  1215U,  DDR4 8ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/Tp7vUN-Qdm3KWm3NyPFl7q5JS_IAcGgAmo7FVVGSzQ8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0f27481e-e1e2-4bfc-b856-c4288af64a43.jpg",
+  "price": 55990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b1c"
+  },
+  "name": "Компьютер  iRU Game 510H6SEA,  Intel  Core i5  12400F,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/KN0-1BkfH7r4b45-ZKBXCYTc7o3pcbIwELLOVX0ELXI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/13007f49-57a0-4368-b4fd-5f46201ae0be.jpg",
+  "price": 66190,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b1d"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3 Ultra,  Intel  Core i7  14700,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/B36QEQvPFzJhjPFOZ_sXWnYhzxL5ZCgc6CQydwgSI4A/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/e9d5e4da-bd20-4889-8ac9-969dabc1f9c0.jpg",
+  "price": 250990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b1e"
+  },
+  "name": "Неттоп  Acer Gadget E10 ETBox,  Intel  Core i5  12450H,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/lDbR1JuGGws3BG5dRzTuW-Is5I7vXwTywERtPLNHtYg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/609fb161-7def-4f8d-a5f1-66a8a8851ba0.jpg",
+  "price": 49990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b1f"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3 Ultra,  Intel  Core i9  13900,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/FxxhrA0bqYUvbtaiMxrlu-eSTVtlplqP7uVxVOuv6u0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/978bea3d-c636-4ec4-b480-910f7bda80f3.jpg",
+  "price": 288990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b20"
+  },
+  "name": "Неттоп  CHUWI LarkBox X Intel  N100,  LPDDR5 12ГБ, 512ГБ,  Windows 11 Professional,  черный и белый",
+  "img": "https://cdn.citilink.ru/qRLCJ076kFvyHDymFuf2VsTejyj8a7V_45JZHk4FlIE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/7d566250-e9a7-49ea-ac7a-0a5aa8ead22d.jpg",
+  "price": 21990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b21"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3 Ultra,  Intel  Core i7  13700,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/4shUuyeFYDwMD01rBUrx0qauhNh50Tut9kMoeHaT-QI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b10208fd-f341-402c-8827-3d744f787ccf.jpg",
+  "price": 244990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b22"
+  },
+  "name": "Мини ПК  CHUWI CoreBox Intel  Core i5  12450H,  LPDDR5 16ГБ, 512ГБ,  Windows 11 Professional,  серый",
+  "img": "https://cdn.citilink.ru/F_B_ywVFxXOIFLYTJPbRImMWuVbaIQm13c48jWd6Eps/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/fc19d241-d8b5-4ff7-ab6b-ebd9d784cd66.jpg",
+  "price": 41990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b23"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-227XRU,  Intel  Core i5  1235U,  DDR4 16ГБ, 512ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/yk_TLVgXdJZESnM4Fj-0xwmEqg1G4W_WeKvrC8DcyL8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/26f8b244-6eb7-409b-afdb-664e2c712ce8.jpg",
+  "price": 51990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b24"
+  },
+  "name": "Неттоп  CHUWI HeroBox Intel  N100,  LPDDR5 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/wQcZ4SiDHj4ioQWGYuswAfMAWJj4rGCa24PMvd9SRu4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6aab6c71-503d-4242-b34e-a0ee105b4b8c.jpg",
+  "price": 19990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b25"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3 Ultra,  Intel  Core i7  14700,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/G-sAUsOsLEspkMUCIo1yP_WzUWhIoGdVJYw3IAnnIrA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/38828172-32b2-4a4c-b248-eb68078a6d3e.jpg",
+  "price": 289990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b26"
+  },
+  "name": "Неттоп  DIGMA PRO Minimax X1,  Intel  Core i5  12450H,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  серый",
+  "img": "https://cdn.citilink.ru/1EZbfQEYPyb8uWGoh9c0FaJVH7-1fsQWkZc0Kgq-1xM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/3a4a301b-db04-43e4-b1f7-c48985f4efd8.jpg",
+  "price": 41990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b27"
+  },
+  "name": "Неттоп  DIGMA PRO Minimax U1,  Intel  Core i5  1235U,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  темно-серый и черный",
+  "img": "https://cdn.citilink.ru/xGQCaoXX-GC0THnNmWTbYxrCx0-5ft6stDGmO0zqFks/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/50a4e6fb-668d-4a13-aa56-4a08861398d2.jpg",
+  "price": 37990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b28"
+  },
+  "name": "Мини ПК  CHUWI AuBox AMD  Ryzen 9  6900HX,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  серебристый и черный",
+  "img": "https://cdn.citilink.ru/eDRGAlA3QMvmCQqsr-KREchapD6f_KMB6y98CYu9-9k/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/78483afa-4f5c-4102-97c1-85fc74f2a011.jpg",
+  "price": 51990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b29"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3t,  Intel  Core i7  13700K,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/iS8rTN_8MHQS2qvUJfVrxKqMmDBieW2OSLtASIZXQQs/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8d517e00-7640-4b50-b959-dffcb76778fe.jpg",
+  "price": 221990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b2a"
+  },
+  "name": "Неттоп  iRU 515ALC,  Intel  Core i5  12450H,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/bMXBoyQ7d58eyWwyxwYsfxGL16vztsNdf-1g7aPDJMQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/33895ffc-588d-4fe1-b3a3-c64c57e7ec12.jpg",
+  "price": 40890,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b2b"
+  },
+  "name": "Компьютер  Dell Optiplex 7010 PLUS,  Intel  Core i7  13700,  DDR5 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/yNDoAVQHwM48yLTmiqbeRhE-o0jvFc0RvT4YZ9SGzLM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/035e585b-6bef-4866-91ab-4805787b7d93.jpg",
+  "price": 108990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b2c"
+  },
+  "name": "Компьютер  iRU Game 510B7GS,  Intel  Core i5  12400F,  DDR4 32ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/LkZ7DXZxGVEPj1mYB4Uv-z8fF8umUiX0pkXDHfe2oo0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4e4dfa8b-bfa9-48c4-ac5d-6713ae00c90a.jpg",
+  "price": 88990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b2d"
+  },
+  "name": "Неттоп  iRU 110JLCN,  Intel  Celeron  N5105,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/8zAKFQPCm9MP7ftjn9s6Ob4tPoxElVR810W3y8FhfPU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f0fe5df6-83a3-41b2-8ff2-36a6430a2b90.jpg",
+  "price": 17390,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b2e"
+  },
+  "name": "Компьютер  iRU Home 310H6SM,  Intel  Core i5  12400,  DDR4 16ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/2J0VlaLRyDj8rkICTlIhlcBf4EcnGpPXqSPBPNFZajc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b93b47be-e22d-4ca7-aedc-fe2de4527f5f.jpg",
+  "price": 38590,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b2f"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3 Ultra,  Intel  Core i9  13900K,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/YOvkVR8IL5ZJWxGmbIxiubh2s_KQ0kQiVCYhyK9n5c4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/067b6f8f-8d52-486b-8570-b12571b94ed6.jpg",
+  "price": 322990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b30"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3t,  Intel  Core i7  13700,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/kKO5eemP5rx3DucXwsOW0P0ce-oSNLiKVUZ547I5sCw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6e60dc84-5461-459d-bd6d-a8396461b538.jpg",
+  "price": 218990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b31"
+  },
+  "name": "Компьютер  iRU Game 520B5G,  AMD  Ryzen 5  5600,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/Tcgv9-rXp1hyE-jBKd7dWV9ojX8xrndOfWcWmMVAUcY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/71d3bde2-187c-4fa6-b974-3c5ec35fce20.jpg",
+  "price": 83690,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b32"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3 Ultra,  Intel  Core i9  14900,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/v00fR9dOlFo5TplCrB_ueVoapI52zqP1Z-rMB1cznrE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/522d3963-e4c5-4668-9195-13237745e2ba.jpg",
+  "price": 288990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b33"
+  },
+  "name": "Неттоп  MSI Pro DP21 13M-631XRU,  Intel  Core i5  13400,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/2m0TwfXPgxjJhzYAWnsU6ZXIgzHbepujqe0baq6tO3Q/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0161c707-915f-47c3-90ef-607f614c3ee5.jpg",
+  "price": 65990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b34"
+  },
+  "name": "Компьютер  MSI Trident AS 14NUE5-691XRU,  Intel  Core i5  14400F,  DDR5 32ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/ogl1krAXokaWUL7yRDXxwjvFYn322wJ_yTWHzVo-4Go/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ed420616-0297-4376-8cb2-7e695939bf07.jpg",
+  "price": 189990,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b35"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3 Ultra,  Intel  Core i7  13700,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/5F50i6ZoMD1yaWubN_vzYrrGuEm3pt6VCJj5n8bhetk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/de07f485-fff9-447d-9080-fd3bcb43678e.jpg",
+  "price": 248990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b36"
+  },
+  "name": "Компьютер  iRU Game 320A5GE,  AMD  Ryzen 5  5500,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/NE2o4Rcm2ZGE7VQeTbcCUucAahfF6JgqcYIRxadDr2c/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/41cbc1d2-f024-4c64-adee-429b6a182d77.jpg",
+  "price": 62590,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b37"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3 Ultra,  Intel  Core i7  14700K,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/Hkrc1eKdoS8PHPG-tBe87xWgT_0pAEMP1TXcdYhfbq4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/09b9b2bf-96d5-4d12-acb3-1f2c40a1e468.jpg",
+  "price": 258990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b38"
+  },
+  "name": "Неттоп  Digma Mini Office,  Intel  Celeron  N4020,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/PrX5Qbglca7t5IsLYITnQNDpSiF0XkuiInT0BGsu2mY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/04ed5086-5650-4956-bf2f-dae39cc2b3da.jpg",
+  "price": 17990,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b39"
+  },
+  "name": "Неттоп  Digma Mini Office,  Intel  Celeron  N4020,  DDR4 4ГБ, 128ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/pDrxI9t8cJ1GwDcOkmmkQS86kYm18g_vgrwYnzhQFH8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/babdedfd-91c5-4d81-be59-59f838366bd4.jpg",
+  "price": 14990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b3a"
+  },
+  "name": "Неттоп  MSI Pro DP21 13M-085BRU,  Intel  Core i5  13400,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/ARL06DJxKOyV_zry-IHEz9kKndU-hz9Ti__U9Sa_Ujw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d3a8e186-b266-4d8a-8446-0712fc21cecc.jpg",
+  "price": 51990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b3b"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Core i3  12100,  DDR4 16ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/fY8NpQ4crYIk8IwTT6YTCRGxPOyKefB2GgdthOlvrvM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d52238d2-d3fb-4cb3-98ee-55b0d295c793.jpg",
+  "price": 45090,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b3c"
+  },
+  "name": "Неттоп  MSI Pro DP21 13M-624XRU,  Intel  Core i5  13400,  DDR4 8ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/fRS-g0h1oYpLdNzg2ZwYQ7MQrfUaB91rArvR0Opa9zM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d188060d-4d1b-459b-b1e9-a59af034b386.jpg",
+  "price": 53990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b3d"
+  },
+  "name": "Компьютер  iRU Home 310H6SM,  Intel  Pentium Gold  G7400,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/mcshrylePqxRktrNFiYaemcBePpXUZFSOZHIO7wfKAI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b63e8f88-d934-445b-b984-f9bd14737200.jpg",
+  "price": 27790,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b3e"
+  },
+  "name": "Неттоп  iRU 110JLCN,  Intel  Celeron  N5105,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/9whYcfBA1pj7U8-4BKp4D0H99BXgHL7mXmiI0obQ43o/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6d8d716b-22dd-487b-b660-bcb7264e7a67.jpg",
+  "price": 17990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b3f"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i3  12100,  DDR4 16ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/1pRyo3MZkbl_NwzAnmdrXFosCDwFZ9jOrNW1lsQQadY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/65f8c47e-b5ed-46c5-aee5-b8cd6e27d9f5.jpg",
+  "price": 33290,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b40"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3t,  Intel  Core i7  13700,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/aqZC1DcTzB2TO7Zj7BYkMBpwTAMmBICuWNeoSlSIDhY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6b13a1b4-7d2a-4588-a499-3a36a271b2b3.jpg",
+  "price": 213990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b41"
+  },
+  "name": "Компьютер  TECLAST G01,  Intel  Core i5  14400,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/W3r2sv5pRlGlpqZRgF6YF_b6qjxORt_YV5M4-Eo5Vj8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/70275e92-a672-4540-adf5-217290f897fb.jpg",
+  "price": 125990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b42"
+  },
+  "name": "Неттоп  iRU Office 310H5PTF,  Intel  Core i5  11400,  DDR4 16ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/tKZDSzYi-x-yqVj2pfpJvRYt3CJhe1DUtG6x0juoZTE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4c94bd66-ef85-43f9-9028-b27a0a2bd808.jpg",
+  "price": 53400,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b43"
+  },
+  "name": "Компьютер  iRU Game 510B7GM,  Intel  Core i5  12400F,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/d3lWprp8d_9_ImCY4dVcEgT8OEOfSRlp3Zwa-SmZ1T4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/dadc4614-a13f-44ed-97c6-477b5c553974.jpg",
+  "price": 93290,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b44"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i5  13400,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/p-pvDn3rquPUUYKeBCER2hhtyz_tn8SSh8OEDNUPJNs/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/3b569ee9-512e-4540-9eb0-84929b64af59.jpg",
+  "price": 44090,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b45"
+  },
+  "name": "Неттоп  iRU 110ALCN,  Intel  N100,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/A-WOFdmhKczXj4pMhFu3KAMoysHpIQkjYqLJ9DKfVLQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/981dc157-af29-44f0-8c6c-514639ded38c.jpg",
+  "price": 19490,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b46"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/YOt05z4g3iXIPLLE9bSg9EJ_yQfSViMflJqPGP10FVg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d3781a2e-970d-48ff-b204-62e38cd8c352.jpg",
+  "price": 42990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b47"
+  },
+  "name": "Компьютер  iRU Home 310H6SM,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/x7yIQsMcG8xmHELf_y-epSQ8JZrApPX9FguKuY8hTms/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d5ff3dac-20cf-466f-b897-fd005b370eac.jpg",
+  "price": 31290,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b48"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/eSIVHVKXa0itknLBBgc3I8edIsm0zLwyZ46xAQe1opI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/e2e627e9-b10d-4d0f-8ef5-c48a9ca470fd.jpg",
+  "price": 37990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b49"
+  },
+  "name": "Неттоп  CHUWI LarkBox S Intel  Core i3  1220P,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  серый и черный",
+  "img": "https://cdn.citilink.ru/WWf0YqeWO1pJ9rzwNvR7L4KfQyoajyMQV_f-qKMZwZs/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/5990f109-e357-4dfc-ab26-8f9a4a418315.jpg",
+  "price": 35990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b4a"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i5  12400,  DDR4 16ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/tBZUr38GryxCPi4tFTc-b-H6jm-r1Hxumyflm_28H3k/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/00f9f331-7639-4d1e-aaef-c9ce1b6a09d5.jpg",
+  "price": 39090,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b4b"
+  },
+  "name": "Компьютер  iRU Game 510B7GM,  Intel  Core i5  12400F,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/4PGJZuKEZl-y-Y9c91PTFuqrzVBTWRwxFkC-Hr5yd_0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/a07c21f8-c164-40d6-a7b8-419ff4990d7c.jpg",
+  "price": 84200,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b4c"
+  },
+  "name": "Компьютер  iRU Game 510B7GS,  Intel  Core i5  13400F,  DDR4 32ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/FTs0ExDUxYcFvtKbcJFlkLewQTX4z6CSLNetOnXPmoY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ff87d6c2-dd9c-4342-afc5-59669cb229ca.jpg",
+  "price": 103490,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b4d"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/wEYqO-xipl5TC88RtGfG_Dbt-QJqEqu3k4iwg-W9nT8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/df1982bf-0ad2-4a58-9302-78cde4a49e92.jpg",
+  "price": 37990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b4e"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i5  12400,  DDR4 16ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/3Z-fkUIb1R3CKbeChKmap-itEJkaBaKYxdr_DG0AXzY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6b866197-a5a2-4962-a8aa-b3dc3a8abd59.jpg",
+  "price": 41390,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b4f"
+  },
+  "name": "Компьютер  iRU Game 320A5GE,  AMD  Ryzen 5  5500,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/rRYjMqUgP_50JZHE64w-_9jU2xaGWE2XttsZD_D_0AU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ee88d107-61cb-4a54-8c7b-5bfea00d38f7.jpg",
+  "price": 59190,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b50"
+  },
+  "name": "Неттоп  DIGMA PRO Minimax U1,  Intel  Core i3  1215U,  DDR4 8ГБ, 512ГБ,  Windows 11 Professional,  темно-серый и черный",
+  "img": "https://cdn.citilink.ru/aBtwgG7QyhgvKnaujd3gdGP7zCN__pg00QG-KTgms64/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2aec85f2-728e-45b3-a3f0-31dc49b97690.jpg",
+  "price": 33990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b51"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/blgCL5dKBtLBuExkE1Re8nw1XAxDz7gVqTHeV_78imc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/1567aa19-8f55-4940-aea1-f306bf87ccc0.jpg",
+  "price": 41000,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b52"
+  },
+  "name": "Компьютер  iRU Game 510B7GMA,  Intel  Core i5  13400F,  DDR4 32ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/gu5vemN7qBlP2TOu5LMF2Glhq1zwfDATURhDpN52SHU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ca58d3c9-12b8-4c29-a121-43484c64bf4e.jpg",
+  "price": 96490,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b53"
+  },
+  "name": "Компьютер  TECLAST G01,  Intel  Core i5  14600KF,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/Bc0AoU7revayFKHXI31Os3MfZjyvmo1bozl1LP9rf10/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8e9b5fa8-08c2-436e-b930-1ae53cdab0e8.jpg",
+  "price": 147990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b54"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i3  12100,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/5gXTIV4MlNXYwz7x2LhYHjkM1d5CDPt9ShCrKIZU4bM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/3c860f19-4051-4339-946a-dfd38f59ac0a.jpg",
+  "price": 34090,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b55"
+  },
+  "name": "Неттоп  iRU 310TLCN,  Intel  Core i5  1135G7,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/Rx2NjJGfN2uGVFW1L7Bgsq9Jr1xg4q0XFrK6SHl6m_8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/621e878d-c841-41b1-a51c-dbbfec40a930.jpg",
+  "price": 40690,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b56"
+  },
+  "name": "Неттоп  Digma Mini Office,  Intel  Pentium  N5030,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/O2U8huzQSfmSZ3x9ImXD-7R88-88WzRkJyEkM9aZJAw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4bedc17f-c883-41c4-b0d5-be90a16dd4bf.jpg",
+  "price": 22990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b57"
+  },
+  "name": "Компьютер  iRU Home 310H6SM,  Intel  Core i5  12400,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/6zq1z2oHCg1Qe6xezGuVwBK9zdR9cijXzmBB-S85eCQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/a35f955a-4d39-4a77-8718-2fff5bc85929.jpg",
+  "price": 36390,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b58"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Core i3  12100,  DDR4 16ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/RtLO-aBBrdBy1EUV8kmxLT5iPVhcPd9leEHWU8Hna_c/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/058df1ee-6afe-4d50-b4df-94029a64bb43.jpg",
+  "price": 45990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b59"
+  },
+  "name": "Неттоп  DIGMA PRO Minimax U1,  Intel  Core i5  1240P,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  темно-серый и черный",
+  "img": "https://cdn.citilink.ru/flliAvSLk7VO4CS9XDH3b9JiQ2zcROm2we-xStuID_A/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/cfb007ed-6b86-43ba-9e6c-ff7fcb37d1b1.jpg",
+  "price": 43990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b5a"
+  },
+  "name": "Компьютер  iRU Game 510B7GP,  Intel  Core i5  13400F,  DDR4 32ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/D8VPTiawXW0pcvBE2W80KZwEVrv8AcGIQNXG8JSSCV8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/fdcd6ffb-1005-44d3-b43a-ec73a26fffa3.jpg",
+  "price": 139290,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b5b"
+  },
+  "name": "Компьютер  TECLAST G01,  Intel  Core i5  12400F,  DDR4 16ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/PxcmqhM4FxTVED30e1-ySkvB6K9PBKn-4JKbw8jgZ0A/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d042b205-e695-4ed0-ae24-823bd081247e.jpg",
+  "price": 80990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b5c"
+  },
+  "name": "Компьютер  iRU Home 310H6SM,  Intel  Core i3  12100,  DDR4 16ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/ZSSjCmJmQy5qaGIuX3PenvgNlskLocoMsTWUsIr1WRo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/a57c528e-d28b-4108-b70c-b078849acc4d.jpg",
+  "price": 33290,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b5d"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i5  12400,  DDR4 16ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/IY70VAV7ZdtJXnyZcsQoI7rbCPGmtVzb4zNRT8YEU9c/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/e9e54a12-9aee-4dca-921a-bb0227f8e7ed.jpg",
+  "price": 39090,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b5e"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/QCw-p-3DzziSCfzHxyTJzmHKyBqSsXGYMW_AwHjLAHQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/bc00e687-98e0-4d4e-a46a-8dee669d6036.jpg",
+  "price": 37990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b5f"
+  },
+  "name": "Неттоп  iRU 110ALCN,  Intel  N100,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/4KG2VeCShYrBdZH9jWS8b-YWyvfAh4YB-XJmr4nSGjM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b33138c6-a157-4c89-96da-d2a6f8f2324f.jpg",
+  "price": 18490,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b60"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i3  12100,  DDR4 16ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/Z_Ln8aepto2y3SoltHzd0InZ4ggkDUgmW7of387VCwM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/90f81158-65fb-4f23-86f4-d7c5ac05dd89.jpg",
+  "price": 37490,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b61"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/KjPwrz5DKE_GSTkQpCRJrPc0LRG_-VkXOGCvcyYiEYw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6ad606ef-d3b4-4dd4-b062-a2f1cef16d32.jpg",
+  "price": 52990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b62"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i7  12700,  DDR4 32ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/uv99v-iwdvq26ortGt-HKGRJfy59sd3U8FHDwYBTp-I/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ba97b966-cd5d-4734-86f8-10ad90813177.jpg",
+  "price": 56690,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b63"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Core i7  12700,  DDR4 16ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/i735PWjD_tauJkMhVqSaWMJRTQpoa2WiZIprLOIzVVQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/3925d33c-afed-45e1-978c-b41017ad3ffd.jpg",
+  "price": 70865,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b64"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i3  12100,  DDR4 8ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/9kjIGX32Ky8wqqmAPRvGOWn5fsfOdHjiicA-mH3PFks/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c581f3c1-3bc2-4947-acaa-2c832ec64fb9.jpg",
+  "price": 35590,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b65"
+  },
+  "name": "Неттоп  MSI Pro DP21 13M-086BRU,  Intel  Core i3  13100,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/iqt7z-szuZqMoLuU4Khh15Gb2zW0gIqmaIkinWaRHTA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/22b8425c-124e-409d-94aa-eddb34cdeace.jpg",
+  "price": 37990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b66"
+  },
+  "name": "Неттоп  iRU 310TLCN,  Intel  Core i5  1135G7,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/A5gcBwBNts_-GDdGqgEf4TYMDhcMzU0zCk6qFiBUKsU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/52696883-c19f-4123-b8b0-4df8dcbc27fc.jpg",
+  "price": 39990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b67"
+  },
+  "name": "Неттоп  DIGMA PRO Minimax U1,  Intel  Core i5  1335U,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  темно-серый и черный",
+  "img": "https://cdn.citilink.ru/WQVD5G60_8Y0A2kSGOD3F8gigTK4oULWiaxMu65FN_w/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/31a1a458-47ca-48de-bf37-01551e84cb3a.jpg",
+  "price": 50990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b68"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i7  12700,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/q2I5PIlgImQ1q134B_LXu0ocOuMC5mvWQ-BoxYpbqns/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/01ed5d67-53b5-4e77-ba67-8f8ea2b8db49.jpg",
+  "price": 53990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b69"
+  },
+  "name": "Компьютер  iRU Game 510B5GMA,  AMD  Ryzen 5  5600X,  DDR4 32ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/oh-n2qkm8z5tykg9273JprvebWlMocfFHCxMqx62KN0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/85bcca93-685a-47f5-872b-5a9cef6a4b5b.jpg",
+  "price": 97700,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b6a"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Core i5  12400,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/gwW_hiSMMRV5MpzA5u8r4OIB-5GTQX6pRaLYvxyBdic/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4426fdbe-61df-4aa1-b959-6c4816b909fb.jpg",
+  "price": 50190,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b6b"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Core i5  12400,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/nuYWj5RDcScWxy_TV5xacNHii-GN3F-kO77oHTnbIy8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f59d726e-5d28-4a9d-bb31-b5b7d111819f.jpg",
+  "price": 50690,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b6c"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Core i7  12700,  DDR4 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/dTvLLM9xbq8L15X8y-mEAvhT25ERgFp7fNGMaGWakbs/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/be220b37-dd9d-4f17-b2a5-61e8fbbebc29.jpg",
+  "price": 74690,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b6d"
+  },
+  "name": "Компьютер  MSI Infinite E1 14NUE7-042XRU,  Intel  Core i7  14700F,  DDR5 32ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/0Km-a8dmgbFJwQhegFWnFv8yPHxgYECDkUZP4GrdqMs/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/61a12df2-07a4-4ab7-aae4-5bbaccbf1583.jpg",
+  "price": 197990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b6e"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Celeron  G6900,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/VFP6BsvGBT-yYhYQZbIRpjUI8B1IF4lScRtEp4n7RUs/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c74af14b-670f-453f-8636-1f1440032b03.jpg",
+  "price": 21490,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b6f"
+  },
+  "name": "Компьютер  iRU Game 510B7GM,  Intel  Core i7  12700F,  DDR4 32ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/oiGbGLupHSHOyRC7Q1MAVeEYkzzwqMJ5bdWlh86AsPU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2c3bfc26-3fbc-4f1d-aecb-4fbc06dd60ea.jpg",
+  "price": 163490,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b70"
+  },
+  "name": "Неттоп  iRU 110ALCN,  Intel  N200,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/S8wCJ6N4SjpeNk8M2FsZ41eeGKYjir0L6C-wZ8T8afI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/759f7a11-0dec-42bb-99a9-79c94e4e558d.jpg",
+  "price": 22990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b71"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-231XRU,  Intel  Core i3  1215U,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/qI_OO1D0xNeeWj7Z9nN2DsP8xgcru8nqsAZKuD8v2d8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/27cbc8c1-4338-45fc-b0cb-c405d8f0788a.jpg",
+  "price": 41990,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b72"
+  },
+  "name": "Неттоп  DIGMA PRO Minimax U1,  Intel  Core i3  1220P,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  темно-серый и черный",
+  "img": "https://cdn.citilink.ru/E5jdotBY4ADWh-iJGRdl7ZSX5JPrT9cdq0HprJ_syR4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/42f7564e-b043-433a-ad88-4ef8d9e568a5.jpg",
+  "price": 38990,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b73"
+  },
+  "name": "Компьютер  iRU Game 310H6GMA,  Intel  Core i5  12400F,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/_ALBY0rsQeIaNNtww3Y8g_NpAnfsG5VtatilTe_52us/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8f0ac9b9-f9cc-443f-8fc7-ee9d07989275.jpg",
+  "price": 108100,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b74"
+  },
+  "name": "Неттоп  DIGMA PRO Minimax U1,  Intel  Core i3  1315U,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  темно-серый и черный",
+  "img": "https://cdn.citilink.ru/5yJ_NMNw3rONG2tXQMZXpCTHPz4uS9wQqUOUfpQFI8c/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f608d7a6-c5f6-4b77-bbef-38c5d87fef0a.jpg",
+  "price": 38990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b75"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/GJiTZix0ZV-IfYKbfs-KjFqyYVD1qXkpacJD7yvEkh4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/65f4a919-ce0e-414f-8daa-e0aa637e3487.jpg",
+  "price": 44190,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b76"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-031BRU,  Intel  Core i5  1235U,  DDR4,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/5E95Toi34Tyac_HhZyQnNHhkg4OTYCBUGHdWnMAyDJo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/701dcc3a-49c5-4716-a872-4ef7cf2ff064.jpg",
+  "price": 39490,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b77"
+  },
+  "name": "Неттоп  MSI Cubi N ADL-030XRU,  Intel  N200,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/EDBG9t7tMiv9bF5E6242gnXnNCh92w7PW9ey5B47UO8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/735f97fe-e145-4f08-a344-073c61a28cf5.jpg",
+  "price": 29990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b78"
+  },
+  "name": "Неттоп  iRU 310TLCN,  Intel  Core i3  1115G4,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/Lh5R1rgvPRdQaKmKv22sPldXHR-8pLNRY9d09cvFleI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/bfbf93e9-5714-44ac-ac56-d5ac48f88b1a.jpg",
+  "price": 32290,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b79"
+  },
+  "name": "Компьютер  iRU Office 310H6SM,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/-06HrZa5c00Mg3u4T2CBZQkmMGlR9qZ75OL5OKivpyY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/aa9ed0e1-eb15-4898-948c-f780a3b03471.jpg",
+  "price": 42990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b7a"
+  },
+  "name": "Компьютер  MSI Trident AS 14NUE7-805RU,  Intel  Core i7  14700F,  DDR5 32ГБ, 1ТБ,  Windows 11 Home,  черный",
+  "img": "https://cdn.citilink.ru/aGW32LQtPunt1IUC5IjrRvk95yw8nMejKfNeBaNebNw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ec86c16b-4918-41d1-9a21-64d90fddebc7.jpg",
+  "price": 249990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b7b"
+  },
+  "name": "Неттоп  iRU 515ALC,  Intel  Core i5  12450H,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/QXNBHkxTs95qdDGATppOHzGPptsQFh0sRT3Pksi9sX8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4c13c82a-2a5e-41c0-98b0-2eaee81f01d3.jpg",
+  "price": 40290,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b7c"
+  },
+  "name": "Компьютер  MSI Infinite E1 14NUE5-044XRU,  Intel  Core i5  14400F,  DDR5 32ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/zdVoDNUcC5ayaI5MQxvIif_z4DBLR1C4rWtfsD0Nx00/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/06c62f09-ca01-4014-ae3e-ce53e85200f4.jpg",
+  "price": 171990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b7d"
+  },
+  "name": "Компьютер  iRU Strato 510B7GM,  Intel  Core i5  12400F,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/HO7p7LVB9slrghAhsI3QslxD9gDe2um6IZe6f6_RXrQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/7b585d09-c643-4448-a010-c4c529943e6e.jpg",
+  "price": 91890,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b7e"
+  },
+  "name": "Компьютер  TECLAST G01,  Intel  Core i5  12400F,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/-8ttv0ck4NzcJDRI1XeIgZCpxJ_5G-L9tubJoMVSsgo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/40bab3c7-76d0-4f4c-8848-49a2d66472f6.jpg",
+  "price": 77990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b7f"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-014XRU,  Intel  Core i5  1235U,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/eFJGtVNBe4-CHHKhS4yuzONFZC-JgvviDqskIhlRTDI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/62dd96d3-aa75-4c6f-a7d9-049a4168c159.jpg",
+  "price": 52990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b80"
+  },
+  "name": "Неттоп  iRU 310TLCN,  Intel  Core i5  1135G7,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/baNT7pUF9C7eB39vJn8b0-2CIES2I8vMraVwpoO6C3o/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/1a6c5fca-cc5c-4c86-b92f-52dae43ac2d5.jpg",
+  "price": 38190,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b81"
+  },
+  "name": "Неттоп  iRU 310TLCN,  Intel  Core i3  1115G4,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/doANLasfYveqmiUzZVc9yHW3eXAsH1Lxa2xpwYQZbfg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8cabcf8f-4875-4d7a-b2e2-9b6c8c2af197.jpg",
+  "price": 30990,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b82"
+  },
+  "name": "Неттоп  iRU 110ALCN,  Intel  N200,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/5fmNkZuHm8HnmqH0Cz-wOR01p1heI-NGDxxnlY0ecNw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/81c36608-531d-4d13-9a6c-0f19b7f818f2.jpg",
+  "price": 21990,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b83"
+  },
+  "name": "Компьютер  iRU Game 510B7GS,  Intel  Core i5  13400F,  DDR4 16ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/KR5HtLwB1gI2gfxujVOysuXHiGv35gJYVxyZ_iAvLmE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0dff70b1-2e22-45fa-a1d7-87159c32fba7.jpg",
+  "price": 94390,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b84"
+  },
+  "name": "Неттоп  DIGMA PRO Minimax X1,  Intel  Core i5  12450H,  DDR5 8ГБ, 256ГБ,  Windows 11 Professional,  серый",
+  "img": "https://cdn.citilink.ru/SB6NLqm1py839MpscUeO_qhw1VgW0O_uZjImSsJEATE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b1fd80b9-6581-444f-9ec4-18f654dca903.jpg",
+  "price": 37990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b85"
+  },
+  "name": "Компьютер  MSI Infinite E1 14NUC5-045XRU,  Intel  Core i5  14400F,  DDR5 32ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/mz_zIAvjAnYRc31goUb_0JvTa7Qcs0IRkKvSFKGHzKY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/95c68b4e-4631-498b-90ab-0bc18e6e30ac.jpg",
+  "price": 130990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b86"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i3  12100,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/rsIxqL96KOalZNBnndHbggOhK4hyi_M5EknlkzBn22E/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/06657108-e485-4953-b273-4c72b879e79d.jpg",
+  "price": 34090,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b87"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/I67Fv558H4RGdscHdfoHHfVqtzK4-bkLLsgvvnFl-Pc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0a9fa7ce-7372-41c1-9a24-2a06316861eb.jpg",
+  "price": 37990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b88"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Celeron  G6900,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/JWISQMF7hriK8ZZRzKReuhTg0Jel4q_QmB8MXDyQuFM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6133e1ad-1753-41b8-9703-fab062274b02.jpg",
+  "price": 33190,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b89"
+  },
+  "name": "Неттоп  iRU 310H6ITF,  Intel  Core i5  12400T,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/ZLNK44pKZPjNWp6g7LNOtmKOJ-sW1QsvwJ3VveMj9ws/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/79d38715-35da-4606-9086-7bde4b4c30ba.jpg",
+  "price": 52490,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b8a"
+  },
+  "name": "Компьютер  iRU Home 320A5SE,  AMD  Ryzen 3 PRO  4350G,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/jOt_PTas9HG5a0UINU7O2PuSQnncITyjrsHnm7unhAk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/11758c72-1d43-4527-abc7-237a82281130.jpg",
+  "price": 28790,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b8b"
+  },
+  "name": "Неттоп  DIGMA PRO Minimax U1,  Intel  Core i5  1235U,  DDR4 8ГБ, 512ГБ,  Windows 11 Professional,  темно-серый и черный",
+  "img": "https://cdn.citilink.ru/8y_suh4U1mzkGrdFfQFADmWBprReGxOaOv6zbaBXmJI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2eaec391-93ac-4746-858a-1c540f2545ef.jpg",
+  "price": 39990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b8c"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i3  12100,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/OYNli2XTMKCS2F6ItHF2BiRCbmFGkkB6naKmmnev9ho/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/96b5d3d3-c1c9-4041-8fff-8ac9acebc346.jpg",
+  "price": 34690,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b8d"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i3  12100,  DDR4 16ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/GvqomRXUKTDUbB9yFMCeOAEdMs3oc7xSzN6n3uEdYGU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/7faf6558-b60e-4d45-ac11-5256e110f87b.jpg",
+  "price": 34300,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b8e"
+  },
+  "name": "Неттоп  iRU Office 310H4ATF,  AMD  Ryzen 5 PRO  5650GE,  DDR4 16ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/ym4gHopg4C2g9m8N7gDV_SyoQbHIg86v7yStkqqLavU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6dc7a30e-6fdc-4803-8389-fcb6e3266e3a.jpg",
+  "price": 42990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b8f"
+  },
+  "name": "Неттоп  MSI Cubi N ADL-017BRU,  Intel  N100,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/EBv3af3TKHMbXOIpmORYvh_4qj2u7HncTVuueYGCsM4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/cc0c1bb6-b086-4af9-b20a-87db00b8ab63.jpg",
+  "price": 23190,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b90"
+  },
+  "name": "Мини ПК  CHUWI CoreBox Intel  Core i3  1215U,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  серый",
+  "img": "https://cdn.citilink.ru/j3f6yheZlLbR21LkZ6B33cAqOHvpe3PWO1b_y7G3Ik4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f004ca5c-8371-4bb6-9b9f-d23d2cca2287.jpg",
+  "price": 32990,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b91"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-096RU,  Intel  Core i5  1235U,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  белый",
+  "img": "https://cdn.citilink.ru/nGK4vENGdyrZ9x3qbXHgRrqRInKDQ7PEhUuJUzwMqxc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/88bb5302-2335-401e-ac33-a51b064afb58.jpg",
+  "price": 66990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b92"
+  },
+  "name": "Неттоп  iRU 310TLCN,  Intel  Core i5  1135G7,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/hJuP2jevCDHZGWAXYSFQYVUHcf8UBK4YJXPI8MT8Ous/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/158fc4e7-8f77-44b5-83a5-6702ce6ddf9a.jpg",
+  "price": 37090,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b93"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-040BRU,  Intel  Core i3  1215U,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/AjasE5EGLTYFQ33AXeou7eTEOb4MGp4hoSTaB0xnkHE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/a63ae76c-9da2-437d-a47e-16f3802febc6.jpg",
+  "price": 31990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b94"
+  },
+  "name": "Компьютер  iRU Home 310H6SE,  Intel  Core i5  12400,  DDR4 8ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/NPnf8B9BqFoBzvPnSLTgP8ymvOHf-sK9qzThUw1ypa8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/e82eb224-ee62-4004-9cb5-fba6687b935b.jpg",
+  "price": 39490,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b95"
+  },
+  "name": "Неттоп  iRU 110PGL,  Intel  Celeron  J4125,  DDR3 4ГБ, 128ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/G8ZNocvPW-92lFTOv9Cku0QAyAdElcfvLKwrXPKtlQc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0720d6c0-a1e5-4cf8-be0e-a6c1dc448236.jpg",
+  "price": 15990,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b96"
+  },
+  "name": "Компьютер  MSI Infinite E1 14NUE7-043RU,  Intel  Core i5  14400F,  DDR5 32ГБ, 1ТБ,  Windows 11 Home,  черный",
+  "img": "https://cdn.citilink.ru/9Mb5AvJg_sKBnkKMFrAO4AWdiawm4II4nsIHpawR2Pw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/91c606b7-23a6-4e6f-9954-1e0c99213a68.jpg",
+  "price": 199990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b97"
+  },
+  "name": "Компьютер  iRU Home 310H5SE,  Intel  Core i3  10105,  DDR4 8ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/qWN-huSabEbK_BAwPdR_vO3vl4wE-qAaU9tLUJSJVB4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4e3149d7-f4c4-4661-a85e-745dcea853ff.jpg",
+  "price": 29100,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b98"
+  },
+  "name": "Компьютер  iRU Home 310H6G,  Intel  Core i5  12400,  DDR4 16ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/r0eUaH7MixUmnIR0IlGJEsqwstrPNnQ6VaGBqqFamoQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/94909f1f-c2e8-481e-8555-6612664dabb0.jpg",
+  "price": 42890,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b99"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-031BRU,  Intel  Core i5  1235U,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/6n27wInsdKJeef-rzR0Xx8nNzeepe4oHS43VZ7jcTm8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/7a3a03a7-4e11-46da-9dc7-97982ffee64b.jpg",
+  "price": 39990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b9a"
+  },
+  "name": "Компьютер  iRU Home 310H6S,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/04htJa8oBVOdVlkkZ-X_4cIaOgaSa0iUlANL83pwruw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/3a4ce4ab-386a-4be2-89d9-99f16e530812.jpg",
+  "price": 30800,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b9b"
+  },
+  "name": "Компьютер  MSI Infinite E1 14NUE7-041RU,  Intel  Core i7  14700F,  DDR5 16ГБ, 1ТБ,  Windows 11 Home,  черный",
+  "img": "https://cdn.citilink.ru/gvcucsX3OfB_QAIO-1DMdADigw6a31YTazMS8czylJw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b2f4d22a-d6bd-4378-9e49-a81630faa7ea.jpg",
+  "price": 205990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b9c"
+  },
+  "name": "Компьютер  iRU Game 710Z7G,  Intel  Core i7  13700KF,  DDR5 32ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/qPG6hYY2Nk77D_mTCBDClEDcu0Dk4STYdbOPLpsBvWA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/aa56bb91-6117-4ed2-a789-9955863fe582.jpg",
+  "price": 169752,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b9d"
+  },
+  "name": "Мини ПК  TECLAST M01,  Intel  Core i5  12450H,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/RWQtYpR_YwcBvJsY46pS6jmHJLuR9BwLnS01e5FVwQY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8d53aa15-592e-41be-a68d-2ba62cb179ea.jpg",
+  "price": 41990,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b9e"
+  },
+  "name": "Компьютер  iRU Game 520B5GMA,  AMD  Ryzen 5  5600X,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/OgxiV4qYxyqAV_1yjlWhgXLiEdvu3406k-90nnweA_A/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/33e5d0b1-19b8-433c-bef8-c3c65baf0dcf.jpg",
+  "price": 77690,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88b9f"
+  },
+  "name": "Компьютер  iRU Home 310H5SE,  Intel  Core i3  10100,  DDR4 16ГБ, 240ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/94WvWQHu6tV6iyGsHesv_4vU1GbGHzOkbiQKASJDGJA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/31247ca0-ebc0-439d-906d-6fcd120882e1.jpg",
+  "price": 27500,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88ba0"
+  },
+  "name": "Компьютер  ALIENWARE Aurora R16,  Intel  Core i9  14900F,  DDR5 64ГБ, 2ТБ,  Windows 11 Home,  черный",
+  "img": "https://cdn.citilink.ru/d6JYF1RZ9DTDvA9V6QP_3ZW2Dt6PT4e02tE3xpsJtLc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/1ce35f34-03a2-426d-a6aa-6cb709e75a41.jpg",
+  "price": 509990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88ba1"
+  },
+  "name": "Неттоп  MSI Cubi NUC 1M-043XRU,  Intel  Core 7  150U,  DDR5 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/MHcmf_1NQgX4UBNpPDteLYv0momoRvwllV8gogIL5Y4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/eea8f2bf-fd18-4ce5-8dc0-40d3b6e57769.jpg",
+  "price": 67990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88ba2"
+  },
+  "name": "Мини ПК  BLACKVIEW MP80,  Intel  N97,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/kdk0Bn5wceMXOwb_0K2KXcecLspKfqcp2decBJAZRT8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/fb8d8a9a-613b-4fa6-b95a-56085965328a.jpg",
+  "price": 23490,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88ba3"
+  },
+  "name": "Компьютер  MSI Trident AS 14NUE7-690XRU,  Intel  Core i7  14700F,  DDR5 32ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/JkWJlMGzOB2T2yJsueK8VTVWdyYuZQMkzuyXNIt91go/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/bf3aeef4-0ee3-43de-a80b-58089641274d.jpg",
+  "price": 224990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88ba4"
+  },
+  "name": "Мини ПК  BLACKVIEW MP200,  Intel  Core i5  12450H,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/jt_OXXESydlxaioILjwNw9s-Sai7ymPxSdAjEX5Pnjs/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8eb3ff6d-aff8-4a75-9c14-7892a4ae05d6.jpg",
+  "price": 42990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88ba5"
+  },
+  "name": "Мини ПК  MSI Pro DP180 12-442XRU,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/N_AbWj2k6skU0q8lKdwpR45aIhVUg3j6fod3A3oMI-Y/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/5d7ab113-f7e9-49f4-95ea-7841184b7f16.jpg",
+  "price": 59990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88ba6"
+  },
+  "name": "Компьютер  iRU Опал 515,  Intel  Core i5  10400,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/gOPg-w3t_gdtt3pzmv2N4C0l5JODVM2WiIBJ8c2DbWM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/13805c1b-0757-459b-9c82-21728e6c9dc0.jpg",
+  "price": 52853,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88ba7"
+  },
+  "name": "Компьютер  iRU Опал 615,  Intel  Core i5  12400,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/OTZCfre_KMj2HNCM2gRch4C4Qy2h3wz6YEGuzmOXmSI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/90ad1190-8769-4c96-93be-1cb7e5b854c1.jpg",
+  "price": 53000,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88ba8"
+  },
+  "name": "Неттоп  MSI Cubi N ADL-017BRU,  Intel  N100,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/9s_uwMg6kp95JFVUBk_7mJq-pA-53paCg2utSurG8Ng/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/10051d2b-d901-45ab-b52d-2e15109e00d4.jpg",
+  "price": 22990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88ba9"
+  },
+  "name": "Компьютер  iRU Опал 615,  Intel  Core i5  12400,  DDR4 16ГБ, 1ТБ,  512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/sEMB486Jt6NJUY8qvfEovfiyob5uG2q70uGZdbU7_ec/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2b3ce41b-9ce1-4794-b44e-5ce934ae88c9.jpg",
+  "price": 64000,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88baa"
+  },
+  "name": "Мини ПК  TECLAST M01,  Intel  N100,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/SZNa7HF1Wf-9aYFAJ0Gzv5a-xGlENVMukqYPAbSdWp8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f7219f75-f1a8-4eb4-b80d-b99c9cf13ebd.jpg",
+  "price": 24990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bab"
+  },
+  "name": "Компьютер  ALIENWARE Aurora R16,  Intel  Core i7  14700KF,  DDR5 32ГБ, 2ТБ,  Windows 11 Home,  черный",
+  "img": "https://cdn.citilink.ru/nooZkTjeoRYuB4TJXYOlzQtu1ByzRWINoCkyP7sobAU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f46b4e17-c2b8-4eae-9c2a-383093e7a082.jpg",
+  "price": 469990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bac"
+  },
+  "name": "Неттоп  MSI Cubi N ADL-018RU,  Intel  N200,  DDR4 4ГБ, 128ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/CEwHEdQlb_9TU2g8A9PhbxaxgUzJkzE_-f4hld8ghw8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/5ab06c69-1272-4ff5-9f4d-2c35bfaf701c.jpg",
+  "price": 31990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bad"
+  },
+  "name": "Мини ПК  MSI Pro DP180 12-443XRU,  Intel  Core i3  12100,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/KnFbXAexYBg8FSZud8F5N54_hcYMv6eNZmE7ZD52sH8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0b777fec-6b58-48a1-94c3-0c70308ed6d5.jpg",
+  "price": 52990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bae"
+  },
+  "name": "Компьютер  iRU Опал 613,  Intel  Core i3  12100,  DDR4 8ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/qszHU7iwSUCRfqY0KrX5ofmQWevsfAZOSsPMac-Umow/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/5fdd65f7-f78f-417f-b767-a9b1d963f82f.jpg",
+  "price": 49020,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88baf"
+  },
+  "name": "Компьютер  iRU Home 310H5SE,  Intel  Core i3  10105,  DDR4 8ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/a1uL4qTtKPUE6aRNpkmKYz2sNKhbZJuK_Bmegb56tN8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/72231cbe-1e25-4d42-8f9e-ea97134c0acf.jpg",
+  "price": 29300,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bb0"
+  },
+  "name": "Компьютер  MSI Infinite E1 14NUC5-046XRU,  Intel  Core i5  14400F,  DDR5 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/wVShgffScPWQm6tamur5lNFxxCGI2p38tfTuq3S7CKQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/fe6377e9-7537-465f-972e-8f9135d156aa.jpg",
+  "price": 127990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bb1"
+  },
+  "name": "Неттоп  MSI Pro DP21 13M-602XRU,  Intel  Core i7  13700,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/N1rIKRb9iKPUQb_l6vg9el4OpoqDZGdTlwsRQZ0sEnI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/7b9fe21e-1346-4e61-802f-bfa4bd99c0de.jpg",
+  "price": 75990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bb2"
+  },
+  "name": "Мини ПК  BLACKVIEW MP100,  AMD  Ryzen 5  5825U,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/WvGkhJhaWhQV1fWQTUnxlFgP32jNZyRJ8WWJRDgiEgg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/cb59400c-87d9-457c-a1c1-b8b710694ef3.jpg",
+  "price": 37990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bb3"
+  },
+  "name": "Мини ПК  BLACKVIEW MP100,  AMD  Ryzen 5  5825U,  DDR4 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/C8q9U0JOM-2GzWIlTIFkKaElNkpBawRhVHNCpcpU9Ps/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/42ead726-63f7-40e2-8685-c18c74b51307.jpg",
+  "price": 47990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bb4"
+  },
+  "name": "Рабочая станция  HP Z1 G9,  Intel  Core i5  13500,  DDR4 16ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/Z8vm6TG_n2tLA8nShE0xLpfZC3syon7itCQ4ccIem4Y/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/531c077d-e261-4fb9-8d61-79592f1fc643.jpg",
+  "price": 99990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bb5"
+  },
+  "name": "Компьютер  HP Pro 290 G9,  Intel  Core i5  13500,  DDR4 8ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/jK7rI1c0m5wR9P9u9QmYL_8yJVdilR5Men_BLZg8V6s/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8c09ee20-db78-4e88-baa8-29416bb44bcd.jpg",
+  "price": 84990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bb6"
+  },
+  "name": "Неттоп  Lenovo ThinkCentre Tiny M70q-4,  Intel  Core i5  13400T,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/piZcHcyaKWbz1BpLyhZrPgR48IzhZUZBOHTL1uJNOXI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6a453fe6-307f-47f8-92dc-312b5b0e68f6.jpg",
+  "price": 84990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bb7"
+  },
+  "name": "Неттоп  ASUS PN43-B-SN013MF,  Intel  N100,  DDR4,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/tlmSjbiu0MowE4cBVqjF8HnxmmMkzsAFSlTRQnnejXw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/56fd8aea-1d72-4a72-ac0e-b8ba7fa58118.jpg",
+  "price": 23990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bb8"
+  },
+  "name": "Компьютер  iRU Game 710Z6GP,  Intel  Core i9  12900F,  DDR4 32ГБ, 4ТБ,  1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/ROosUccGOkNOcu1BWGdUhBPYyvGxU0gU23ECVmn72I4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d2ac6d8c-f4c0-4d3f-9e6c-40897fa6aca9.jpg",
+  "price": 388400,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bb9"
+  },
+  "name": "Неттоп  MSI Cubi NUC 1M-043XRU,  Intel  Core 7  150U,  DDR5 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/m_5qiPHnl7SBKC4J2uZkGwiJpQqHqUDKy5qea8DIXmg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/3af42988-5fe7-4423-8452-1261c54a7b86.jpg",
+  "price": 64990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bba"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i3  12100,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/Isf9yN2RUYb73vOh1NjOZdnpD_QdLdp7FrG9gqGBGyk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/32d0bb5a-c507-4cdc-b4de-e0e49aedf95a.jpg",
+  "price": 34090,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bbb"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-013RU,  Intel  Core i5  1235U,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/BStGbeb-2RGGhqSybqsxKXD-aNk0NwgZgbmyHqe22-8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/911c1d91-81df-4a4a-ab42-f71970cded81.jpg",
+  "price": 66990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bbc"
+  },
+  "name": "Компьютер  RASKAT Strike 520,  Intel  Core i5  10400F,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/ZdkblIdEywwldkJBhE2D6z3uT1cl2EujOrACPPPcYbo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/5a983482-7b89-4bcf-8756-00f294e8f8f5.jpg",
+  "price": 85910,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bbd"
+  },
+  "name": "Неттоп  ASUS PN64-S7757MD,  Intel  Core i7  13700H,  DDR5 16ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/PYFq1j4n2q9XukBHl7vfRKhdFFfTA_E3I9k5_PYouE8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/037eb13c-8a95-4111-aa90-9a2c9d1ecc08.jpg",
+  "price": 85990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bbe"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  10400,  DDR4 16ГБ, 480ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/A705nfD0Hy7DZjNGEQ07wnMyTmfdRfohso4NRa5G5Ec/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/26c8e4b2-7f94-427e-a68a-3b6646d178bc.jpg",
+  "price": 39850,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bbf"
+  },
+  "name": "Компьютер  iRU Опал 612,  Intel  Pentium Gold  G7400,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/eqs1SeseuUyx1AVZ0Hpg9Y-hF0sX-IFlXsty7Ul7jKI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6946463f-603d-4d7d-bafc-718d196e2f14.jpg",
+  "price": 40014,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bc0"
+  },
+  "name": "Компьютер  RASKAT Strike 520,  Intel  Core i5  12400F,  DDR4 16ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/Du3ZvQEZ74Qt1XhcTQr-sHLqACMKRuDILWVDs8g5RHw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/eec0ec78-ed5e-40c6-a492-13029930412f.jpg",
+  "price": 114820,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bc1"
+  },
+  "name": "Мини ПК  BLACKVIEW MP200,  Intel  Core i9  11900H,  DDR4 16ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/HUL_wTg4iS_hzbhRWVGUxanhlBLe8s-PwfnVWxsWsBo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/85a2f921-5f07-478d-a315-a550c6abc398.jpg",
+  "price": 49990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bc2"
+  },
+  "name": "Мини ПК  BLACKVIEW MP200,  Intel  Core i9  11900H,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/5ppZH7TuXTy4sPr7NrxEsmxTcyP1VN279HTmJ6tFsSc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d74cca20-b2a7-4540-b578-3126faae239e.jpg",
+  "price": 46990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bc3"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i5  14500T,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/vokAaxCY36Bc0szzU3gTNqvjERNItpmKcTFO1e_WJXE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/308d13f2-95d7-42c3-88db-a1716316181b.jpg",
+  "price": 99990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bc4"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i7  14700T,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/LsDSAwiZhuZ5s14V4V741_KJpL02hFsujBkfNLnT1rE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/cf3c6deb-3111-408f-a831-ab33e66808b9.jpg",
+  "price": 127990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bc5"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i5  12400,  DDR4 8ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/X5pfzEr9wffUu1qStoy9xKHxIsLgg9PfOOkfebyPCmo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c7674b2e-17fe-40db-af77-d3dfea983c7f.jpg",
+  "price": 37800,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bc6"
+  },
+  "name": "Неттоп  MSI Cubi NUC 1M-052BRU,  Intel  Core 5  120U,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/OhtcmyPW4xvPiHn8L9au8pB9o9XkU38DxFx-vVz0EKA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8d089b9c-81b8-4ca7-82f8-600ea26e525d.jpg",
+  "price": 46990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bc7"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-226XRU,  Intel  Core i5  1235U,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/37LOaQLmYbieepgDyEAc6S8k9JZlI8GKmx-6d6Z_w1M/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f6a3a2a1-d1c2-491b-8418-8408dda4f9c7.jpg",
+  "price": 51990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bc8"
+  },
+  "name": "Неттоп  ASUS PN53-S5163MD,  AMD  Ryzen 5  7535HS,  DDR5 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/0q5_HIhH6diStYUhADyZ0UJqAe8D2csVfEMMR52Ntwg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/dee11205-12b1-46cf-bd2d-cf72e8928f3d.jpg",
+  "price": 64990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bc9"
+  },
+  "name": "Неттоп  iRU 310H6ITF,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/9TH5tH57AJfcCoQGipnhx_H_Cw3OvkA_npGeTN-5pV4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4bfafa8f-e825-4fa4-92af-767781d08ba5.jpg",
+  "price": 41990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bca"
+  },
+  "name": "Неттоп  Acer Veriton N4710GT,  Intel  Core i5  13400,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/8EG5IHp7LVz7jsMrGmP3EXg6BAbzciE61KJWaj4Ennc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/9d32f578-ba29-4fa4-a905-04f01033e278.jpg",
+  "price": 54490,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bcb"
+  },
+  "name": "Неттоп  Lenovo ThinkCentre Tiny M70q-3,  Intel  Core i5  12500T,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/7QLG-ihMfMK1d_eNH2nbu3PTdGwNn793ybHjZ_IQq_c/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2f0acef5-6809-4506-ba0c-2870686cedfc.jpg",
+  "price": 89990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bcc"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/2jcdKjCCdB2g9j7xe70Lov_ZnWa4phhOHLNMpSJ6wWo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/cce73214-d555-4acd-82d4-96364345e9ec.jpg",
+  "price": 29400,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bcd"
+  },
+  "name": "Мини ПК  TECLAST M01,  Intel  Core i5  13420H,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/_qP_QHO17ePXNitP7BtHI-3ATgrDaDrYljXwY73n1KM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/dee8e65e-b2fc-45ae-9146-ae9b668ee646.jpg",
+  "price": 49990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bce"
+  },
+  "name": "Мини ПК  BLACKVIEW MP100,  AMD  Ryzen 5  5825U,  DDR4 16ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/s6f-X88j9SsbJCpouwvUfln6O_qxi3KvOjzX95UDTWE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/932c2ae0-e6d9-4035-a64c-f9a3589d826f.jpg",
+  "price": 41990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bcf"
+  },
+  "name": "Компьютер  iRU Опал 613,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/sBJSUbL3fbtX-N5JVU3FzOwrA6S8iXMcfNTgx2iuyus/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/da188d75-280f-4dd9-a90f-927707f54a9d.jpg",
+  "price": 46000,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bd0"
+  },
+  "name": "Компьютер  HP EliteDesk 800 G9,  Intel  Core i7  12700,  DDR5 8ГБ, 512ГБ,  Free DOS 3.0,  черный",
+  "img": "https://cdn.citilink.ru/VsBUfCXPmGCMy7b1UeV0p3zRw6CwEKqIAATkRciCKBc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/12976fba-6789-4bb9-82c1-02ac13a33c7f.jpg",
+  "price": 94990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bd1"
+  },
+  "name": "Компьютер  ALIENWARE Aurora R16,  Intel  Core i7  14700F,  DDR5 32ГБ, 1ТБ,  Windows 11 Home,  черный",
+  "img": "https://cdn.citilink.ru/aBsqH0_qq6npnJurCGmjjQMEEqDO-X_mB6OUzjFw9EI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ee4a91a7-a720-403f-bfac-c400b0af6c7d.jpg",
+  "price": 389990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bd2"
+  },
+  "name": "Неттоп  iRU Office 310H6ATF,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/tLgY0yoFFa5QQzLTN_tWXQRhqWOHguQ1XIEe_wDdda8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/87acc90b-1d36-40af-81e0-0f37173a9333.jpg",
+  "price": 49990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bd3"
+  },
+  "name": "Компьютер  iRU Опал 615,  Intel  Core i5  12400,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/ltOin0QHjKuYOBhq9Ge9UhsrhS7sAIG3BXUXiUgMe0c/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c6187eee-7635-4e64-ae87-745a2eeb86c4.jpg",
+  "price": 52000,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bd4"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-032XRU,  Intel  Core i3  1215U,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/RSLZPXukvsdhgGXvVlvl6EVtPiGjVmxSvvvqv2irjbY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/694e7ab6-f2df-4d18-ad73-dd072f57d73d.jpg",
+  "price": 36990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bd5"
+  },
+  "name": "Неттоп  Dell Optiplex 7020 Plus,  Intel  Core i5  14500,  DDR5 8ГБ, 512ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/AvPRr_RNgDua3YTMGgxoB-UvxNdyjbfXjkg7C4iXzWY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/54bf3ed1-1fd4-4c2e-9309-0315687d4dbe.jpg",
+  "price": 79990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bd6"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-221RU,  Intel  Core i5  1235U,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  белый",
+  "img": "https://cdn.citilink.ru/0JWy4GGdfqx8Q5TlZq1PQ7RfaC-ZGpF6qIQITkH4NEc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/bd463e49-87ad-4eea-980d-076a66ba0d48.jpg",
+  "price": 66990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bd7"
+  },
+  "name": "Неттоп  Lenovo ThinkCentre Tiny M70q-4,  Intel  Core i3  13100T,  DDR4 8ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/YeSeN18kzpD0ehm0S8QZ6R8YkGgu2ULwIQRYcZaKTSU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2e8f3c32-d8fb-4263-9502-eade7aa3c612.jpg",
+  "price": 55990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bd8"
+  },
+  "name": "Неттоп  ASUS PN64-S5756MD,  Intel  Core i5  13500H,  DDR5 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/UxHOM4clGSX217S3blVPlxKYvZ6_E7rRfeVDUFhqvHI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6b0201ca-121f-4b68-b166-f2d9bc5e22d4.jpg",
+  "price": 67990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bd9"
+  },
+  "name": "Неттоп  HP ProDesk 400 G9,  Intel  Core i3  13100T,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/HGzxdvXCMn-fJ8zVau25AEHU07o53UszpItUWgwcPcQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b61a24d6-d469-475d-ab1d-a4897cd982db.jpg",
+  "price": 49990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bda"
+  },
+  "name": "Компьютер  iRU Опал 615,  Intel  Core i5  12400,  DDR4 8ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/PhlXg7QzLpbUZJ3H7qZ2Hqq1Vlfkpgi0oCMTKwApaPk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d5ebdeee-89e6-4b6e-8e3c-ddc9ffa0cd1f.jpg",
+  "price": 52212,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bdb"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  12100,  DDR4 8ГБ, 240ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/i3LPDkyTYRnP4xjFL_00vcYCOp8JdTQrpAFVCmO7GH4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/66026aff-f4a1-4eaa-88ca-d8b0bed651dc.jpg",
+  "price": 31730,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bdc"
+  },
+  "name": "Компьютер  RASKAT Standart 200,  Intel  Pentium  G6400,  DDR4 8ГБ, 240ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/C9nntzrU-ThZxAmNpSzc1v-vIgmvjMr-8mceb4RY47M/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/43335461-d19b-463e-bce3-77684bb42319.jpg",
+  "price": 25280,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bdd"
+  },
+  "name": "Компьютер  iRU Опал 312,  Intel  Pentium Gold  G6405,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/CPmEGb4TDkb12TKZ6kDpTxV8WLYRv2GZrtlJdj-NTn4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/46734418-b04d-48c1-95cc-4ae178f0d867.jpg",
+  "price": 55186,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bde"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-068BRU,  Intel  Core i3  1215U,  DDR4,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/PJEjSyCdZI195frMRTHlajmdZQVkvakH6sYBcTVCXYI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/82a7a45a-1dc8-4ba2-abda-676ef275cde2.jpg",
+  "price": 32990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bdf"
+  },
+  "name": "Компьютер  iRU Home 520B5GP,  AMD  Ryzen 7  5700G,  DDR4 16ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/-uFWZIoyPbdYxhl4IRZ0n8TQ_VnCJPBMJuFvm4Liwic/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/52403038-20dd-4f2a-917a-4419ec1c816f.jpg",
+  "price": 54590,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88be0"
+  },
+  "name": "Мини ПК  BLACKVIEW MP60,  Intel  N95,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/paNGKo9BZ4mkcN8ywSXRr8x2s9RFJE2-9PSPdLoWD34/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ed9d1bf2-634e-47de-b3e3-a00e9a80fb82.jpg",
+  "price": 22990,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88be1"
+  },
+  "name": "Мини ПК  BLACKVIEW MP80,  Intel  Celeron  N5095,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/3NpuppPhZc4Rjj3JeeI73ywjS7HQGh846sLI3N_xiag/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d0f9e282-e3d4-46cb-af82-4804fe75e5cf.jpg",
+  "price": 21990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88be2"
+  },
+  "name": "Компьютер  iRU Corp 715,  Intel  Core i5  12600K,  DDR4 16ГБ, 1ТБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/Xp_SBV0IoeY-u78GLkSWtR9eUR48fRMQnYVCEHfDFBY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/82042637-d6fd-4394-a5f2-be346bbf7ee5.jpg",
+  "price": 109190,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88be3"
+  },
+  "name": "Мини ПК  MSI Pro DP180 12-600XRU,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/B4cBzSKUryXSw_PFQzeaQJm-hKjCnJaE_8wrz8mZ62U/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b96e98aa-ef4e-47e2-bb59-c166ac8f3ecc.jpg",
+  "price": 48990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88be4"
+  },
+  "name": "Мини ПК  BLACKVIEW MP60,  Intel  Celeron  N5095,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/OO5BlsqtOxLO0OpnOON-0uwkfxgSt5TNm8485xkHsgY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4a434c8d-d1ac-449c-8112-e0b74d776e68.jpg",
+  "price": 21990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88be5"
+  },
+  "name": "Неттоп  MSI Pro DP21 13M-848RU,  Intel  Core i3  13100,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/m_FtkGMK06qZru5R32omit4Fp9AT2_dpMPzaZEBH4HU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c8737c00-0c40-4909-a933-118a76498b7d.jpg",
+  "price": 63990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88be6"
+  },
+  "name": "Неттоп  MSI Cubi NUC 1M-053BRU,  Intel  Core 3  100U,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/u7PJ0ON9n13WntRPHmcSGjkAw2q9_wm-RfSWgR4fgc0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/eb6b0b58-772a-4f18-9a0b-0c63c00f4ca0.jpg",
+  "price": 34990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88be7"
+  },
+  "name": "Компьютер  Dell Optiplex 7020,  Intel  Core i5  14500,  DDR5 8ГБ, 256ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/aeOS_ajJMvTKA_68TTkLxPgan9WaqpvRBpITDIWuhs8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/a0dfefb3-f833-46b0-b2da-a7d088e32011.jpg",
+  "price": 74990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88be8"
+  },
+  "name": "Компьютер  MSI Trident AS 14NUE5-806RU,  Intel  Core i5  14400F,  DDR5 32ГБ, 1ТБ,  Windows 11 Home,  черный",
+  "img": "https://cdn.citilink.ru/n5IKN-JcH601x_JYsTcP_bTvSWEHQIG5W6g6CmTHRPI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/21b33907-dc1b-4d68-98d7-88225950745c.jpg",
+  "price": 217990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88be9"
+  },
+  "name": "Неттоп  HP Elite 600 G9,  Intel  Core i5  12500T,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/4xcpIuW5WIM0LE96PKju5i0rPv87Bf3EEEYKOHtoxq4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/800d2044-1617-439f-8ae1-97ef9bdd26d6.jpg",
+  "price": 75990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bea"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-203RU,  Intel  Core i5  1235U,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/PrrYSosmW0p9evzReQphme6APzDysTRq54CZxGK7BLY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4a7baebc-af76-4199-98f5-48ac24342134.jpg",
+  "price": 66990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88beb"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-039BRU,  Intel  Core i5  1235U,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/MqAILo1X0S8V3psyobh8zOXSY_qmqgh3EwwpJTH_dO0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8b26ca83-80d7-49c7-a5a4-c771347f6036.jpg",
+  "price": 39990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bec"
+  },
+  "name": "Неттоп  ASUS PL64-S5213MN,  Intel  Core i5  1235U,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/bOPk82-_mr055BJcAtYyMUNw6HBcMbgxhVQl1xld_Mw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/bcedbf3e-110e-4bfa-8f19-58cb0176b78e.jpg",
+  "price": 65990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bed"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-219XRU,  Intel  Core i7  1255U,  DDR4 16ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/iLHO03uiMpJLlgB3_S-2GB5v9PKWXHD6dYZqoUisJh4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/a8751a7f-f85f-4437-b8e0-be5c9921b3d2.jpg",
+  "price": 62990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bee"
+  },
+  "name": "Неттоп  HP 260 G9,  Intel  Core i3  1315U,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/kGRMrDCwI091jZVp1reJhOvP1g6eYyOuTLBBsILUcQI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/02c3249e-73a5-4982-a92a-db2498b71e2e.jpg",
+  "price": 47990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bef"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-012XRU,  Intel  Core i7  1255U,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/M8PH-_hh2PjIz4dm7TUFoTuutW30sVp1ouUtarQyb6o/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/bf63b1dc-82c6-4590-af07-92fb5bfdba88.jpg",
+  "price": 61990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bf0"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i3  12100,  DDR4 16ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/i_WMAGUsDyQde-uYbfiWe6jlm6NBC-RHzIE7korUJ_M/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8b08fcc9-5fe0-4a4e-9f86-aec4b360eea4.jpg",
+  "price": 30860,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bf1"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-067BRU,  Intel  Core i5  1235U,  DDR4,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/vlRm2OZZKDGPXXDUojcgjpjpJi6FK5KT-tWOn-ouh6Q/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/daab00d9-182c-455c-839c-a39a052b24b4.jpg",
+  "price": 41990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bf2"
+  },
+  "name": "Компьютер  Dell Optiplex 7010 PLUS,  Intel  Core i7  13700,  DDR5 32ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/y6lGzapUsKtqcfZgw_29v6Dk19xveWJuyf2DNqFxzTg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d82335ae-3166-4e33-95d0-93917bf7d6b4.jpg",
+  "price": 137990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bf3"
+  },
+  "name": "Неттоп  ASUS PN64-B-S7286MD,  Intel  Core i7  13700H,  DDR5,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/ykZE8ajgz_jP0O3lQgRUXrIVmmhMFJqC9LfafVz3y3E/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/13b62e0e-7316-4381-a17a-75a6f790d6f7.jpg",
+  "price": 69990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bf4"
+  },
+  "name": "Неттоп  ASUS PN53-B-S5100MD,  AMD  Ryzen 5  7535HS,  DDR5,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/sDDkM5rWIlGcjtK85dckXGDsvpqQJZ20wCNvtDkz6ik/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/9d053fcf-4208-4aaf-af4a-7ce6d82e8544.jpg",
+  "price": 51990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bf5"
+  },
+  "name": "Компьютер  HP Pro 290 G9,  Intel  Core i5  12500,  DDR4 8ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/r_IVo3oWbSAo5jpqQCwYhEOde94LHS1V0AwN7RL5FxU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f41194de-56e3-46bc-9d2e-bb8e4ba30dfb.jpg",
+  "price": 57990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bf6"
+  },
+  "name": "Неттоп  iRU 310H6ITF,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/SPCsylNlqk80dZ5S-ibA7mBIbnjz0_NGlVjWWsCnezY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c115cf1c-9bcb-483c-949b-5249f472f3e3.jpg",
+  "price": 39990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bf7"
+  },
+  "name": "Неттоп  iRU 310H6ITF,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/Rw8kNOU4chYTxMp3A4tKlc_s5P06LaxfipxEBaUWyC8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/04c0b4f3-0418-4076-abcc-bfef5da8b544.jpg",
+  "price": 49990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bf8"
+  },
+  "name": "Рабочая станция  Dell Precision 3660,  Intel  Core i7  13700,  DDR5 32ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/Ml0cAI3QvuO54_5tV3y0YTTe_xfDfEW_bU54TULHaFs/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/004ffcaa-d782-493a-8a43-91e18cd16b64.jpg",
+  "price": 195990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bf9"
+  },
+  "name": "Компьютер  HP S01-pF3012ci,  Intel  Core i5  13400,  DDR4 16ГБ, 512ГБ,  Windows 11 Home,  черный",
+  "img": "https://cdn.citilink.ru/wLrevo1YSDfMUTVEELZm5KXfgDGVm-fdZNj-e2gM2A8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/1faf98b8-cccf-4ae2-90fd-17df430fd26f.jpg",
+  "price": 87360,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bfa"
+  },
+  "name": "Неттоп  Lenovo ThinkCentre Neo 50q Gen 4,  Intel  Core i3  1215U,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/ysZF5fQ6vm8y7ifVrp15PHh1oQ5WP7LoXxitLwsQjEE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/7599e926-a39a-4b94-a1f2-a95ff7dac03b.jpg",
+  "price": 46990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bfb"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i7  14700T,  DDR5 16ГБ, 512ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/mRKBL0C01kDs3Uz5yEwBtKHmjqgWt4qjSKCajbgYclc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/68adbe5d-6b05-4ddd-acd7-ea350a23ee9c.jpg",
+  "price": 105990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bfc"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i5  14500T,  DDR5 16ГБ, 512ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/dLtE9u7fxjCladp98iF6D2D0_N33YUXRTBYkzHZKdF0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/52ada6c0-602f-4f09-a6a9-8aa05c3a56c9.jpg",
+  "price": 79990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bfd"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i5  14500T,  DDR5 8ГБ, 256ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/uev9X0SdJ13Pcmq8alI-4KomVnhX_glse52OMCEa31Y/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/adf8c9eb-0bdf-4f2b-b716-1288f10d57ca.jpg",
+  "price": 69990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bfe"
+  },
+  "name": "Компьютер  iRU Office 310H6SF,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/XKdyp6cW6HwmL33lCZDiT94VYXlOXL9gQz6Q44xW3sU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/27ebf42d-def0-4c63-9731-b4a9795c9b74.jpg",
+  "price": 29400,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88bff"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-230XRU,  Intel  Core i3  1215U,  DDR4 16ГБ, 512ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/pYXbyQlQxocbrvKRlGNM_VuhY00AC6BeqqpFoARjDmA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/1a0bbc63-4792-46fa-8189-a713f1819393.jpg",
+  "price": 41990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c00"
+  },
+  "name": "Рабочая станция  HP Z2 G9,  Intel  Core i7  13700,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/Cbl-LGXaEva9d06c8-pAcLolfvrORopEUMjGAkZMHjI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/7fd95ccf-7133-4408-abfb-807324c9975f.jpg",
+  "price": 193990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c01"
+  },
+  "name": "Неттоп  ASUS PB63-B-B5054MD,  Intel  Core i5  13400,  DDR5,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/7eFqGIgzR1NjMK9APkdp-QktJO6cZWeHtGzJrQLifSo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b8eaf63d-d2dc-487c-b43f-5a5961410067.jpg",
+  "price": 49990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c02"
+  },
+  "name": "Неттоп  ASUS PN64-S3755MD,  Intel  Core i3  1220P,  DDR5 8ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/zfgykILohdXz-El4bTTQLzCakk0qfEcIM7_UUbhgJqg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ece0708a-344a-4282-be8b-23c9c2c27e02.jpg",
+  "price": 46990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c03"
+  },
+  "name": "Компьютер  iRU Office 310H6SF,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/QImuDaZEHtTydl_gke3tbJSx4jvLbqGPchyz5nwKEkc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d795c4da-1cf8-4f81-b91a-9b0f4e876d4b.jpg",
+  "price": 37990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c04"
+  },
+  "name": "Рабочая станция  Dell Precision 3460,  Intel  Core i7  13700,  DDR5 16ГБ, 1000ГБ,  512ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/QVF1S5zi1SiEYVT9U0D1A-AA_uxiI16RRQb3vvbYfKU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/825500de-082a-4faa-98fe-e2c532b70ceb.jpg",
+  "price": 189990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c05"
+  },
+  "name": "Неттоп  iRU 310H6ITF,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/quEmc2pa8OXOOV1pBY5dU8gHDQLU764806-vRh2CXuw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/a43a9c89-b716-4381-8f2c-80b6102613ea.jpg",
+  "price": 47990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c06"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  10100,  DDR4 16ГБ, 480ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/FIVpE8Em2HvkoOjZQUFDTu8sReucIqSMlzSCqXoRi_s/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c62f8ca0-b87b-4f82-aa13-d4b599171455.jpg",
+  "price": 36240,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c07"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-097XRU,  Intel  Core i5  1235U,  DDR4 16ГБ, 512ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/PnuJnEhCWhU_Y810eeuBq-9qCMVwgLMWQk6hPBHGiAY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f4d20646-2333-43d9-8106-720d276d112a.jpg",
+  "price": 52990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c08"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i3  12100,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/4l7ogeckuaN3JDUZfz7ZCeexJEI5DjphR9i4n0eYNVE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/9bc1cac0-bae5-48ca-8774-a75ad0abac45.jpg",
+  "price": 34090,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c09"
+  },
+  "name": "Неттоп  ASUS PN64-B-S3168MD,  Intel  Core i3  1220P,  DDR5,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/TfzKOnv_e0-8Nl8dDXueU6YcAQhjgK9TB1XkT5b997s/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ec9b279c-5240-496a-8631-1106428b1150.jpg",
+  "price": 36990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c0a"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  10400,  DDR4 16ГБ, 2ТБ,  240ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/_0LeAd5X9Yc_JGW9WFjZeA0NVo1I6e2IPoNxuMJJsrM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/e83cafa1-4592-49fb-a96d-be3450440f87.jpg",
+  "price": 48510,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c0b"
+  },
+  "name": "Неттоп  ASUS PN65-S7053MD,  Intel  Core Ultra 7  155H,  DDR5 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/TH6knq900vJceRp_s0G-yqIqOLtr7AOjM-7YpNQ5cRY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/cb733111-47e3-41a3-8b23-9234e3c7d617.jpg",
+  "price": 95990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c0c"
+  },
+  "name": "Компьютер  HP 400 G9,  Intel  Core i5  13500,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/vnnDoSuk7KXdZa8BUuSZYpAWPLEUOrtM8D7XfmYEc04/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/9a491853-b9f1-447c-9fcd-d331d137b7bd.jpg",
+  "price": 95990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c0d"
+  },
+  "name": "Мини ПК  BLACKVIEW MP200,  Intel  Core i5  12450H,  DDR4 16ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/Ij-21K4LHBfhDYa8pj0V0p7C17h2zdAdjYM5NsqMK2k/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/9a18e8c1-a3f2-451c-93d0-655d60fab869.jpg",
+  "price": 45990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c0e"
+  },
+  "name": "Мини ПК  BLACKVIEW MP60,  Intel  Celeron  N5095,  DDR4 16ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/0xt63JSAheNURythlLZ3z-nZp-xCeor4Vnh_PRmq7Ao/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6da3622a-2f04-487f-a59d-21a4a05d4c8d.jpg",
+  "price": 24990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c0f"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i3  12100,  DDR4 8ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/z3xnzz9juMohMmGjOvU15EMyTdLlGkT6dfRduRZqAYI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/137f8b64-6e40-4c18-8317-3453ad8a1d5c.jpg",
+  "price": 34390,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c10"
+  },
+  "name": "Неттоп  Lenovo ThinkCentre Neo 50q Gen 4,  Intel  Core i3  1215U,  DDR4 8ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/XdM4PpJHkfIAwBnoPS7i0p5KusBs6T9A5cYxfkISoRU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/86942d42-df66-44ab-a10b-f3b9c6bd879b.jpg",
+  "price": 47990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c11"
+  },
+  "name": "Неттоп  HP ProDesk 400 G9,  Intel  Core i7  12700T,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/mbP7D69k0oJ6cJdk9RGMYm0R7N96ig6rY5G7hP8rpwg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/5c3d6dcf-da08-418c-a330-886ed923945d.jpg",
+  "price": 87990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c12"
+  },
+  "name": "Компьютер  HP Pro 400 G9,  Intel  Core i5  13500,  DDR4 8ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/6RkOfvK48OnaHMvgQlaWHN3xx0mHgWtskAazFYPqogo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/e19ff55f-cc32-4b18-a293-2a8e8261fc18.jpg",
+  "price": 85990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c13"
+  },
+  "name": "Неттоп  MSI Cubi NUC 1M-053BRU,  Intel  Core 3  100U,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/hdzr2Vz3Z8VRLst9rPBMcLMe0ebkZaEYtyZgsZePn4M/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/20b141de-b41f-4dcd-83f4-6769f21d792d.jpg",
+  "price": 36990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c14"
+  },
+  "name": "Компьютер  Dell Optiplex 7020,  Intel  Core i3  14100,  DDR5 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/o8bL64u1-1ypA5WMyvy_SrBi6dIHY8CaMg48iGMjQ3c/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2201e43d-5238-47aa-8a6c-84a0f6f9ef3b.jpg",
+  "price": 80990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c15"
+  },
+  "name": "Компьютер  Dell Optiplex 7020,  Intel  Core i5  14500,  DDR5 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/mVRJKD3G93CGMvik_VlfuGq8CjgFEJ9wkXCrT2AOieM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/5add7152-10bc-4014-a918-96801ef3434d.jpg",
+  "price": 95990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c16"
+  },
+  "name": "Компьютер  Dell Optiplex 7020 Plus,  Intel  Core i7  14700,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/436vYxRYiYR0VfWZyxos0lu3a-UoSzi386oK99gwzPc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/cd623db4-38c9-46c9-ac18-edc718fb0ef3.jpg",
+  "price": 135990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c17"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/mZOF6GLRJ1NyrjiwVufnkClmzbbs8Jg1Uytaw9Ya0t8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/95bfc081-a18e-488b-95f7-56348fb732ef.jpg",
+  "price": 33200,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c18"
+  },
+  "name": "Компьютер  HP Pro 290 G9,  Intel  Core i3  13100,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/DV05sz12eT4o99pgyDwguTZRy_gQZprxtDCQXpQYK3Q/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/29bd7d1e-64e4-4569-8f4b-2b0e94316a0e.jpg",
+  "price": 55990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c19"
+  },
+  "name": "Компьютер  iRU Strato 510B7GM,  Intel  Core i7  12700F,  DDR4 32ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/Jwv96UiTVnEmBuOZd6c7rkevgLQKccme-LyDoMVg-cg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d0387180-a1de-4c11-82be-162e9d5ceaa5.jpg",
+  "price": 162490,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c1a"
+  },
+  "name": "Неттоп  RASKAT Standart 507,  Intel  Core i5  12400,  DDR4 32ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/68mNjkChc8kIBldfCxj6R8jUntxD_y99hiNs3vi9sLQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/05bef0fc-86ab-44da-9ee2-7ccedc54be88.jpg",
+  "price": 61370,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c1b"
+  },
+  "name": "Неттоп  RASKAT Standart 307,  Intel  Core i3  12100,  DDR4 8ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/0hYlnD-Ba6nXIX4I6EA_6SmJo_sfiTeK1Nw2qAKktQk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/41570361-b834-4e82-b7af-7811bc5d8b68.jpg",
+  "price": 47880,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c1c"
+  },
+  "name": "Неттоп  HP ProDesk 400 G9,  Intel  Core i7  13700T,  DDR4 8ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/teQCCp1roHcCUH4P4LmvWGcfo_JBLgJjYblXd9chY4U/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4cc70ed0-a215-4271-bc95-c467e3eb1b80.jpg",
+  "price": 81990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c1d"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-047XRU,  Intel  Core i3  1215U,  DDR4 8ГБ, 256ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/WTdxtAVkpSBbk3eUr-ikmd-r4Blk6mN394gBx8ZehU4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/5632ea2f-39b2-4b31-a99b-4b92ad454104.jpg",
+  "price": 36990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c1e"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i3  14100T,  DDR5 16ГБ, 512ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/uXoVOCUC9oyXp3UKyk7K6JO-kbL70XMC8d2xZM86E3Y/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b4f6aa1d-3194-48a5-b8ab-8745bc73631f.jpg",
+  "price": 67990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c1f"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i3  14100T,  DDR5 8ГБ, 256ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/imKtpQRQNyVb6ybgm_UXYPbq_pFub5SEuyQfujJwjGY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/66be23e0-4359-49b6-ae58-7f9e96591a8c.jpg",
+  "price": 54990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c20"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core  300T,  DDR5 8ГБ, 256ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/VaIep3X9KHFKxROZTzl3JGBPNWRlFRsM1INfR-FbTSg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4446712b-7d85-4f22-a906-2e307aff080c.jpg",
+  "price": 49990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c21"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i5  14500T,  DDR5 8ГБ, 512ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/G0lMAGnhbLbVqGvfnw93fvtXvL68yZp2jVU805zG7po/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0000f8b4-f707-4a49-89ff-032570ce98f5.jpg",
+  "price": 70990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c22"
+  },
+  "name": "Неттоп  ASUS PL64-B-S3092MN,  Intel  Core i3  1215U,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/oKSbNsLPe87tau5L1PHalw6Laor89S6YqTZiWeV9jOc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/75fd9fbb-ec58-456f-8500-458ef0f7a5f0.jpg",
+  "price": 39990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c23"
+  },
+  "name": "Компьютер  iRU 310SC,  Intel  Pentium Gold  G7400,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/Ol6uVGJbUvuM1bozMs6rtOaZoL0cVOetdo5F3Pkqe50/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/db33be7f-162d-46ee-83da-ef8ba8d1295d.jpg",
+  "price": 35890,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c24"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-220XRU,  Intel  Core i7  1255U,  DDR4 16ГБ, 1ТБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/VQvjYacDYPoW6vO_N_E-BJ92JRg-GqBIqe7VfAEVG8E/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/e59a2e87-1b08-4657-888c-062ffc7def30.jpg",
+  "price": 59990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c25"
+  },
+  "name": "Неттоп  ASUS PB63-B-BC051MD,  Intel  Celeron  G6900,  DDR5,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/h4jU7VVTY8L-WinWc_S8zWkYas_MCj2KZPFEzYFm6wU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/caa47842-d822-4695-ac90-3c105c772939.jpg",
+  "price": 31990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c26"
+  },
+  "name": "Рабочая станция  HP Z1 G9,  Intel  Core i7  13700,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/_L22iLRGkzlSI83VUdIMibk18zK9abHGZI5TxAp13tw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b1192e6a-7cc7-4df9-a38b-de367dba911a.jpg",
+  "price": 136990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c27"
+  },
+  "name": "Компьютер  HP 400 G9,  Intel  Core i7  12700,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/WkdQhkUbO_zN9K39ZXjyaR9EMsMM9mBUh57sC7LatzI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ee1e9b24-53e8-4e30-be3c-f2e1af07a54e.jpg",
+  "price": 89990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c28"
+  },
+  "name": "Неттоп  Lenovo ThinkCentre Tiny M70q-4,  Intel  Core i3  13100T,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/X9xsjvyadZ7afgqWAgQR7XIfxeYEamlJeEPWiu2orQ0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2fdddecb-124a-4def-849d-b1e398e60bcc.jpg",
+  "price": 51990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c29"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-032BRU,  Intel  Core i3  1215U,  DDR4,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/ie07aeJYcMMTq9dw3Ff5WSPJZd3bIRzJqT60vfD0aBQ/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/dc251ded-5bef-4d15-8fd3-92ea327c0edd.jpg",
+  "price": 32990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c2a"
+  },
+  "name": "Неттоп  HP ProDesk 400 G9,  Intel  Core i3  13100T,  DDR4 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/4MwWWKCC8TgJdXWmQq6aByFxBrxrPd_adisI8fjc5IY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c652443b-025e-422d-b2e0-65a8b23661a5.jpg",
+  "price": 73990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c2b"
+  },
+  "name": "Компьютер  iRU Home 510B7,  Intel  Core i5  12400,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/4HnGdtKQJb6y30RB7xwK1Z0BWkCbqXsx9aUTCj_xHjA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f9d7a3b3-7125-4f7d-8545-a2cff8c9210d.jpg",
+  "price": 44300,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c2c"
+  },
+  "name": "Неттоп  MSI Pro DP21 13M-607RU,  Intel  Pentium Gold  G7400,  DDR4 4ГБ, 128ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/doqPA6xEd_uacSYIMrDz_DCzdM9YU6rENGpCwhCVst8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/77769999-b691-4872-849f-081c28d537cf.jpg",
+  "price": 35990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c2d"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-031XRU,  Intel  Core i3  1215U,  DDR4 8ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/Sd35vyc0UfEzmyaHXmmOZaNh5EIIUF8gHk7zSOUYE_0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6de02dcf-2306-4553-8362-0db312f1c7a0.jpg",
+  "price": 39990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c2e"
+  },
+  "name": "Неттоп  Dell Optiplex 7010,  Intel  Core i3  13100T,  DDR4 16ГБ, 512ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/YWNogymKiGpuPximcu-us6FDJ4NdysWo6EVetXdChTI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/06fa8d96-6a31-4343-8a60-ea3a7d04946f.jpg",
+  "price": 57990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c2f"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  11400,  DDR4 8ГБ, 240ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/wWR0WuMjBWjyScvVgBXptAmUGNdOSBCOubai4fB9-r0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6825e62b-d861-4001-9ccf-73b0b4d8c2db.jpg",
+  "price": 37800,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c30"
+  },
+  "name": "Неттоп  ASUS PN64-B-S5284MD,  Intel  Core i5  13500H,  DDR5,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/2XIugwiCj3peYOQybEKcV-7uaQbgt6YCfl5ZGqqhINA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4082b5fb-8f35-421c-b175-e00524d1af68.jpg",
+  "price": 52990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c31"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  12100,  DDR4 8ГБ, 1ТБ,  240ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/Sbt2j0EkRuSlphxtIp4M-5bX-R6bRwKfjcW-HaS-98w/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/5d77a9f9-b364-47c3-b9cb-87516d3c0c30.jpg",
+  "price": 42380,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c32"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  12100,  DDR4 16ГБ, 2ТБ,  480ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/Ul1GUCIY0Zc-r1j2wEWjXQlvHydqiT4aPGzjDHQunSY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/eb6b2ef4-ca83-491d-9dcc-f92f0b5ee379.jpg",
+  "price": 44210,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c33"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  14400,  DDR4 16ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/uHflRnNSSfvsGYCAWrEobfxXhM7zTfAHM2TaxyDoa_0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/90bf472a-3610-405c-8826-4327cc835972.jpg",
+  "price": 56650,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c34"
+  },
+  "name": "Компьютер  RASKAT Strike 520,  Intel  Core i5  12400F,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/6MEiLVcb0KA4g7RO5e0Xcd7JyLSiJrpVN71juLKvOmk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/931dceb8-5961-4c3f-85ea-fdfd6378e8ba.jpg",
+  "price": 96870,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c35"
+  },
+  "name": "Компьютер  HP Pro 400 G9,  Intel  Core i7  13700,  DDR4 8ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/3rldKWlB67DDnbiLYOAKn1dZqGzjPFBTXRnqGgXeTqY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b2c704db-9841-4371-9dc7-d0b2d847d5e4.jpg",
+  "price": 85990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c36"
+  },
+  "name": "Рабочая станция  Dell Precision 3260 Compact,  Intel  Core i7  13700,  DDR5 16ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/67J8QrfjY0oF1u11rf9qBY_pAd3rIZqng12yvaunmmc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/3fd4ed6a-a5b4-416c-ad7c-c17390a034b6.jpg",
+  "price": 215990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c37"
+  },
+  "name": "Рабочая станция  Dell Precision 3460,  Intel  Core i5  13500,  DDR5 16ГБ, 512ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/YNgPSwUNVkgYqpv9OuzC4Yhz53LxOqTMKEASMMlb5OM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b5d448f4-e041-4d7a-8eab-83ddefc75353.jpg",
+  "price": 124990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c38"
+  },
+  "name": "Неттоп  RASKAT Standart 507,  Intel  Core i5  12400,  DDR4 16ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/bjR0aEbNi9Ymv-RSzWH9nhnQF4ICRZw6cyCtuJ3OiP8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6c457884-2894-44d0-aebc-232cedcf14f1.jpg",
+  "price": 60150,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c39"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i5  14500T,  DDR5 8ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/boEfrpWnXBpW7sxlE5KLdnJgR4zEsDQtPggwFWKVNzo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0ab0cb54-2300-411f-9ae8-c50f1091ad6c.jpg",
+  "price": 99990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c3a"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i3  14100T,  DDR5 8ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/tBfL8jQfoBjjIsQiBLWkwc6wt2Ak6s3cutahIjsfR0s/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/3f872120-0f02-44c5-8c28-4841868975d7.jpg",
+  "price": 79990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c3b"
+  },
+  "name": "Рабочая станция  Lenovo ThinkStation P3 Ultra,  Intel  Core i9  14900K,  DDR5 32ГБ, 1ТБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/_ZdOM5re2fRs4Lmo0QYgV_yH9Hsrqsmbos-O5bVYi8k/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/3c1791be-9172-48cd-9a0d-569c98d06662.jpg",
+  "price": 291990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c3c"
+  },
+  "name": "Неттоп  MSI Cubi NUC 1M-052BRU,  Intel  Core 5  120U,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/FUPzUQ3KYcr339cmkjrHNnRVMocxWdNO-77i8KB4NPs/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/1d505b42-de70-4d5d-8a63-5e61cc3837a5.jpg",
+  "price": 46990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c3d"
+  },
+  "name": "Компьютер  Dell Optiplex 7020,  Intel  Core i5  14500,  DDR5 16ГБ, 1ТБ,  256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/f939PIx797IQus9clT2avLsghxIjVi3YNbBWS9KVxRs/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/be31fda6-5089-4fa8-a336-1cc5d1d66727.jpg",
+  "price": 107990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c3e"
+  },
+  "name": "Компьютер  Dell Optiplex 7020 Plus,  Intel  Core i7  14700,  DDR5 16ГБ, 1ТБ,  256ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/niefAWGofRJVxuZHRvsa0Y_btoMKzyns-Gd3JLhAzI4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ab104d81-e522-401f-86f4-a58c246f98ba.jpg",
+  "price": 164990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c3f"
+  },
+  "name": "Неттоп  RASKAT Standart 507,  Intel  Core i5  12400,  DDR4 16ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/-KyKYKTKqRvuq7kJIwNHsQlwmeH4g7rpVljwnyGH6Gk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/33d08cbe-9f39-4145-a0a3-ee96b8a13f23.jpg",
+  "price": 52790,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c40"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  14500,  DDR4 32ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/ZuwZanj2qZ4CLHm4Cm77AAhR9SP6og12LoF8uhBYCfw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0bc3c937-3b4e-43bc-93c2-a6934e388aaa.jpg",
+  "price": 65890,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c41"
+  },
+  "name": "Неттоп  Lenovo ThinkCentre Tiny M70q-4,  Intel  Core i5  13400T,  DDR4 8ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/G7bmGMY3cBvgE6XaHOEeHKZ2341i7HGXNPMzao3ADBA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/572acacc-a152-4f4b-916d-882d2db437bb.jpg",
+  "price": 72990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c42"
+  },
+  "name": "Неттоп  RASKAT Standart 307,  Intel  Core i3  12100,  DDR4 16ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/ptMYx4g1DdXjKAfVa8go2vxV6pLXRKkarT3TS4xqhzA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/5da7f572-edb9-40e5-85f7-96301f00fb85.jpg",
+  "price": 47880,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c43"
+  },
+  "name": "Неттоп  RASKAT Standart 307,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/pcdaNfpxQ5KVof5UAja_3TDA6hihlpJpky5DYOspnZM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/493fb381-eb66-4d90-b1a7-8d67cb5636e7.jpg",
+  "price": 45430,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c44"
+  },
+  "name": "Неттоп  MSI Pro DP21 13M-691RU,  Intel  Core i3  13100,  DDR4 8ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/p8_O7mFUqzha67Buodhxdlt3bFrUfoLWJiNFDdIMlqE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4915bd87-bbf1-45c7-a760-c46b42162b7e.jpg",
+  "price": 61990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c45"
+  },
+  "name": "Компьютер  iRU Home 510B7GM,  Intel  Core i3  12100,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/MncMqSTScRUtP6cmPJ5qbVcwrR2uS4nMvnxR4iObDYU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/63f2fb39-678e-48e1-a149-9a1ec05fe804.jpg",
+  "price": 42490,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c46"
+  },
+  "name": "Компьютер  Dell Optiplex 7020 Plus,  Intel  Core i7  14700,  DDR5 32ГБ, 1000ГБ,  512ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/_drbvsaHIhKhr-gElLYLhK_3oc8owOrqfv62EPNjzHI/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c0f08e6a-d822-4fb1-8d17-ce918174531a.jpg",
+  "price": 134990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c47"
+  },
+  "name": "Неттоп  MSI Pro DP10 12M-032BRU,  Intel  Core i3  1215U,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/9qCS9oDHZO_MyLaJBZFTzHoaK4aSNGxXh9-dxOj4vgA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/546a69ca-6373-41b4-af4d-779109d4c731.jpg",
+  "price": 33990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c48"
+  },
+  "name": "Неттоп  RASKAT Standart 507,  Intel  Core i5  13400,  DDR4 32ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/OZLDgw7hzVaxSzCNGzXO7rgieKLjQYqS1pxAZ_Jmblo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/526f6cb8-41d1-41eb-8e3b-27113249c800.jpg",
+  "price": 72410,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c49"
+  },
+  "name": "Неттоп  RASKAT Standart 507,  Intel  Core i5  12400,  DDR4 16ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/-TKTwcaGny4_GLEGnsNYeyQOE2qZdOF5ZxMBAnBlnpA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d8e25dfb-8909-42a7-a8b6-3f1a3c932d5c.jpg",
+  "price": 58920,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c4a"
+  },
+  "name": "Неттоп  RASKAT Standart 307,  Intel  Core i3  12100,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/-1n86iEVqgYzOBxNUSE8OqiPe2EtzCVX81ahq173VIY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2a7256bb-88c5-4aec-85ea-c044430007e5.jpg",
+  "price": 53400,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c4b"
+  },
+  "name": "Неттоп  ASUS PL64-B-S5093MN,  Intel  Core i5  1235U,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/a0JnvJRdNL2dC0MXxac-xgB6H_OrZuD6GAozK-cEUXg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/52d6af48-3050-4c83-b144-3e3488571bd2.jpg",
+  "price": 49990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c4c"
+  },
+  "name": "Неттоп  MSI Cubi N ADL-037XRU,  Intel  N100,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/lTMCGhm50nFTd_4pOeJY9qdwdycd2H1b4gcMsJg6wy8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/90f5ca72-45dc-4777-8c84-4f981aa0c040.jpg",
+  "price": 29990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c4d"
+  },
+  "name": "Компьютер  HP Pro 290 G9,  Intel  Core i3  13100,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/PLEZ0R_cAxpVTVEwPcWsfyNDw4HWtt9yNcPhDW6ymtk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/16507d07-e463-4da3-802b-43e5b86a5fa7.jpg",
+  "price": 55990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c4e"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-043XRU,  Intel  Core i7  1255U,  DDR4 16ГБ, 512ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/iqTRcsEh55zC7RXl1WNoYxfGK5m5myOoAekyvD27q2k/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/9327bcce-5754-4c39-8123-53544ed8b767.jpg",
+  "price": 61990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c4f"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  10400,  DDR4 8ГБ, 240ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/saY98VnKXX1Xm561geMgBs78Qx0LFqx7b-uRloR6Pgk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/37e3b605-864f-40b3-ad68-e70f61389a93.jpg",
+  "price": 37600,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c50"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  10100,  DDR4 8ГБ, 240ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/Di5usixcaXTgYXnWG3oYlMLV6C2q6hfpOt4_rQsf3_s/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c2327c70-0568-434b-a91e-da72ac4c9a5f.jpg",
+  "price": 29970,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c51"
+  },
+  "name": "Неттоп  MSI Pro DP21 13M-604XRU,  Intel  Core i3  13100,  DDR4 8ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/x20oIHv2gNd_wzWUe79tq2O_6H9-PZO6XVfwl4yiQmM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/1d0c411c-88b7-4d1e-8b60-0f5c4d668420.jpg",
+  "price": 49990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c52"
+  },
+  "name": "Неттоп  MSI Cubi 5 12M-046XRU,  Intel  Core i3  1215U,  DDR4 8ГБ, 512ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/9BJ_JDlIfzj2QBBeTU9Vu3osKzajmYrW6Rfwf0jm0xE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8d5c0dce-18e7-4b16-bf02-31e3a4c42d6e.jpg",
+  "price": 41990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c53"
+  },
+  "name": "Неттоп  Dell Optiplex 7010,  Intel  Core i5  13500T,  DDR4 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/b7XAQeC-4js2szg6fHKzHIEgiKDQ-6ukfRaAaVgMRJE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6612f026-b629-4be1-86c3-21ab5dc867c5.jpg",
+  "price": 85990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c54"
+  },
+  "name": "Неттоп  ASUS PB63-B-B5092MD,  Intel  Core i5  13400,  DDR5,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/7RHfrPddrAa5DEyHUFKGpR7asnlw4o2XYlfHWFLBHx8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ea29a4cd-3131-4f30-956f-e2311812b3f3.jpg",
+  "price": 56990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c55"
+  },
+  "name": "Неттоп  ASUS PB63-B-BC065MD,  Intel  Celeron  G6900,  DDR5,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/ekSyWUWnSpP5n75PB95VbxhCd0jhK0-Dl801pQeF71A/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/fd71b284-ccaa-4ceb-ac9f-56b2db184d2e.jpg",
+  "price": 34990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c56"
+  },
+  "name": "Неттоп  ASUS PN43-B-SN014MF,  Intel  N200,  DDR4,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/zwa8lZbfg7KMJTPSo57yh5AJ8mMvJ1XBJE72AQ4xQa0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/b9169794-103b-4460-8a79-beb51b6a07fe.jpg",
+  "price": 27990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c57"
+  },
+  "name": "Неттоп  ASUS PL64-B-S3125MN,  Intel  Core i3  1215U,  DDR4,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/v8nlzRm3YMMqbwlMLed1MEi6PQKI_FSTKW0disU0FpU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/314852b7-063c-49d8-bf7c-7caacf266c32.jpg",
+  "price": 43990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c58"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  10400,  DDR4 16ГБ, 2ТБ,  480ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/ATq6SM7EFURWAohx9KnjTykwpIzvfoS_lWIUYyA4KD8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/1df14afa-9890-4c7b-979b-6b98490276d8.jpg",
+  "price": 49730,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c59"
+  },
+  "name": "Неттоп  ASUS PN65-S5050MD,  Intel  Core Ultra 5  125H,  DDR5 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/AJKcdsvTtcYdP3El1PdnV_iygIYTN41tmPbsPBN-9_g/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/014410c1-23f0-4c7b-b9bf-bf9767769b27.jpg",
+  "price": 76990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c5a"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  14100,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/Ryu-o2YVwpNLkOrUbFztsn31PzOeHR7Q9uNOV7yyTgo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/a5b4ce7d-86b8-4223-8d61-0af417763de9.jpg",
+  "price": 41760,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c5b"
+  },
+  "name": "Компьютер  iRU Office 310H6S,  Intel  Core i3  12100,  DDR4 8ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/v_7rVTK4Y3U8nsKqerzCN5XpQfLZZIxFJ0fWbaIMuQ4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2cac387d-001f-401a-892b-d6d7782e4956.jpg",
+  "price": 34390,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c5c"
+  },
+  "name": "Рабочая станция  Dell Precision 3460,  Intel  Core i7  14700,  DDR5 32ГБ, 1ТБ,  512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/Am7OP78x45amUnX6QMWtN0fAtViEwox_llIyUbczsM0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/9b048cad-5161-4a83-bdf0-36d1847c4df5.jpg",
+  "price": 251990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c5d"
+  },
+  "name": "Компьютер  iRU Corp 510,  Intel  Core i3  10100,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/jHB_7ByKxEOUIly0Vp_G4UF_oAGJbPm1qF4onTAyLKk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/4cc15dcd-a75e-4859-88c8-45871bed1075.jpg",
+  "price": 37400,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c5e"
+  },
+  "name": "Компьютер  iRU Corp 510,  Intel  Core i3  10105,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/-Rn2HXKmIHCYiKLqk0T7G2qALar-F5YkqVkifvLeOzU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/9df1bea2-a938-4d77-b0a8-a51eb0bd860b.jpg",
+  "price": 32100,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c5f"
+  },
+  "name": "Неттоп  RASKAT Standart 507,  Intel  Core i5  13500,  DDR4 32ГБ, 1ТБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/vWY4VIEl-FxSVe0Qp1i95LNE81uoyfSwf-GVd5HhGvg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/24cd3cba-dfef-4d77-a3ce-bd5599a36895.jpg",
+  "price": 77920,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c60"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  12400,  DDR4 16ГБ, 256ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/2VRUieZgWulBQyOnd9xP2BcZ1VewdYPdn1D_jJkAyOc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/0cc818e7-6e59-4903-b056-c89e20e24589.jpg",
+  "price": 39310,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c61"
+  },
+  "name": "Компьютер  iRU Office 310H6SF,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/11P2Pg54ic7YQQ9SqohRxlNSA_PUo7l2IIjnjgjHX7c/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f980ea97-9692-499e-96e4-91171167a1e8.jpg",
+  "price": 36050,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c62"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i3  14100T,  DDR5 8ГБ, 512ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/RZx_tRLx5doc4DnjSwUwUS13clTGyxOLsigFJE3OnEA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/9d436b56-c095-43ee-9e7e-b58e37c1d211.jpg",
+  "price": 64990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c63"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i3  14100T,  DDR5 8ГБ, 256ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/khwFdzzgU321_QyOOhpZVhb_4YqswW-zcKzzip6UR-M/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/53dd4dcf-214e-42b9-99da-15e715338806.jpg",
+  "price": 79990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c64"
+  },
+  "name": "Компьютер  HP Pro 400 G9,  Intel  Core i5  13500,  DDR4 8ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/rjYEelokt2C_yA_cVBz-GSdkC1OIN_VUCgpAbhqxLwA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/fcecfffe-427e-4a61-9b34-ee6aae1e302c.jpg",
+  "price": 81990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c65"
+  },
+  "name": "Комплект  HP 290 G9,  Intel  Core i3  12100,  DDR4 8ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/1xaTG3FPnuUt7y8UtCNZNFISpUT6B0zkH72bpPYMlUg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f04d2cc0-386f-4fe9-9661-13cc79e4c517.jpg",
+  "price": 56990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c66"
+  },
+  "name": "Неттоп  MSI Pro DP21 12M-860XRU,  Intel  Core i3  12100,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/MnphaXAVyLKAnGZtiVYGkNhzkMHFNZcClNrwMHod7rs/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d38aded8-1438-422f-9f85-dcd3104567f5.jpg",
+  "price": 46990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c67"
+  },
+  "name": "Неттоп  MSI Cubi N ADL-019RU,  Intel  N100,  DDR4 4ГБ, 128ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/tazNSMLqM8cyAyiH-eDebkMEuZlCK34rbMw0Hbe_BEA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/684447ed-e110-4bbd-9017-f4a416f1ca44.jpg",
+  "price": 27990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c68"
+  },
+  "name": "Неттоп  MSI Pro DP21 12M-439XRU,  Intel  Core i3  12100,  DDR4 8ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/kj8-cgKadanbcvo-djwhsFVNUZyvC-6Ek-FBY44x0R8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/e07f4394-0127-4f09-9f96-6780b5469b0c.jpg",
+  "price": 44990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c69"
+  },
+  "name": "Неттоп  ASUS PB63-B-BP052MD,  Intel  Pentium Gold  G7400,  DDR5,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/5AxCi67heDcDnLRhe5C3HLZyMOym8tDhR0fvAJKkf80/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/76b2ae6a-d0e7-43d0-b8ab-a3baf9451cf1.jpg",
+  "price": 34990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c6a"
+  },
+  "name": "Комплект  HP 290 G9,  Intel  Core i3  12100,  DDR4 8ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/bYMzMsxROTQD8v9AUjtctznPMIKlhtNeyOI-TChUeCU/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/1ef82fca-97f9-4669-975b-338f6c6000fa.jpg",
+  "price": 61990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c6b"
+  },
+  "name": "Компьютер  Dell Optiplex 7010 Plus,  Intel  Core i7  13700,  DDR5 32ГБ, 1ТБ,  512ГБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/4BRB_8cniiXDdehiVXnq8AJ5YsuQUinmjbUXi43YWAk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ed05d20d-4c7d-42f9-9034-3699518c1cd6.jpg",
+  "price": 115990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c6c"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  10400,  DDR4 8ГБ, 240ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/g6CnvRO10WFZn1j1a_uH8XKK4C0yUUVMFzWLiSDBH5o/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/92b02305-b2d3-4196-a5a9-d1736a1a1aae.jpg",
+  "price": 33850,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c6d"
+  },
+  "name": "Компьютер  iRU Опал 312,  Intel  Pentium Gold  G6400,  DDR4 8ГБ, 256ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/o73Bd0uG9uWpW0Xqs1te2ph7-zN1V2kEtvGu_X-TitY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f1ae09cb-5f4b-44c7-a232-6e20c5ba8c9d.jpg",
+  "price": 52230,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c6e"
+  },
+  "name": "Неттоп  ASUS PB63-B-B3066MD,  Intel  Core i3  13100,  DDR5,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/_ZMQD6HHvPlYxb8iTiZ2B9Lc3LErNCrzqhqhrWSxvNo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/8de42b7e-d84a-4420-adaf-e75a4afb7ebd.jpg",
+  "price": 43990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c6f"
+  },
+  "name": "Неттоп  ASUS PB63-B-BP069MD,  Intel  Pentium Gold  G7400,  DDR5,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/800x6lrT2HJAKV4Xa2hSIONLJw5A76CpoNAosuvi1aM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f770f9ee-1fba-40ad-9cb5-e48044cad417.jpg",
+  "price": 38990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c70"
+  },
+  "name": "Неттоп  ASUS PL64-B-S5126MN,  Intel  Core i5  1235U,  DDR4,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/OS-hj5goEgTpxZaOHQhjH1IF3XoVHWMfMrc0mCd5j0Q/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/2cdcc293-ec90-46b7-aca1-db5a0882990f.jpg",
+  "price": 54990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c71"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  10400,  DDR4 16ГБ, 480ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/kagRLfPhq_gKNPCN5baOQYInNT8V9PIMWl_Px-eGRNM/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/e4bbb327-c474-48dd-868b-e4f61a558120.jpg",
+  "price": 42990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c72"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  10100,  DDR4 8ГБ, 240ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/1Pct1kd1_M5CcfjKMHY9J5EF6AgIek5QdjtBTzRp810/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/28ed559b-93a0-4efd-ba5d-dc8e245205e4.jpg",
+  "price": 33180,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c73"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  12100,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/M0HGianclVd3lRfwzDv8uUXeHZnB1vNTZx_sDXVkLb8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ebc67f08-d905-420c-975a-cfd7620528ff.jpg",
+  "price": 33420,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c74"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  14500,  DDR4 32ГБ, 1ТБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/WaJpTyF6psHld6Rcr2IwGKBFs9Af60Xo3LTM0JlQBfo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f1c6f7a1-b32c-49bf-95a6-336c724775c7.jpg",
+  "price": 68120,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c75"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  14400,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/rugnu9iyy32kc4qJ2-4k6DShDa36EojJBfxBm28FTVY/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/12e36221-0265-4d7a-8d13-a36683c2943a.jpg",
+  "price": 54630,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c76"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  14100,  DDR4 16ГБ, 512ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/ZISNrcj8MS425_vT0sbx-iylFFZp9K7Fi1XZcMMYLZA/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/f9740411-a9a9-49fa-b573-d09666294f28.jpg",
+  "price": 41760,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c77"
+  },
+  "name": "Неттоп  RASKAT Standart 307,  Intel  Core i3  N300,  DDR5 16ГБ, 1ТБ,  noOS,  серый",
+  "img": "https://cdn.citilink.ru/UsoKOBxcdTCm1Ih3S_le9sMFdF9k3WkOopjaidFGREE/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/1d920cd2-f153-40fe-a355-115661f5c53d.jpg",
+  "price": 50950,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c78"
+  },
+  "name": "Неттоп  RASKAT Standart 307,  Intel  Core i3  N300,  DDR5 16ГБ, 512ГБ,  noOS,  серый",
+  "img": "https://cdn.citilink.ru/9Tu_khlu1Vzex_69LW89XKURa4_hNnlGJIX_g5Xa-Do/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/c19e0d08-ff35-4c6f-b7b7-1756ffdaf2fe.jpg",
+  "price": 42370,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c79"
+  },
+  "name": "Неттоп  RASKAT Standart 307,  Intel  Core i3  N300,  DDR5 16ГБ, 256ГБ,  noOS,  серый",
+  "img": "https://cdn.citilink.ru/4YfrpGO_hpqGrBhWQkivngcvNcR5LicmmDdxMCvkBS8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/67f3f3e7-8d6f-485f-9626-dff750143d08.jpg",
+  "price": 39300,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c7a"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  14100,  DDR4 16ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/otaeAuiPjf96a0neVaBNvq-VgSG-ggSPXdcW1uAY4wk/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/6a61265c-1320-4e45-9461-78723865bed1.jpg",
+  "price": 39550,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c7b"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  14500,  DDR4 32ГБ, 512ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/O0BrFhL0p0DnkPkW_Xwurf04sFUT3aoRBr0UkoewVB8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/3e2f12e4-8d0f-4e08-9277-c330c06cd9c1.jpg",
+  "price": 65650,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c7c"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  14400,  DDR4 16ГБ, 1ТБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/jY6vi1CPWzx4LM7Fs4hGpXV0D3Uhzl3fPFb4QSwZEz4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/1fc234dd-2d07-4222-8d38-d45aa6603ff6.jpg",
+  "price": 58680,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c7d"
+  },
+  "name": "Рабочая станция  Dell Precision 3260 Compact,  Intel  Core i5  13500,  DDR5 16ГБ, 1ТБ,  Linux Ubuntu,  черный",
+  "img": "https://cdn.citilink.ru/qww4BHDlXBzAZC4_3-8JhLOijrYdD47H4tbWVy_Jbhc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/fd5e1c41-5270-4864-bd1e-5ed6b120f77c.jpg",
+  "price": 159990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c7e"
+  },
+  "name": "Комплект  HP 290 G9,  Intel  Core i5  12500,  DDR4 8ГБ, 512ГБ,  Free DOS,  черный",
+  "img": "https://cdn.citilink.ru/0jUYfMPo1qOs-RreQo6B_v90Tahx_zRJZybL14kNAM4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/217c6a9d-6f74-4ea7-8ab3-0b034a5cf567.jpg",
+  "price": 67990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c7f"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  12100,  DDR4 16ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/aMdKHp42b09DC_EhuYeYtvRkBwAXwDYIuJn8QAZRbpo/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d27c9aa9-1b15-4d59-b6c9-eecd1b4ce624.jpg",
+  "price": 35260,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c80"
+  },
+  "name": "Неттоп  Dell Optiplex 7020,  Intel  Core i3  14100T,  DDR5 16ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/gBmSj2S890jty8IpBX5QBilFXnldFjItdw2vVrX8Mm0/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/88e9da8e-ace8-4319-b202-bf0bceea3c7f.jpg",
+  "price": 89990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c81"
+  },
+  "name": "Компьютер  HP Pro 400 G9,  Intel  Core i3  13100,  DDR4 8ГБ, 256ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/IefxmRhLp2P_wz0BWXd7dn3pYOIb1_dgZckqWKKOE6M/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/ebe88e38-f4cb-450b-a0ff-83ed0df87b0c.jpg",
+  "price": 54990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c82"
+  },
+  "name": "Компьютер  HP Pro 400 G9,  Intel  Core i5  12500,  DDR4 8ГБ, 512ГБ,  Windows 11 Professional,  черный",
+  "img": "https://cdn.citilink.ru/cDqhkDs9clUkeOP4oDan7QwrSr6hCyOv_TyumjL00B4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/e0115bd9-5109-4083-88aa-ae7cd5d650a6.jpg",
+  "price": 86990,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c83"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  12100,  DDR4 16ГБ, 480ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/i7lr-0nRo0lC14Rg_Yb3htY1lWkYZrvGwlE2_YlAH50/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/a9b44eff-9e3f-4774-8667-1a771a01e81d.jpg",
+  "price": 37470,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c84"
+  },
+  "name": "Компьютер  RASKAT Standart 500,  Intel  Core i5  14400,  DDR4 16ГБ, 512ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/euIAsPU0zIlwUV263hWpg304ng0RaLcyOnWhjTZYWCw/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/49ed73b9-ea62-40e1-be7f-c6000a8c21fb.jpg",
+  "price": 55250,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c85"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  14100,  DDR4 16ГБ, 256ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/yES_ISzZjJwBCSqDSBWXo8kh0UT5KVWJmPxr43inxRc/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/52da0474-b2ff-4a8f-b078-08957dd587d6.jpg",
+  "price": 39670,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c86"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  12100,  DDR4 16ГБ, 512ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/G3C0oAM6dDoD1cz2J81-1exKM4yEF4NLFml6zivdIO8/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/44e6ef93-0752-4358-b1f5-b186c19047d5.jpg",
+  "price": 37100,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c87"
+  },
+  "name": "Компьютер HP Pro 400 G9,  Intel Core i5 12500,  DDR4 8ГБ, 512ГБ(SSD),  Intel UHD Graphics 770,  Windows 11 Professional,  черный [6a738ea](восстановленный)",
+  "img": "https://cdn.citilink.ru/cDqhkDs9clUkeOP4oDan7QwrSr6hCyOv_TyumjL00B4/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/e0115bd9-5109-4083-88aa-ae7cd5d650a6.jpg",
+  "price": 64490,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c88"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  12100,  DDR4 16ГБ, 512ГБ,  noOS,  черный",
+  "img": "https://cdn.citilink.ru/L8cPXa6umxMuSR7fEJIX6QgIqVk2Oi5K_X5QueNQE_Q/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/d132713c-f303-490c-bd8a-dc8fea78a74f.jpg",
+  "price": 36250,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "678e7e5c587420a771b88c89"
+  },
+  "name": "Компьютер  RASKAT Standart 300,  Intel  Core i3  12100,  DDR4 16ГБ, 256ГБ,  noOS,  белый",
+  "img": "https://cdn.citilink.ru/jX5gx-4ntjhX36jZiWZjG4wM9JtU83h881YdA4iT9Kg/resizing_type:fit/gravity:sm/width:220/height:220/plain/product-images/09e84ef5-b023-4d5f-b097-27b6399a89f8.jpg",
+  "price": 35260,
+  "rating": 0
+}]

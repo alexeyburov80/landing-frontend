@@ -1,0 +1,3474 @@
+[{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3d4"
+  },
+  "name": "",
+  "price": 0,
+  "img": "",
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3d5"
+  },
+  "name": "Мини ПК INFERIT Micro [INFR0748] [Intel Celeron J4125, 4 x 2 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/4c63ca52c59c6d5805117182d92189d2/07bb2b42fb284c8f407440872b603e10032bf2e41d22eaebd7af13035d8ac00d.jpg.webp",
+  "price": 9899,
+  "rating": 4.68
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3d6"
+  },
+  "name": "Мини ПК INFERIT Mini [INFR0754] [Intel Celeron J4125, 4 x 2 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), SoC, блок питания - 220 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/49c879b8ce6b1a4b3bde42bed4b98eae/1ad49c6b0c4b6404532c920029f107c994c4e93fc3af4bc79742c47a405f1265.jpg.webp",
+  "price": 11999,
+  "rating": 4.76
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3d7"
+  },
+  "name": "Мини ПК INFERIT Mini [INFR0706W] [Intel Celeron J4125, 4 x 2 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 10 Pro, 1 x HDMI, 1 x VGA (D-Sub), SoC, блок питания - 220 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/02e4ff9938573791114c5af5d9f7e4e5/bfdbc16ddf40670115407dfce643ae866a059eccd633996563b82bb3749bacb6.jpg.webp",
+  "price": 12999,
+  "rating": 4.76
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3d8"
+  },
+  "name": "Мини ПК DEXP MINI ENTRY [Intel Celeron J4125, 4 x 2 ГГц, 8 ГБ DDR4, SSD 128 ГБ, Windows 11 Pro, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 36 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/6bcc7eb80b9a01e61368c6045a9c1e33/e8ce9e00a5efdb2645070102e962bf5384c70ab73e81204a14ae0fb2867db1ec.jpg.webp",
+  "price": 13499,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3d9"
+  },
+  "name": "Мини ПК Beelink T5 [00078] [Intel Celeron N4020, 2 x 1.1 ГГц, 4 ГБ LPDDR4X, SSD 64 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, SoC]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b5c3e985bf70d23bc4f9bca184a960e1/aaf856cd2cd10d0dbeb7cbe41cda3fc93ce915817337f39dfee58ac5154ec9e8.jpg.webp",
+  "price": 13999,
+  "rating": 3.17
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3da"
+  },
+  "name": "Мини ПК DEXP MINI ENTRY [Intel N100, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 36 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/fc70e192617a514c1556744ca459db5f/d61b6920dab7f2bd5cb599912ef5f49fb5e2d91ae3f2eef110064d87f4689aeb.jpg.webp",
+  "price": 14499,
+  "rating": 4.84
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3db"
+  },
+  "name": "Мини ПК Azerty AZ-0016-8-512 [120-0700] [Intel Celeron N5095, 4 x 2 ГГц, 8 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, блок питания - 60 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/700008222dcb0acd81f9b60a0429c176/c3313c5584c1385f2f2359f40a40b421cd3e6fdf6cfb3e0e71b48d8b4483efad.jpg.webp",
+  "price": 16999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3dc"
+  },
+  "name": "Мини ПК iRU 110ALCN [2012483] [Intel N100, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a3a16d27f44ba1da6b134650ce63f79c/584016f7eaf94c066216ba2d8706c7a736dd9a962bcd7dd2709f95695b539670.jpg.webp",
+  "price": 17399,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3dd"
+  },
+  "name": "Мини ПК iRU 110JLCN [1975163] [Intel Celeron N5105, 4 x 2 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 30 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f3bdda68a139ef7024d8685472537446/f6437172c448f8e0503fdb08ab10a8fb0f21b39c77844aa0cdc688065af39428.jpg.webp",
+  "price": 17799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3de"
+  },
+  "name": "Рабочая станция Digma DPCN-8CXW01 [Intel Celeron N4020, 2 x 1.1 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x VGA (D-Sub), 2 x HDMI, Wi-Fi, Bluetooth, блок питания - 36 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d180371191756e380b95703dd55ff80f/1e6c16ea36f5c3d526b8b0a3953fe2dee8d36ac9f8406995688dd183a786f75e.jpg.webp",
+  "price": 17899,
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3df"
+  },
+  "name": "Мини ПК IRBIS ISDP1001YX [Intel Celeron N5105, 4 x 2 ГГц, 8 ГБ LPDDR4, SSD 256 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 30 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3d32185cce713f75e229e13ab60db304/fe42267f130389a4bb60b8562e577cb76c2bfde27a1d81439f71d437a957524a.jpg.webp",
+  "price": 17999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3e0"
+  },
+  "name": "Мини ПК DEXP MINI ENTRY [Intel N100, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 36 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c39d433a2f0c768d573e218674a1a164/af883035e82102ee37902db77a7f510da8d8f3151968a90be8eceac25424e1d3.jpg.webp",
+  "price": 17999,
+  "rating": 4.84
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3e1"
+  },
+  "name": "Мини ПК Azerty AZ-0025-8-128-3500 [120-0867] [AMD Ryzen 5 3500U, 4 x 2.1 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 10 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, блок питания - 72 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/67737f943eb8bea79439430ed02e0c4e/2a153f1016a65fa50978fe8c678f03f1eb44057ed52ea1eb7ebefab2b4a2ae32.jpg.webp",
+  "price": 18999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3e2"
+  },
+  "name": "Мини ПК Beelink GK Mini [00027] [Intel Celeron J4125, 4 x 2 ГГц, 8 ГБ DDR4, SSD 128 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 24 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/5909af4f5a4fd4f67addffaa2d9fe258/b5ee2671d5a02f1b46d7d34eed6941f8028d0a55fa4add98317d038ea1170e0b.jpg.webp",
+  "price": 18999,
+  "rating": 3.57
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3e3"
+  },
+  "name": "Мини ПК Azerty AZ-0016-16-256 [120-0321] [Intel Celeron N5095, 4 x 2 ГГц, 16 ГБ DDR4, SSD 256 ГБ, Windows 10 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, блок питания - 60 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ba09065b67b23fcc703b40d5dc094200/56e8fc9fea8821cbc0593cc48882a4a15a5d496e64e0ab575299a44fbb023245.jpg.webp",
+  "price": 18999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3e4"
+  },
+  "name": "Мини ПК IRBIS IMFPC129 [IMFPC129] [Intel N100, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, блок питания - 48 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/5c35e26024d5d31f82b6309ce91ff977/b520d1e591eb29604b9a2a35e67fe633955c3f1fc2096ed09fb6e0f2ec99d34e.jpg.webp",
+  "price": 19999,
+  "rating": 4.82
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3e5"
+  },
+  "name": "Мини ПК Chuwi HeroBox [Intel N100, 8 ГБ LPDDR5, SSD 256 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 36 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/91c8a49448d132f4f8116d43839a7b35/6e9da43b2bbaa36bdf862713d1358449cf3634a7b375701bc18514258964ea00.jpg.webp",
+  "price": 19999,
+  "rating": 4.78
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3e6"
+  },
+  "name": "Мини ПК Azerty AZ-0025-8-256-3500 [120-0868] [AMD Ryzen 5 3500U, 4 x 2.1 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 10 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, блок питания - 72 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/46bb6950fa498f2596ab666194235da4/3a881b3b24c55d95ec8fa2a3016b2056e0db7209993c9e0018971e5794440056.jpg.webp",
+  "price": 19999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3e7"
+  },
+  "name": "Мини ПК iRU 110ALCN [2012500] [Intel N200, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/4156a8928f0b5f4ee026b04dae067743/4e01fae79d2962b43785eb934afb3951f54003d170e4df58e44c8cc875033a83.jpg.webp",
+  "price": 21399,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3e8"
+  },
+  "name": "ПК DEXP Aquilon O308 [Intel Pentium Gold G6405, 2 x 4.1 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H470, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3fcfa4607b71e0640be5b4dc3a88cbc6/a76d68743f73d692c1fd2df38282c3de80e1fae40b299a3f38e8ce68050db661.png.webp",
+  "price": 21599,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3e9"
+  },
+  "name": "ПК DEXP Aquilon O304 [Intel Pentium Gold G6405, 2 x 4.1 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H470, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f6b183dd74fcde11b7b70b26d701819c/6d186a823077beb25d2b4a870488065b31f9f4a547809b5a54c06454b9482bfa.jpg.webp",
+  "price": 21899,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3ea"
+  },
+  "name": "Мини ПК Azerty AZ-0016-16-512 [120-0322] [Intel Celeron N5095, 4 x 2 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 10 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, блок питания - 60 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d2866db8fe7a362dafe93da31b6696a6/2d9e07060b01b3bd3a1606dc7afa7e1901bbe12554878bffb8617b19f524043f.jpg.webp",
+  "price": 21999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3eb"
+  },
+  "name": "ПК DEXP Atlas H411 [Intel Pentium Gold G6405, 2 x 4.1 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H470]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/2cf29742caa798e235a6dbe3fcfc3b31/e09f05efde0ad7662656a0d89e9bb0861fac53d90af53b1b5684b328840a82dd.jpg.webp",
+  "price": 22199,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3ec"
+  },
+  "name": "ПК DEXP Aquilon O310 [Intel Pentium Gold G6405, 2 x 4.1 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H470, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/87a1bbb90acbc7194e2f3507d1a344d4/92f1c803a9f320f0319b355997b0c761a1b80720e6f15bdd00cf84d52678ffac.png.webp",
+  "price": 22299,
+  "rating": 4.83
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3ed"
+  },
+  "name": "Мини ПК Rombica Horizon N9 DN0982P [PCMI-0106] [Intel N95, 8 ГБ LPDDR5, SSD 256 ГБ, Windows 11 Pro, 3 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 30 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a4c187d0591cd480660010b94e4dee7d/b4157cdce8546fb07fe92d40b02ea700587f2ae7545b4fe0dbc8aa59d39b7abf.jpg.webp",
+  "price": 22999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3ee"
+  },
+  "name": "Мини ПК IRBIS ISDP1002YX [Intel Celeron N5105, 4 x 2 ГГц, 16 ГБ LPDDR4, SSD 512 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 30 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/038639b9976320c27fb430aa11d770ea/5837f33016d7b0dec7b279419775d0d05c5ab087fd4c4471367d32b42ea83987.jpg.webp",
+  "price": 22999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3ef"
+  },
+  "name": "Мини ПК Rombica Horizon N10 DN1082P [PCMI-0107] [Intel N100, 8 ГБ LPDDR5, SSD 256 ГБ, Windows 11 Pro, 3 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 30 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9b39770c83c9599e85e98e8b3c03a720/b3f3ed152aa99f4dfc7fdf108958caa7f059fcef4ab8d3978fcaadd384a7e73a.jpg.webp",
+  "price": 23199,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3f0"
+  },
+  "name": "Мини ПК Rombica Horizon N20 DN2082P [PCMI-0109] [Intel N200, 8 ГБ LPDDR5, SSD 256 ГБ, Windows 11 Pro, 3 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 30 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/0f0ed032dbb50e3d01ccacdddf6ffd05/5bbb2f802e467aeff2bdcf079fb8dec3290aa5fb7c9ecb71e472670a7042c883.jpg.webp",
+  "price": 23699,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3f1"
+  },
+  "name": "ПК DEXP Aquilon O315 [Intel Pentium Gold G6405, 2 x 4 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H470, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/1d207bec6e1cdc969c493c7729453042/9c9f45fb83b7a176fbeeba4e525694443ce02382496da0a16360158662203723.jpg.webp",
+  "price": 23899,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3f2"
+  },
+  "name": "ПК DEXP Aquilon O317 [Intel Pentium Gold G6405, 2 x 4.1 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H470, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/890c078e77872d8dc7d62a46bf0225a0/4b2e691de64ecd5a36ef11cd6d8287b525b959f8ec76f117bb044532eb5d1d29.jpg.webp",
+  "price": 23899,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3f3"
+  },
+  "name": "Мини ПК OSIO BaseLine B51i-003 [Intel N100, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 24 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/08cac4d84cedc6cce17f547e3ede4caa/b7cd3b84ec0bff36e30f6bbd0bf8c0534ee715af8674face817c67fdb6e21421.jpg.webp",
+  "price": 23999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3f4"
+  },
+  "name": "Мини ПК Chuwi LarkBox X [Intel N100, 12 ГБ LPDDR5, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 24 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/7f58b02eae1cfe511d678a7c935ad7cf/cb751840f5b55a8160eb5a562c06e53b2fd63e5bbd8e279d96b3317b450bb240.jpg.webp",
+  "price": 23999,
+  "rating": 4.69
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3f5"
+  },
+  "name": "Мини ПК Beelink U59 Pro [00012] [Intel Celeron N5105, 4 x 2 ГГц, 8 ГБ DDR4, SSD 500 ГБ, Windows 11 Pro, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 36 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a2659eb41f6a2a0d7b6f85a20ada2e0c/f780f05041bb259f8f726bb861fdc6db06f95d2886b62a1999d3cf5984ee5f00.jpg.webp",
+  "price": 24999,
+  "rating": 4.55
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3f6"
+  },
+  "name": "ПК DEXP Aquilon O307 [Intel Pentium Gold G7400, 2 x 3.7 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/64b77f3283d9905396c4f6a0e2b40dda/86ea54ecc01577493e148c2718a493ed8b3ccd1227048c6dc4783bfb8a137e2d.jpg.webp",
+  "price": 25199,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3f7"
+  },
+  "name": "ПК DEXP Aquilon O309 [Intel Pentium Gold G6405, 2 x 4.1 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H470, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a95944dffda436a65cc19ed77ac816b8/4b59935d110818cb620ddea8ff9e2d346cbdb62da24aa30e12b14963ecefd554.png.webp",
+  "price": 25399,
+  "rating": 4.25
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3f8"
+  },
+  "name": "ПК DEXP Atlas H471 [Intel Pentium Gold G7400, 2 x 3.7 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b0caef46616ccb7ac55df9bdfdc3ccd2/5fb3313427147d7016f54b520b9932284589922877e4adcd1343a46d75a00eb5.jpg.webp",
+  "price": 25799,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3f9"
+  },
+  "name": "Мини ПК Rombica Horizon N10 XN1082P [PCMI-0112] [Intel N100, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 36 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/df2d58bd2f17642465ba58bf7e4a0679/8e019bb4e497ea0f2c12b0724fc7525df8bb19daaaa7524797b1a4e245a4e8c0.jpg.webp",
+  "price": 25999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3fa"
+  },
+  "name": "Мини ПК Rombica Horizon N10 DN1085P [PCMI-0108] [Intel N100, 8 ГБ LPDDR5, SSD 512 ГБ, Windows 11 Pro, 3 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 30 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/5fa4fa37892a4f1ed7b3b0de28b867d0/e241bbab372fb61fb73819a3ed0c18de3c1600dcff39e336c4e7de8e66493b7e.jpg.webp",
+  "price": 25999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3fb"
+  },
+  "name": "Мини ПК Azerty AZ-0035-16-512 [120-0704] [AMD Ryzen 3 5300U, 4 x 2.6 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, блок питания - 72 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a79d13d6fbb3c84cf39d42fd8c5b3536/e657be3708f94f7ecbed3cce74adf622c5aa51d6e8b05010f3ac409d6e1cafa0.jpg.webp",
+  "price": 25999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3fc"
+  },
+  "name": "ПК DEXP Aquilon O312 [Intel Pentium Gold G7400, 2 x 3.7 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/890c078e77872d8dc7d62a46bf0225a0/4b2e691de64ecd5a36ef11cd6d8287b525b959f8ec76f117bb044532eb5d1d29.jpg.webp",
+  "price": 26899,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3fd"
+  },
+  "name": "Мини ПК Rombica Horizon N20 DN2085P [PCMI-0110] [Intel N200, 8 ГБ LPDDR5, SSD 512 ГБ, Windows 11 Pro, 3 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 30 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f02498888140ccbd257b6891e7132232/1914eb38c9b226b13ab988be1dc6e92a20f82c251de2398e482254ef60b9215f.jpg.webp",
+  "price": 26999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3fe"
+  },
+  "name": "ПК iRU Home 310H3SE MT [1789287] [Intel Pentium Gold G6405, 2 x 4.1 ГГц, 8 ГБ DDR4, SSD 240 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H470, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f339e362bcecc7b14eccee04547b0f8e/f10b9cf86bf5ec744019dc7e78c75020a3769411516cf2bdb1edd94720f87803.jpg.webp",
+  "price": 26999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c3ff"
+  },
+  "name": "Мини ПК DEXP MINI SMART B001 [AMD Ryzen 7 3750H, 4 x 2.3 ГГц, 16 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 80 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/51d83abe0822dcf245dde262bd5ed87b/9401c47b5a2af8b63024e9d20c5e80f97ef939886ff5a76daabc2e31e06fc3c6.jpg.webp",
+  "price": 26999,
+  "rating": 4.92
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c400"
+  },
+  "name": "Мини ПК DEXP MINI SMART [Intel Core i3-N300, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 36 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/6415a6132a491a36bfbe0d0aca19c713/3afca6bc9f052ec6c6593f0c088d7dfa3de2c67a494fc829739111e9fd3dabc5.jpg.webp",
+  "price": 26999,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c401"
+  },
+  "name": "ПК DEXP Atlas H441 [Intel Pentium Gold G6400, 2 x 4 ГГц, 8 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H470, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/40df6834b551071d2930b78b4c3a6ffb/6b297a34c32bd3d9e592c5ff85f8f8bd86419e2dc2ae57e824b512941134513a.jpg.webp",
+  "price": 27399,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c402"
+  },
+  "name": "Мини ПК Teclast M01 [M01 N10016G512KRU] [Intel N100, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 48 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/8d42eadce6c6023f1eb37f173f425abd/884b821af1c1596f8b19c35f8dbad09dbed876a23524cb95bb5071a5558c67af.jpg.webp",
+  "price": 27999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c403"
+  },
+  "name": "Мини ПК DEXP MINI SMART B002 [AMD Ryzen 7 3750H, 4 x 2.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/bc3670da9535ccd6785abacfe2c09f09/7a3e1bbb461e093de16edce213c5255d7ea6ac6085a6cd0cf8467d074c8f3d7d.jpg.webp",
+  "price": 27999,
+  "rating": 4.84
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c404"
+  },
+  "name": "ПК iRU Home 310H6SE MT [1994638] [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/be064622f0efa68a61eb01930e9ae8d8/7de7b95954a762491fd4f0123403548a49f6ba2bff34f0452df18ff9277a4051.jpg.webp",
+  "price": 28499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c405"
+  },
+  "name": "Мини ПК DEXP Atlas H508 [Intel Pentium Gold G7400, 2 x 3.7 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": null,
+  "price": 28499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c406"
+  },
+  "name": "ПК DEXP Aquilon O313 [Intel Pentium Gold G7400, 2 x 3.7 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/489e8636f5818a98836b55bcbb1f09ef/4e04a4401da220379c74aafd79788424470d9d6fcc2c581347c1fd8e8cd06751.jpg.webp",
+  "price": 28499,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c407"
+  },
+  "name": "ПК DEXP Aquilon O306 [Intel Pentium Gold G7400, 2 x 3.7 ГГц, 16 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7c1b6fe3f5e4c7d16d9605838e85667c/621461fd0c288b0d8748ea5bc85524ac2a2df2c7b0cd87b15ed143304bee69c3.jpg.webp",
+  "price": 29399,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c408"
+  },
+  "name": "ПК DEXP Aquilon O316 [Intel Pentium Gold G6405, 2 x 4.1 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Intel H470, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a9753e8339a000c1384fb1e165c48b55/96175c5edd118b00ff9a7f4d0aba71d6b04222c5b27768ed78b3972f047a6613.jpg.webp",
+  "price": 29999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c409"
+  },
+  "name": "Мини ПК DEXP Atlas H509 [Intel Pentium Gold G7400, 2 x 3.7 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/24f682ac064b90ab3a1cb4fad014d134/f82e80fcc173c6f6b80182dac5ceeac7bba37c4941166a65a345b1875554efb0.jpg.webp",
+  "price": 29999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c40a"
+  },
+  "name": "ПК DEXP Atlas H465 [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3de0093a370d2014cad66337cc061d30/7ef8d97dc9d3cb06953aa93ad8b67c9d708ab70c56a3d39e589f6cb3bc88c18b.jpg.webp",
+  "price": 30299,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c40b"
+  },
+  "name": "Мини ПК iRU 310TLCN [1975166] [Intel Core i3-1115G4, 2 x 1.7 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/57be90d3ac1474b47fdfb90ede67c39b/69dd6bb5821385d4258a660fcbd3833ba49e0f4893faf0918679a037b8a66fe0.jpg.webp",
+  "price": 30499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c40c"
+  },
+  "name": "ПК DEXP Aquilon O314 [AMD Ryzen 5 4600G, 6 x 3.7 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, AMD A520, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9bbaa11c4de21570c0bfc128a1aa010b/49ce14980d1d4d08440e1a569317449aae0db1c4096b635b1e2f5bb6c3b719ad.jpg.webp",
+  "price": 30499,
+  "rating": 4.67
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c40d"
+  },
+  "name": "ПК DEXP Atlas H494 [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/df192620795d95f48cf28fe796b89bb6/37638e4b4b3669f386d6d0b734a40ec1da8b1ab26f8238ec15d712f136475a86.jpg.webp",
+  "price": 30499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c40e"
+  },
+  "name": "ПК DEXP Atlas H445 [Intel Pentium Gold G6405, 2 x 4.1 ГГц, 8 ГБ DDR4, GeForce GT 710, SSD 256 ГБ, без ОС, 1 x DVI-D, 2 x HDMI, 2 x VGA (D-Sub), Intel H470, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/005381d7dbd7dcdaeda9d3712b5eb6da/87b2efcf469b661f7c0ca34dbffe30fb73f462d7d68c28779e0e6722a1bd6661.jpg.webp",
+  "price": 30799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c40f"
+  },
+  "name": "ПК DEXP Aquilon O311 [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/756260c0b3703f9b56b89dca80fca3be/5d15e178ce4ad4ab2c913be3b70be00f15e36d59d5d0b2255eeca34accd81c1e.png.webp",
+  "price": 31299,
+  "rating": 4.91
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c410"
+  },
+  "name": "ПК DEXP Atlas H426 [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 300 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/4afc238206b975a0f6f15762d45a266c/12ac8b447778e7d41acc31e298c98878e83179029ce3bfe94c30b798ee904dee.jpg.webp",
+  "price": 31499,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c411"
+  },
+  "name": "ПК DEXP Atlas H444 [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ad01968326cfb7799fb2fedfb1fe35c2/c3d956c3c690b8bdbad8b3fef5bace7592cf5b6e85903c44c49654ff94d51b9a.jpg.webp",
+  "price": 31799,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c412"
+  },
+  "name": "ПК DEXP Atlas H473 [Intel Core i5-11400, 6 x 2.6 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel B560, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/343dc03bf7eaabd7ec28acdc98e94eee/6a7f409a27727485b5dd42039a4ff853bbaa7052b73edb537e62b0623b856531.jpg.webp",
+  "price": 31799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c413"
+  },
+  "name": "ПК iRU Office 320A5S [2060818] [AMD Ryzen 3 PRO 4350G, 4 x 3.8 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, AMD A520, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d11ba3aec161e78681554db9535404ba/def30700452abb4d6eaad03f3f515620281669139aff5f10177205c726dfd1d3.jpg.webp",
+  "price": 31799,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c414"
+  },
+  "name": "ПК DEXP Atlas H496 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c28780cf9cabbff62031cf661778f604/15c32cefc89335c3ce5a3791f55697271d8d2cd3ff1545dc08688385f11fcff3.jpg.webp",
+  "price": 31999,
+  "rating": 4.67
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c415"
+  },
+  "name": "ПК iRU Home 310H6SE MT [1994647] [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b716376f93693fb6efaab892c53f05dd/18cd09d01aa9a3b0e34418244d0a779aa38be604927abc58b3ef46ae8f212e73.jpg.webp",
+  "price": 32499,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c416"
+  },
+  "name": "ПК DEXP Atlas H488 [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/24f5a67053628839d557d8e97a1b3bec/62d4ac64d90ae65659885668c59527076458d34c754ee79ebfc7f46e19d42009.jpg.webp",
+  "price": 32499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c417"
+  },
+  "name": "ПК DEXP Atlas H482 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/485444cfeab9fd1ab0561a33a1397310/90990b7b94057fb6faa90d79847e5be4af907c33685816a1849e0e84647aa9d7.jpg.webp",
+  "price": 32499,
+  "rating": 4.85
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c418"
+  },
+  "name": "ПК iRU Home 320A5SE [2007103] [AMD Ryzen 3 PRO 4350G, 4 x 3.8 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), AMD A520, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/32865ce75dce456f3f27c82bfe45ab95/82bf144bbe3f5a3e190ef573ee4a377bdb388d8dcd30dc8e7728bfa54a28576a.jpg.webp",
+  "price": 32799,
+  "rating": 4.33
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c419"
+  },
+  "name": "ПК DEXP Atlas H483 [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2f303644dca1c4c5f70556014ac04a6a/61598483ef20c026a3b1a5cfcb609a890863bb576122ec6c0ef67b59d54af467.jpg.webp",
+  "price": 32999,
+  "rating": 3.75
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c41a"
+  },
+  "name": "Мини ПК Azerty AZ-0034-16-512 [120-0702] [AMD Ryzen 7 5700U, 8 x 1.8 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 72 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/68172fa68d6df72519011c1af2e7101a/aeaeadba3ff8f69edd270977c1aa52bc2a3e02d115f39c9caf69b345780d1739.jpg.webp",
+  "price": 32999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c41b"
+  },
+  "name": "Мини ПК DEXP MINI SMART BM002 [Intel Core i5-1235U, 2 x 1.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 60 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/794366c80bca44df63978ac4a6f98ab0/c9e35c3911833f0e9c2ee5b87a3538d364fbe50c6caed67fdb6bc7e668543a98.jpg.webp",
+  "price": 32999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c41c"
+  },
+  "name": "Мини ПК iRU 310TLCN [1975172] [Intel Core i5-1135G7, 4 x 0.9 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/e790c261421318ecbf8bbbab2b8aed22/d61a3bf5d4fd70afbdfb9dd39abe6c85df24efe3af3e6fa8bc08de21d5b61e3c.jpg.webp",
+  "price": 33299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c41d"
+  },
+  "name": "ПК DEXP Atlas H442 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/707049f00ff177b178fc927c42339868/7a96dc0cd7ceaffe970d30b41fb40ce6863f97788afe69306bb64976f3d50532.jpg.webp",
+  "price": 33499,
+  "rating": 4.89
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c41e"
+  },
+  "name": "ПК DEXP Atlas H479 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9fe2eb5fa05547b2487cb1139aa4512c/2658388c0f1c11c8d84786f102ca408d59021cf46834e60921256d0cebd4db2a.jpg.webp",
+  "price": 33799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c41f"
+  },
+  "name": "ПК DEXP Atlas H455 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ed9d384afb111502584cf57464ff7711/3584a49e7796f420e9f376612932b0480c90927129b869fdd783dd3edda0ef8f.jpg.webp",
+  "price": 33799,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c420"
+  },
+  "name": "Мини ПК DEXP MINI SMART [Intel Core i3-10105, 4 x 3.7 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel H510, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/e52b4322edfb2ff987a1d291c306d938/e24cb3b4395ce7f75743d567140315666404c406e4ab96972de938866212dbb6.jpg.webp",
+  "price": 33799,
+  "rating": 4.62
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c421"
+  },
+  "name": "Мини ПК DEXP Compact M005 [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, Intel H610, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/491e21682f7882f9b01317b5253e379e/7b6d35f393f85842a966a9ff106361f2c39e0b559b4dbbb6d16272c5ec2a88cb.jpg.webp",
+  "price": 33999,
+  "rating": 4.43
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c422"
+  },
+  "name": "ПК DEXP Atlas H489 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/955188c0ad35ae09ed84d58810e23083/8814e4a814dc8555a7c898bb62f1c19b977356292a1605d867f0b68884aa8df5.jpg.webp",
+  "price": 33999,
+  "rating": 4.89
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c423"
+  },
+  "name": "Мини ПК DEXP Compact M006 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, Intel H610, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/8bb877937abfb3546b36726467f22b96/03997fea6c8a985ee2bef07040756c20384dc00e7c114d0ce2c3181c56c5372b.jpg.webp",
+  "price": 33999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c424"
+  },
+  "name": "ПК DEXP Atlas H497 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d1cb0b1df112f9bf2c514883e9e9e5dd/51b1e1480c7212552ce70ed832fd35a50c6b1b5d237c225cc3b0b3b3e9fcd954.jpg.webp",
+  "price": 34299,
+  "rating": 4.69
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c425"
+  },
+  "name": "ПК DEXP Atlas H463 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/817ca34c928f8b27278604dfbcd30156/0dfeebdfe800d7ac75ecac5a16fc78cec43cf61d358603a09f05ad714a53ea01.jpg.webp",
+  "price": 34499,
+  "rating": 4.69
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c426"
+  },
+  "name": "ПК DEXP Atlas H469 [Intel Core i5-11400, 6 x 2.6 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel B560, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/716bf326c22833128ac19189f58ae3c4/1cd666eb1524afe902a69f090607f549cb5c8ecc0abedbf505120bdf7a4320ce.jpg.webp",
+  "price": 34499,
+  "rating": 4.64
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c427"
+  },
+  "name": "ПК DEXP Atlas H421 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/6601b5a0a9d80ad174b434acd8f9545e/948052869fb8732fc684c79cb5cf4c928c1c8e4d2625f7b35d02e5bb786c3153.jpg.webp",
+  "price": 34499,
+  "rating": 4.06
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c428"
+  },
+  "name": "ПК iRU Home 310H6SM MT [1901028] [Intel Core i5-12400, 6 x 2.5 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/edbcc03f8572ec0b2141d9b17147c820/2dc3b8aac099201aa1f192b6504fa66af072fe55b8cf9cc331032c1eb03232d7.jpg.webp",
+  "price": 34799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c429"
+  },
+  "name": "Мини ПК MSI PRO DP21 13M-607RU [9S6-B0A421-666] [Intel Pentium Gold G7400, 2 x 3.7 ГГц, 4 ГБ DDR4, SSD 128 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, Intel H610, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/492b08919dab2d54b53e154357b8e9a3/a1796a4e7706ee2d9135b4305a4265efd56d50dc8d197e35c6f55b5d9f211834.jpg.webp",
+  "price": 34799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c42a"
+  },
+  "name": "ПК DEXP Atlas H480 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/5b4f948102291b8e4fbeb202866fa47f/7b3a962a8e0e05e222fd55699c581e52f322533ecd516b7c398894096a63ff80.jpg.webp",
+  "price": 34999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c42b"
+  },
+  "name": "ПК iRU Corp 510 [2067109] [Intel Core i3-10105, 4 x 3.7 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H510, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2d6666ef9966eb30925f72a695f05efd/bc2369398dacb020e2c6ad13dc744bb8d2453a5b44183414261b151ec1b758e6.jpg.webp",
+  "price": 35299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c42c"
+  },
+  "name": "Мини ПК OSIO BaseLine B51i-011 [Intel Core i3-1215U, 2 x 1.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 59.85 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/35ecd15034870c0e3fcbd62fb0423fbb/b24ee45403abc6ce20e6048a86670224b63c3c65e7bcd4e8478b734f5b8fbc14.jpg.webp",
+  "price": 35299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c42d"
+  },
+  "name": "ПК DEXP Atlas H484 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/89f3d27cada8ac70b4c03b16d867d6eb/d29a817e52ac32b5054b32c1bddf077afa5f5ef24144965c616c5aa6fa85c26a.jpg.webp",
+  "price": 35799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c42e"
+  },
+  "name": "ПК DEXP Atlas H466 [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/803c5245e3d7d68a46374cc3fbc0a237/f750b7970d10f86efa018e49f2ba7697536a1837348249495061e261697628d6.jpg.webp",
+  "price": 35799,
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c42f"
+  },
+  "name": "Мини ПК MSI Cubi N ADL-030XRU [9S6-B0A911-099] [Intel N200, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x USB Type-C, Wi-Fi, SoC, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/e3fa5ff1f23bd3dade174499d03e50b7/41e5dd22bd74045db412351b2c60ba7f7a4ba4dc113d155116f1a21ec3a5def5.jpg.webp",
+  "price": 35999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c430"
+  },
+  "name": "ПК DEXP Atlas H495 [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2d69f819238d864d50f863dc105577fa/18909e073db64858c2ad01218db833f174b6c5ea106c5bb0b35aa219b1ed7cc6.jpg.webp",
+  "price": 35999,
+  "rating": 4.75
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c431"
+  },
+  "name": "ПК DEXP Atlas H487 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c9877868cba6adcd8ff7da9fc301a9cf/1b75f8e44ca621d5e8fb0ec7eaf1ad2f946ef0752a4a2ff0d6f8cc1a7bb84b23.jpg.webp",
+  "price": 35999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c432"
+  },
+  "name": "Мини ПК MSI Cubi N ADL-019RU [9S6-B0A911-059] [Intel N100, 4 ГБ DDR4, SSD 128 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/18fcd5511589f5f232b023ae9c39a6b3/778903a25d7ceaac610fe785956ca91d164a451cc8224e7de04c7a066ec61b94.jpg.webp",
+  "price": 35999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c433"
+  },
+  "name": "Мини ПК ASUS ExpertCenter PN42-SN068AV [90MS02L1-M00250] [Intel N200, 4 ГБ DDR4, SSD 128 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7016d8713dbfec8a763a46c9f91460fe/a415e3b63181a362d8f7ea9c2bac29e2bda572c23ae2f4b442348aead8819359.jpg.webp",
+  "price": 36799,
+  "rating": 3.25
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c434"
+  },
+  "name": "ПК DEXP Atlas H506 [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/1c49d1dda5737a72332250d1fef66a6b/12634b39899782804f0325410d707eb03e4fb2984270f54c6bb4977f25fc3b18.jpg.webp",
+  "price": 36799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c435"
+  },
+  "name": "Мини ПК Chuwi LarkBox S [1746751] [Intel Core i3-1220P, 2 x 1.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/993e5525000b28ee69564097a75e2c1b/6d138c763d9ba9c4aafdd8356be35e2aec6bf45c3179e72a0f49fb62259e6fdf.jpg.webp",
+  "price": 36999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c436"
+  },
+  "name": "ПК DEXP Atlas H432 [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b12553435f81d30d3affd568d08100d6/22ec588632ffa2b3528a177d3697f84d3237b4b7099980f3bc4dd9febe2f183e.jpg.webp",
+  "price": 36999,
+  "rating": 4.84
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c437"
+  },
+  "name": "ПК DEXP Atlas H462 [Intel Core i5-11400, 6 x 2.6 ГГц, 16 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel B560, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a422f01e1d1dd7e1d7b7d8c7fbf784b1/c791107cf63d7eceedf63f724ace199208390032628acae0a0ab9ebd97cae517.jpg.webp",
+  "price": 37299,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c438"
+  },
+  "name": "ПК DEXP Atlas H512 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/eff4e18d6ef194594d5c8c09324d0ee4/fab925b78129cdcd0a66abb4f0c371ed88702de4bf468837bd37552e06580b69.jpg.webp",
+  "price": 37299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c439"
+  },
+  "name": "Мини ПК iRU 310TLCN [1975175] [Intel Core i5-1135G7, 4 x 0.9 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/618b0a6908458e60a9508e74a3c3a36f/07cb937734834d1e8eb5e1a9e1fcd4090818b75d886567ac8a2491439407c303.jpg.webp",
+  "price": 37299,
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c43a"
+  },
+  "name": "ПК DEXP Atlas H451 [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9bed21c0a9ea93be4108494c5193443b/98138ba5c0b3618a88bacb1b55c029f8778b5b1f9fa1069321b84807e1f0bc9a.jpg.webp",
+  "price": 37499,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c43b"
+  },
+  "name": "ПК DEXP Atlas H475 [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9b4255b7859a2fd0942275651ab39220/3a3199bcf6d17e4744afe685827adf5d9d63f4eafdc7514bf96b6b75f0b60533.jpg.webp",
+  "price": 37799,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c43c"
+  },
+  "name": "Мини ПК CHUWI Ubox [1746526] [AMD Ryzen 5 6600H, 6 x 3.3 ГГц, 16 ГБ DDR5, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 90 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/510680e922ac2a657f58e0e8a2fbcce4/187b0c92abc36086dadb927fb0f7a74048d42d1c9de9205fba0465107edcb17e.jpg.webp",
+  "price": 37999,
+  "rating": 4.65
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c43d"
+  },
+  "name": "Мини ПК Digma Pro Minimax U1 [DPP5-8DXW01] [Intel Core i5-1235U, 2 x 1.3 ГГц, 8 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, блок питания - 60 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/4ebf6798462ef66a78479b74ede1ffba/096221f913b789a85af08f87ace011fa3ae1fb2cba41ad9d96c5ce002291ee77.jpg.webp",
+  "price": 37999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c43e"
+  },
+  "name": "ПК DEXP Atlas H499 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/5d47ee18b7e0e315a2ac656cc5f8b29c/c1718f25eace40a95bf4ca555e35146da4a445b3db5e9c79642e9cb1a9607c3a.jpg.webp",
+  "price": 37999,
+  "rating": 4.85
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c43f"
+  },
+  "name": "ПК iRU Home 315 MT [2067376] [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, AMD A520, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/07bd019351ad20d58e69fbb727b154f4/611f7f4c11370b7d94f1df5555a9b28a3253d445f1784538cdf8462dc54777d8.jpg.webp",
+  "price": 37999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c440"
+  },
+  "name": "Мини ПК Acer Gadget E10 ETBox X [1746723] [Intel Core i3-1220P, 2 x 1.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 90 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c5d0a64bc5dcb9dc3a3aa1a5100d5512/6c4979940fd9414926667f2f32003709dc015e397cbda3197f75dd0ae25c82c0.jpg.webp",
+  "price": 37999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c441"
+  },
+  "name": "ПК DEXP Atlas H461 [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7d3560e124c3717b7ec58039cfbe43d3/26db2446801491623cbf9bc11193d54e0157cf13bfff492128067c0e96d00f50.jpg.webp",
+  "price": 37999,
+  "rating": 4.74
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c442"
+  },
+  "name": "Мини ПК Azerty AZ-0037-16-256 [120-0709] [Intel Core i5-12450H, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b044087d709595be8a0cd9118829c045/454c8896ee04c4680957c49148fa3feda184307e91fd903caf6eec8f7d9ebc5b.jpg.webp",
+  "price": 37999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c443"
+  },
+  "name": "ПК DEXP Atlas H503 [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/fdf4010e7ea2de8aebc3782ef4ebc1fb/dffe475b6db9bfb44df4832c1c9cfdd25b900b51810c646fd2a635648bc8d0b5.jpg.webp",
+  "price": 37999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c444"
+  },
+  "name": "Мини ПК Digma Pro Minimax U1 [DPP5-8CXW02] [Intel Core i5-1235U, 2 x 1.3 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 60 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/4ebf6798462ef66a78479b74ede1ffba/096221f913b789a85af08f87ace011fa3ae1fb2cba41ad9d96c5ce002291ee77.jpg.webp",
+  "price": 37999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c445"
+  },
+  "name": "ПК DEXP Atlas H431 [Intel Core i5-11400, 6 x 2.6 ГГц, 16 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel B560, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/da828be189143ee02dc6797a310e5dd0/9f56d7d42e9f764813d0136adf0c84f9079456a865582a47532bddb096cd7acd.jpg.webp",
+  "price": 38299,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c446"
+  },
+  "name": "ПК DEXP Atlas H460 [Intel Core i5-11400, 6 x 2.6 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel B560, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/0098cc865a20f633816c8b119f083d6a/66f1fc6fc070e4188c5adf95b825e9cd9fe4a0604d39701d6e52823d787b7e74.jpg.webp",
+  "price": 38299,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c447"
+  },
+  "name": "Мини ПК Lyambda Office PC [L-OFC19061-BK] [Intel Core i3-10100, 4 x 3.6 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 10 Pro, 1 x HDMI, 1 x VGA (D-Sub), Intel H510, блок питания - 300 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/59f8905b31025454cf90c39b60b54031/079597e15b5f4261d261362668df6d8f04e9270b8fd4ee29637d310c346bef95.jpg.webp",
+  "price": 38299,
+  "rating": 3.43
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c448"
+  },
+  "name": "ПК DEXP Atlas H501 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/dfd8a2058b5f44ef1579a0fced221ba2/36ecb4c98724f499d2771f74faf08383ac2cd58ec70fd992cd74f49609a663ef.jpg.webp",
+  "price": 38299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c449"
+  },
+  "name": "ПК DEXP Atlas H472 [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b7dc66363a2edf7434dcd34283075241/b30b1f7bc0e6ca09707974582a6583e14c43bc1a699a9da39d99318911b13436.jpg.webp",
+  "price": 38799,
+  "rating": 4.68
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c44a"
+  },
+  "name": "ПК DEXP Atlas H459 [Intel Core i5-11400, 6 x 2.6 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel B560, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/669a02a35cc402c20948e575b39cec5f/7bdaeecd210cbac7accea987eedda2fd1e5d951555822ad23ace2c91952bc6d6.jpg.webp",
+  "price": 38799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c44b"
+  },
+  "name": "Мини ПК iRU 310H6ITF [2031369] [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), 2 x DisplayPort, Wi-Fi, Bluetooth, Intel H610, блок питания - 35 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d8fb70e7e78e5f42cce0e999ce44d733/1cb9242b249b5cdd05c3358c2ff13197bfb5406598ced5e0acf9da7caf1c41aa.jpg.webp",
+  "price": 38799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c44c"
+  },
+  "name": "ПК iRU Home 310H6SE MT [1994642] [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ea8b2fb67e484f63d7cd75731a53569d/4446600b837efafd8caa7efa41fc72781b9e2f03149447993f581bb3f3603063.jpg.webp",
+  "price": 38999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c44d"
+  },
+  "name": "ПК DEXP Atlas H502 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/59cb5465dfdd87a554fc62846d01d357/c2dcd8711aad73e8b82dcb67acd94d41384727be120d6d210f9ea9bbd3aebd22.jpg.webp",
+  "price": 38999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c44e"
+  },
+  "name": "ПК DEXP Atlas H457 [Intel Core i5-11400, 6 x 2.6 ГГц, 16 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel B560, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a6315f4706f2ff827306d37f6028e841/c0e86641e869233223b9715441e14022f9172f83bda2d75ce2560ece40f1298d.jpg.webp",
+  "price": 39499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c44f"
+  },
+  "name": "ПК DEXP Atlas H498 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ff1d46389a2b0ed2af410f4ef25f1a60/a85b487d472d1086aeb9a2e25454baacc929eca919feaa4724d9f053df9c59c5.jpg.webp",
+  "price": 39499,
+  "rating": 4.92
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c450"
+  },
+  "name": "ПК DEXP Atlas H434 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/5b4d987fdfafbe4e3e0630faeb2c42d2/e3d6ded9fbe831a414cb09298ea2265c97bc5e357605b71bc06b157dc895bc3a.jpg.webp",
+  "price": 39499,
+  "rating": 4.91
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c451"
+  },
+  "name": "ПК DEXP Atlas H486 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/71d641b94bbce7df879d9069a8d8f00d/53193275eaaebbb7f9bb9a2cf3cee2c5b23c2b1c77f00efe70a759b56de2aeb8.jpg.webp",
+  "price": 39499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c452"
+  },
+  "name": "Мини ПК DEXP MINI SMART [Intel Core i5-13500H, 4, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/414c0984663a44b98ab38233cdd9db28/c2199cbf4ded88601ac03b820468c33e75a7acd1d01aed8847fda7a3348e3532.jpg.webp",
+  "price": 39999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c453"
+  },
+  "name": "ПК IRU Office 310H6SF [2074604] [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 230 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ba254da03e0fd2fc1712cb072cb4bbe9/5715062ef71079020e617188ff625f0503b7f0a5c8b2bdf4d73c449345bb4b9a.jpg.webp",
+  "price": 39999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c454"
+  },
+  "name": "Мини ПК Azerty AZ-0037-16-512 [120-0708] [Intel Core i5-12450H, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2a912ac1a291d4eb50f6f6e0570cee9e/42a33176b27aef40e695daba3e9efbdb234546b1e6e97f4fe7077eb5955c40ed.jpg.webp",
+  "price": 39999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c455"
+  },
+  "name": "Мини ПК iRU Office 310H6S SFF [2061142] [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 300 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/35363b464c41e0e357a066c5df30c429/e28684c8a05ddb62a00071e61a6e81cc3a144bd90b45c90177264a95316e7cd6.jpg.webp",
+  "price": 40299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c456"
+  },
+  "name": "ПК DEXP Atlas H490 [Intel Core i3-13100, 4 x 3.4 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/42b69cd960fe3ab5f39644ffcdd50fa4/5aa1eed75fb18f1f8866c35d4e86a9c3fe546973a8670bf394774f66fc067963.jpg.webp",
+  "price": 40499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c457"
+  },
+  "name": "ПК DEXP Atlas H516 [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/500509cfb4d28d4ad6f568c6cf87d60a/50f7a00e528f34b0c7f9a6909a80c326e72bc39e3a15c0f855f2a497c542cce1.jpg.webp",
+  "price": 40799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c458"
+  },
+  "name": "ПК iRU Опал 612 MT [2049324] [Intel Pentium Gold G7400, 2 x 3.7 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), Intel B660, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/0d5abb5de9b1686db33a29f0dba6b3ff/5cbfcf4f533072415e702afa7a0855cf8c741d9ef9bd526696666845c5e3ad0a.jpg.webp",
+  "price": 40799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c459"
+  },
+  "name": "ПК DEXP Mars G001 [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2452f9b8dd8698ccab5c8bdc28829014/b7e8020d3598577a1dec064fbc4e9c9c3ce257c2f2b86e0527d405d4e7bfade7.jpg.webp",
+  "price": 40999,
+  "rating": 4.77
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c45a"
+  },
+  "name": "ПК DEXP Atlas H468 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/067f0e2767a0fe1fe3a49236329f85a0/d88bfabdb7b8001edccf690eba8a2768c73d31db2ab29602669fa32a20d01174.jpg.webp",
+  "price": 40999,
+  "rating": 4.92
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c45b"
+  },
+  "name": "Мини ПК MSI Cubi N ADL-018RU [9S6-B0A911-018] [Intel N200, 4 ГБ DDR4, SSD 128 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/91f410f93254abdbf4138dd77f7aa20a/12ef311be53e4fe69174b57818f43abc5cd33f5c09fa3de9cf75b40af03eecda.jpg.webp",
+  "price": 41299,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c45c"
+  },
+  "name": "ПК DEXP Atlas H474 [AMD Ryzen 7 5700G, 8 x 3.8 ГГц, 16 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c12fd6b6008287579de462215c49586b/4755d2b2ed2517412ce0163430732ab719750f18ac30a158b1e2db5c85a68ad3.jpg.webp",
+  "price": 41499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c45d"
+  },
+  "name": "ПК DEXP Atlas H504 [AMD Ryzen 7 5700G, 8 x 3.8 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/eee9ff6be3314b77a964818a95e58876/507bbcddd6efaca4ae18b01ae09981389b91d9fc1869016db51935eb0c205fef.jpg.webp",
+  "price": 41799,
+  "rating": 4.67
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c45e"
+  },
+  "name": "Мини ПК OSIO BaseLine B51i-012 [Intel Core i3-1215U, 2 x 1.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 59.85 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/772202eff8d55f327c25751de6593149/81f6acfeb209792997dd36571f35f8d5f478b55d3ece95accd2c2dbc41c6502f.jpg.webp",
+  "price": 41999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c45f"
+  },
+  "name": "ПК iRU Home 320A5 MT [2014096] [AMD Ryzen 5 3400GE, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), AMD A320, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7dc413f986810bfda8a6de234f695365/76675ebf6e855ea1962b3dee6a0b17bd9d9c97431d7e5833822664715bb7f682.jpg.webp",
+  "price": 41999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c460"
+  },
+  "name": "ПК DEXP Atlas H430 [AMD Ryzen 7 5700G, 8 x 3.8 ГГц, 16 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/8fd90863b282e2525d688bd0a6f176d0/4249884f0342f5974a28b56c46bb50b159418b6ef0c06589fb68b58a1f2cf6a4.jpg.webp",
+  "price": 41999,
+  "rating": 4.57
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c461"
+  },
+  "name": "ПК iRU Office 310H6S MT [2063121] [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 450 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/6618e165c58c11dc6f32257e18c3c395/7c75fd5adabb71aac0235ae3562c8da106c174e1e8f7f65f9a31fa3b3bbee7d9.jpg.webp",
+  "price": 41999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c462"
+  },
+  "name": "ПК DEXP Atlas H491 [Intel Core i3-14100, 4 x 3.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f15ebe26f9b0335b9b99dc57674c66de/114d72b0f3bb3656c50b97b782fcfa52d87218cbb482da964b225715e3b2c5f9.png.webp",
+  "price": 42499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c463"
+  },
+  "name": "ПК DEXP Atlas H464 [AMD Ryzen 7 5700G, 8 x 3.8 ГГц, 16 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d4b35ff6572c0d848e290c0487514904/2f635881913d770bef9d07a4f61fd2847106454970cc25ec4755326f25ee3812.jpg.webp",
+  "price": 42799,
+  "rating": 4.92
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c464"
+  },
+  "name": "ПК DEXP Atlas H524 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d13e1c8054c6dc2cc6d309c6444473c9/c62950bcb17025097e95d869287e0990a40e34ef32ec8e0a891bd880b87298c3.jpg.webp",
+  "price": 42999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c465"
+  },
+  "name": "ПК DEXP Atlas H513 [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f1fc060caa11afa13a530d8cdda93c1f/10893bca31d96304e2de44f29d8b7dc0e98c3544d4f45c8a7c852bdbfbf5948c.jpg.webp",
+  "price": 42999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c466"
+  },
+  "name": "ПК DEXP Atlas H520 [Intel Core i3-13100, 4 x 3.4 ГГц, 16 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3a1342f855865d570b1d7a49f729ee8c/3c6dd608ca96d49d01c044a2af478b9a37087c0426754be03209bf27e358422b.jpg.webp",
+  "price": 43299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c467"
+  },
+  "name": "ПК DEXP Mars G001-2 [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/4c4bb817abbbc90a0798d79814aa2a43/73887f39c309b196127ff2fc0f3ad71f81c471a08296aca3120e8644ac57cfd9.jpg.webp",
+  "price": 43799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c468"
+  },
+  "name": "ПК DEXP Atlas H500 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 350 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/911687e1b37e9855409dc8f098e06a15/c92f7c2473aaad2bc0d4188f0cd0aaecf142f8b1e267882448f18723bcd538b2.jpg.webp",
+  "price": 43799,
+  "rating": 4.67
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c469"
+  },
+  "name": "Мини ПК Tecno MEGA MINI M1 [71003300214] [Intel Core i5-12450H, 4 x 2 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Home, 2 x HDMI, 2 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/aa5483dc06c4cfb627bf08a3732aea3a/89bd54b48de36022b570ba94454176b28423894be1c379b2c71fb3300ca1fb6e.jpg.webp",
+  "price": 43999,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c46a"
+  },
+  "name": "Мини ПК Rombica Blackbird i3 Q131U85P [PCMI-0332] [Intel Core i3-1315U, 2 x 1.2 ГГц, 8 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 60 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f6718225d68241d2a7e97f2b2fcbe97f/e1b52fffebd97b0401c6131be57ff6012870a662612973442fb448c7d41f5475.jpg.webp",
+  "price": 43999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c46b"
+  },
+  "name": "ПК DEXP Atlas H476 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/0a728811b5e0c3e07d14283a698d8c1f/020376c6cc0b10a475f149bf2777db8d8c1bb50d215ae2dd425b37d84d63f54c.jpg.webp",
+  "price": 43999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c46c"
+  },
+  "name": "Мини ПК HIPER EXPERTBOX D20 [ED20-I5115R8N2NSG] [Intel Core i5-1155G7, 4 x 2.5 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/26e8b3fb3270e53447ba892f2d2149c7/d546b3e1c7635b5b78f4369e323b9fa8d7f66e97c4551085c82471ba48bc10ad.jpg.webp",
+  "price": 43999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c46d"
+  },
+  "name": "ПК DEXP Atlas H514 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/55ed6191956c3aa43a73b02628b834b5/2fc78bd8486c7bb257f37a070081f8606c43801a65858ba1a1371f56a4b85c1d.jpg.webp",
+  "price": 44299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c46e"
+  },
+  "name": "ПК DEXP Atlas H521 [Intel Core i3-14100, 4 x 3.5 ГГц, 16 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ac01a25498ed8f8a8d3f61fc50bdfa12/b899191ff836e52bc8055aa82334855322ff7cc7319bbbbc052610e632c6ff81.jpg.webp",
+  "price": 44499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c46f"
+  },
+  "name": "ПК DEXP Atlas H511 [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/375d19d3d763f234a9f5dda1ab3fe1c3/e8a3e708bb5e5081092f6fadfda3577fb1205ca37950885db7f22706bf1c17bf.jpg.webp",
+  "price": 44499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c470"
+  },
+  "name": "ПК DEXP Atlas H485 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f1eacd28baedeeb9046d994f48371708/b970ffa10762c4e4ae5032acb48d7de47e2ae5e13dd716da1324460809f00132.jpg.webp",
+  "price": 44799,
+  "rating": 4.67
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c471"
+  },
+  "name": "ПК DEXP Atlas H470 [AMD Ryzen 5 5600G, 6 x 3.9 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DVI-D, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3966712a53a147db6f4cbeb36aa981fa/279bd760de6765c4c0cbbe1fc57d69e52192df622d8879522be06076d56066e9.jpg.webp",
+  "price": 44799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c472"
+  },
+  "name": "Мини ПК Acer Gadget E10 ETBox [1746843] [Intel Core i5-12450H, 4 x 2 ГГц, 16 ГБ DDR5, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/fb5c29bcd9da6b186e0046bb99af968a/98a3e854ac5686269d541a32cc7480d7bf6241bf663797600fe1cd58f5e69005.png.webp",
+  "price": 44999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c473"
+  },
+  "name": "Мини ПК Chuwi CoreBox [1746514] [Intel Core i5-12450H, 4 x 2 ГГц, 16 ГБ LPDDR5, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/e0eab27016b75a8db79a15746ef6d88f/3d6b29cb211baf855cbfac34ef38669c69ed4aee60d12898e5496f0d7ed0c872.jpg.webp",
+  "price": 44999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c474"
+  },
+  "name": "Мини ПК DEXP Compact M007 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, Intel H610, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/18d98865814d44499ce98bcdb21155a8/b53b75e14140d899f1738bbd31df3864ae4832f05f5064391632f6d448d3dc73.jpg.webp",
+  "price": 44999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c475"
+  },
+  "name": "Мини ПК Teclast M01 [M01 12450H16G512KRU] [Intel Core i5-12450H, 4 x 2 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 48 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f300b9222babcdb9386a3972536b865e/c5701d2429490fcf6b93c137c90f9a8ed975fc8cd2876ddb03d0fd83dcf4255c.jpg.webp",
+  "price": 44999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c476"
+  },
+  "name": "ПК DEXP Atlas H481 [AMD Ryzen 7 5700G, 8 x 3.8 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/8dd04aabdacc2fcb2689534ba62b08f4/45278dd8484bedb284c8efa1dd1451e78a68120e2077a2220e01051e338fdf2e.jpg.webp",
+  "price": 44999,
+  "rating": 4.67
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c477"
+  },
+  "name": "Мини ПК MSI PRO DP10 12M-228XRU [9S6-B0A622-228] [Intel Core i3-1215U, 2 x 1.2 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c097dbea13a57974e3ee870a098615b3/879e07f8668197ce6afd53a9c6072e10d52caed0097248b6a8facff9fb0f6a77.jpg.webp",
+  "price": 44999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c478"
+  },
+  "name": "ПК iRU Home 310H6SE MT [2028636] [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 400 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/1ebcb45c2facded1581cd7e4b928d8c0/2c9a973b1bd64ff0cf4f357f37e3cc7f8c005015ccd7a3611282c57428eee44b.jpg.webp",
+  "price": 44999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c479"
+  },
+  "name": "ПК iRU 310SC MT 12Gen [1969049] [Intel Core i3-12100, 4 x 3.3 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 200 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c2c7031c690438e7b411d0c7e4c7fd01/76c15dd6fa8c25a3d08c38d8a385a3569a8511686dfb4b4f34ce1a83b15fa61e.jpg.webp",
+  "price": 45799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c47a"
+  },
+  "name": "ПК DEXP Atlas H523 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b87be205f8a7cb621d7e9a026f5c65d9/26d0f780825ca52edc72f57a2fd669b6aa42e323563d106c285ec69b3fa546b7.jpg.webp",
+  "price": 45799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c47b"
+  },
+  "name": "Мини ПК OSIO BaseLine B51i-016 [Intel Core i5-1235U, 2 x 1.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 59.85 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2fced95bd59fa94c6603ef5afa626e4a/3611c2471a56a70e26981e6844d08dd1c18d8c28a45bc44bc3120ccbea8b5987.jpg.webp",
+  "price": 45999,
+  "rating": 3.5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c47c"
+  },
+  "name": "ПК DEXP Atlas H519 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/069a2722970dd38c4a626a1060e7cb86/6187ca966860e64b16e08f57088c5c8bc4f6c6fc0285e5c2ddf2911c56e1821e.jpg.webp",
+  "price": 45999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c47d"
+  },
+  "name": "Мини ПК MSI PRO DP10 12M-217XRU [9S6-B0A621-217] [Intel Core i3-1215U, 2 x 1.2 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7f2ec7f80679c1bc2a2ae0b8e01ab347/8931828700aaef5212ddad311082c168bc221071e3e3eeacb0752f12c3d105dd.jpg.webp",
+  "price": 45999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c47e"
+  },
+  "name": "ПК DEXP Atlas H517 [AMD Ryzen 7 5700G, 8 x 3.8 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d3df841d8e955ca6a3881d515a267c7c/d2093cdf9eabc61d46926b12cfda2a80bc74cf8087d2e575543c03eb84267452.jpg.webp",
+  "price": 45999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c47f"
+  },
+  "name": "Мини ПК ASUS ExpertCenter PN64-S5437MD [90MS02G1-M00DN0] [Intel Core i5-12500H, 4 x 2.5 ГГц, 16 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/1ab0e3d9795eef015811cf5f07051119/46a38b579342077cc0a0d5a63ca50a96dad45dee0840d964723a327120fc2a91.jpg.webp",
+  "price": 46499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c480"
+  },
+  "name": "Мини ПК ASUS ExpertCenter PN64-S3433MD [90MS02G1-M00DJ0] [Intel Core i3-1220P, 2 x 1.5 ГГц, 8 ГБ DDR5, SSD 256 ГБ, без ОС, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 90 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/e6142cfbbf24c7ad9d0f2243892f4fca/e4c176e506320cd2e7caf888c6eda85b33c1daefeb42c936859ee70f008b4d1c.jpg.webp",
+  "price": 46799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c481"
+  },
+  "name": "Мини ПК MSI PRO DP21 13M-626XRU [9S6-B0A421-633] [Intel Core i3-13100, 4 x 3.4 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, Intel H610, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/8c397199969150a0fa827ed5821c4950/4ab411237881986ce034b76ccd2b1d881169712e2bceb69b89f9724009c918d1.jpg.webp",
+  "price": 46999,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c482"
+  },
+  "name": "Мини ПК MSI PRO DP21 13M-604XRU [9S6-B0A421-632] [Intel Core i3-13100, 4 x 3.4 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, Intel H610, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d5b207a4e61244bc16cf88e5f08a8aed/e2144cafc6d89ab09e7f5da496d3d84af8f531133db0a8b1435aaf8ff7d0a72f.jpg.webp",
+  "price": 46999,
+  "rating": 4.57
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c483"
+  },
+  "name": "Мини ПК Tecno MEGA MINI M1 [71003300336] [Intel Core i5-13420H, 4 x 2.1 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Home, 2 x HDMI, 2 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/caa852749651e106b4c3e32e9c78f5a9/6b6727a42341d75b81ea44af0a716eb7eeb2133733ed95b3f17c35997364541e.jpg.webp",
+  "price": 46999,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c484"
+  },
+  "name": "ПК iRU Game 313EC [1920333] [Intel Core i3-12100, 4 x 3.3 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/50218d41597ec64754b69f514584768a/e73bf9059809189fb13ad58181b8571c496201603704c352ba5c25441c43b12b.jpg.webp",
+  "price": 46999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c485"
+  },
+  "name": "ПК DEXP Atlas H510 [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d13e1c8054c6dc2cc6d309c6444473c9/c62950bcb17025097e95d869287e0990a40e34ef32ec8e0a891bd880b87298c3.jpg.webp",
+  "price": 47299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c486"
+  },
+  "name": "ПК DEXP Mars G002 [AMD Ryzen 7 5700G, 8 x 3.8 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ec426249aa5061483884febc00edaece/72785d9ed1cf97546dc4dcc548eb6798d816d102884feae7c3d240f502d25153.jpg.webp",
+  "price": 47499,
+  "rating": 4.82
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c487"
+  },
+  "name": "Мини ПК OSIO BaseLine B51i-017 [Intel Core i5-1235U, 2 x 1.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 59.85 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/bec6cda256c81ebaeb83bc49276c666a/e78dc53168c3aac23cc2c82e2cbc92c10026767926e76d2bbba87826ae98af3b.jpg.webp",
+  "price": 47999,
+  "rating": 3.5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c488"
+  },
+  "name": "ПК ASUS S501MER-3131000040 [90PF04W1-M00750] [Intel Core i3-13100, 4 x 3.4 ГГц, 8 ГБ DDR5, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a96fba7d619f1fd0082e2c48236195a3/13a7b8ec2d00f2247f554a3396550e6a881e3e4b885753f2c76281a1b3d94931.jpg.webp",
+  "price": 47999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c489"
+  },
+  "name": "ПК DEXP Atlas H477 [Intel Core i5-13400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/95328e65cbbd7c7c19d216c1f99374db/799d9f4d065c8cc3f74f5b7860f1062d53c8a3a782fb3af60758d4b2e623d641.jpg.webp",
+  "price": 48299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c48a"
+  },
+  "name": "Мини ПК Lenovo ThinkCentre neo 50q Gen 4 [12LN003LGP] [Intel Core i3-1215U, 2 x 1.2 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9b2c5d494c7032f77e82d31714be35e1/ee922d74c0cb6185fc2cab76dad15d084a07d834d37ba4d090f0e1a56f892090.jpg.webp",
+  "price": 48499,
+  "rating": 2.5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c48b"
+  },
+  "name": "Мини ПК MSI PRO DP10 13M-223XRU [9S6-B0A612-223] [Intel Core i3-1315U, 2 x 1.2 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d0282beff60e86dcfb8099c06babd7d9/e003d51590f87f75cfe25a5dd670824927ab403296bfeee97f724c0e158a0223.jpg.webp",
+  "price": 48799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c48c"
+  },
+  "name": "ПК DEXP Atlas H505 [Intel Core i5-13400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/deda417e31f003fa600bb10cc0d38276/a77d2c30f760e93d3003bd4dfd3ac44af25941971fbbe26593f4b4e54eb0c06e.jpg.webp",
+  "price": 48999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c48d"
+  },
+  "name": "Мини ПК DEXP MINI REVO B007 [Intel Core i7-13620H, 6 x 2.4 ГГц, 16 ГБ DDR5, SSD 512 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/5220510f1c3f1d24329c0f76dfa0d5a7/944682f8d6760205e920ca9de9ddc7baaa0d025d05b3928bcc1f8ab5e8002d38.jpg.webp",
+  "price": 48999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c48e"
+  },
+  "name": "Мини ПК MSI Cubi NUC 1M-074XRU [9S6-B0B111-074] [Intel Core 3-100U, 2 x 1.2 ГГц, 8 ГБ DDR5, SSD 256 ГБ, без ОС, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7839117f974e7a6bd07b4e0f647fab70/30dd3a8716e20a34c93baa7ee59fadd8e98f03db3488740dfd61ba417ace6def.jpg.webp",
+  "price": 48999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c48f"
+  },
+  "name": "Мини ПК DEXP MINI REVO B008 [AMD Ryzen 7 7735HS, 8 x 3.2 ГГц, 16 ГБ DDR5, SSD 512 ГБ, Windows 11 Pro, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/0c7736cc298fa4dea39ab2a6d9fce2f9/45ef89b27e4ab75d5334e33cafcd62c8193d01c360bdbc8ac28725dfbdcc2e2a.jpg.webp",
+  "price": 48999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c490"
+  },
+  "name": "ПК DEXP Atlas H515 [Intel Core i5-13400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/817ca34c928f8b27278604dfbcd30156/0dfeebdfe800d7ac75ecac5a16fc78cec43cf61d358603a09f05ad714a53ea01.jpg.webp",
+  "price": 49299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c491"
+  },
+  "name": "Мини ПК CHUWI AuBox [1746653] [AMD Ryzen 9 6900HX, 8 x 3.3 ГГц, 16 ГБ DDR5, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/56cb2406675d8c7a020e6a4408c676bb/bdf1057cd554ad30578b28f2c62aa812a1b4fd5e722f5c57aa61f1086dfcb328.jpg.webp",
+  "price": 49999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c492"
+  },
+  "name": "Мини ПК Rombica Blackbird i3 T13182P [PCMI-0339] [Intel Core i3-13100, 4 x 3.4 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel H610, блок питания - 90 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/cca2aacd76124eb0cf78cf2b7c4713b6/54f3f9aa777b50344d55494090078c7af7627db650b2c67b2683719730a69bcb.jpg.webp",
+  "price": 49999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c493"
+  },
+  "name": "ПК ASUS D500TE-3131001830 [90PF03Y2-M02UZ0] [Intel Core i3-13100, 4 x 3.4 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel B760, блок питания - 200 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7360aac5226b83cc4acddb8e003981da/c81ed530072639cd537cd53d11a22eee3830f0141c47371b9d8030024d64fc71.jpg.webp",
+  "price": 49999,
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c494"
+  },
+  "name": "ПК DEXP Atlas H522 [Intel Core i5-13400, 6 x 2.5 ГГц, 16 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/817ca34c928f8b27278604dfbcd30156/0dfeebdfe800d7ac75ecac5a16fc78cec43cf61d358603a09f05ad714a53ea01.jpg.webp",
+  "price": 50499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c495"
+  },
+  "name": "Мини ПК MSI Cubi 5 12M-097XRU [9S6-B0A812-097] [Intel Core i5-1235U, 2 x 1.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/68d1de18c58466a02c89913aae18fa96/76192a3da7b68693844a3688de8988029f61003aa7d97337d9a7af18c1295720.jpg.webp",
+  "price": 51799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c496"
+  },
+  "name": "Мини ПК Acer Gadget E10 ETBox [1746508] [Intel Core i5-12450H, 4 x 2 ГГц, 16 ГБ DDR5, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2353c05f7e1d5c0eecdba07d79ee93ba/bbc4c90e0d0b00cfc8b98e6d19406ef3019f8afa8527e0687bdcc90e8001f949.jpg.webp",
+  "price": 51999,
+  "rating": 4.99
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c497"
+  },
+  "name": "ПК ASUS D500SE-3131000860 [90PF0401-M01WT0] [Intel Core i3-13100, 4 x 2.5 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel B760, блок питания - 180 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/cfbba1b4950d908910acc79a4fda8685/f1b84c323284ea9f4c8e95088afdb7b49c2b53df37c6b193aece8abe06207368.jpg.webp",
+  "price": 51999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c498"
+  },
+  "name": "ПК ASUS D500TE-3131001820 [90PF03Y2-M02UY0] [Intel Core i3-13100, 4 x 3.4 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 200 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/e173925a7cbb2038a78cb5c6b340405d/2121293ba6006f25443261a2054bea10aaa12c1b54926cc4f8d4093fe79c3d17.jpg.webp",
+  "price": 51999,
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c499"
+  },
+  "name": "Мини ПК MSI Cubi NUC 1M-045XRU [9S6-B0B111-045] [Intel Core 3-100U, 2 x 1.2 ГГц, 8 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9638108bc2fcff0d29c39994db0d9905/3c9640ab03ba02b5a77cb8f62a9bc93946bd2aa9f866b389b575ca3060b3525a.jpg.webp",
+  "price": 51999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c49a"
+  },
+  "name": "Мини ПК ASUS ExpertCenter D7 D700SER-3131000040 [90PF04N1-M004N0] [Intel Core i3-13100, 4 x 3.4 ГГц, 8 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel B760, блок питания - 300 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9a8051da82ea2ed00fcaa59bf1a68a66/7fa510e55041b0912766883201387255df2f001a0ce4dc5577dc9a0c76a32055.jpg.webp",
+  "price": 51999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c49b"
+  },
+  "name": "ПК ARDOR GAMING NEO M136 [Intel Core i3-12100F, 4 x 3.3 ГГц, 16 ГБ DDR4, GeForce GTX 1650, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3ac6cb2300397ae55a0edf9073f99205/59b1bcedb08cd3ebb499f995f1afe824d1eaff2a1608de1619a65bf53418d959.jpg.webp",
+  "price": 51999,
+  "rating": 4.81
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c49c"
+  },
+  "name": "Мини ПК Teclast M01 [M01 13420H16G512KRU] [Intel Core i5-13420H, 4 x 2.1 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 48 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/13720037bfb4cc6ef93dbc517e2fedbe/afbdeb11b4bc47b067b9fd935164d87e4a7164e79d41f66cf9aef0e861e46409.jpg.webp",
+  "price": 51999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c49d"
+  },
+  "name": "Мини ПК Beelink SER 5 Max [00053] [AMD Ryzen 7 5800H, 8 x 3.2 ГГц, 32 ГБ DDR4, SSD 500 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2864972386c1d5039c2a873d0b8007f1/fc2252f758640190d0093056ee62b8072fab5b427db1386dd74c71193d99950b.jpg.webp",
+  "price": 53299,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c49e"
+  },
+  "name": "Мини ПК Rombica Blackbird i5 Q133U82P [PCMI-0333] [Intel Core i5-1335U, 2 x 1.3 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 60 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c21a101b9a9b462edc667cf09ea99e90/2529a8e3a9597c5857fb4900e05b43ef50ab65182f98e9f109dc82cc0aab3ac2.jpg.webp",
+  "price": 53999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c49f"
+  },
+  "name": "Мини ПК ASUS ExpertCenter D5 D500SER-3131000040 [90PF0401-M01WV0] [Intel Core i3-13100, 4 x 3.4 ГГц, 8 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel B760, блок питания - 180 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2fcbd8020ce47b09ae200e48963de8e9/791a48a3896b98b40c1629f988c44520f739fff3b8544ee2214bebacb0eadf57.jpg.webp",
+  "price": 54999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4a0"
+  },
+  "name": "ПК ARDOR GAMING NEO M144 [Intel Core i3-12100F, 4 x 3.3 ГГц, 16 ГБ DDR4, GeForce GTX 1650, SSD 500 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/01bf1072ac13d9c2631e48fd17c85e42/a5b2bffb6affe9574d4cda218a1baa0bcc357326cf4bbe9bf0ce1355a2fcde86.jpg.webp",
+  "price": 55299,
+  "rating": 4.76
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4a1"
+  },
+  "name": "Мини ПК Beelink SER6-P [00088] [AMD Ryzen 9 6900HX, 8 x 3.3 ГГц, 16 ГБ DDR5, SSD 500 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x USB Type-C, Wi-Fi, Bluetooth]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/424e095e96b758a671fa8fdc507b12f4/dadf2e2b72c77d69185b58b28c15f0fb574546fa8b626a7c00a4e9a3f10ab39f.jpg.webp",
+  "price": 56999,
+  "rating": 4.71
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4a2"
+  },
+  "name": "Мини ПК MSI PRO DP10 12M-222XRU [9S6-B0A622-222] [Intel Core i5-1235U, 2 x 1.3 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9222b55676229c449a9f48a370d2d87b/c143d103cb42aec3fbc5a74c7bc94d86b0ae13db2731ff685d92c112aa914d01.jpg.webp",
+  "price": 56999,
+  "rating": 4.75
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4a3"
+  },
+  "name": "ПК DEXP Atlas H493 [Intel Core i7-12700, 8 x 2.1 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/927919d6624c12d3ae32beec722fb04a/17ab50dcfed1aa58a4490884641858e16c49945b8d73acabd09b2cc4c544b8b8.jpg.webp",
+  "price": 56999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4a4"
+  },
+  "name": "ПК DEXP Atlas H478 [Intel Core i7-12700, 8 x 2.1 ГГц, 16 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9d5b1356fc5afaaf52c8631d943bc6e8/b583a942bc88078f703038822a4020c91c2449838514a47a19ea5d019105bd3c.jpg.webp",
+  "price": 57499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4a5"
+  },
+  "name": "Мини ПК MSI Cubi 5 12M-296XRU [9S6-B0A812-296] [Intel Core i5-1235U, 2 x 1.3 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, SoC, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d82e5ec0104165dcf8bee9398f48c676/fa9593abbbfa7086efc61e7f0cd8c7a4b4eae42372737ce4e116a5db9e840ba2.jpg.webp",
+  "price": 57999,
+  "rating": 3.8
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4a6"
+  },
+  "name": "Мини ПК MSI PRO DP21 13M-816RU [9S6-B0A421-816] [Intel Pentium Gold G7400, 2 x 3.7 ГГц, 8 ГБ DDR4, SSD 128 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Intel H610, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/852f6dfc06e7b699461245f5e59d8b0d/29565671a7382a03f8950b131c26811b2ad5afd350bf83313d5e67eb62eb1189.jpg.webp",
+  "price": 58499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4a7"
+  },
+  "name": "ПК DEXP Atlas H435 [Intel Core i7-12700, 8 x 2.1 ГГц, 16 ГБ DDR4, SSD 500 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/0a332224c458aa02e420548b2461ab02/7a006db9db2d9eabfce3e131d9005a5ce90b0085b7fe7ef6e76417e53d4ff0ce.jpg.webp",
+  "price": 58499,
+  "rating": 4.79
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4a8"
+  },
+  "name": "Мини ПК Rombica Blackbird i5 Q134P85P [PCMI-0334] [Intel Core i5-1340P, 4 x 1.9 ГГц, 8 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 60 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/110ce60ec1af3558d6a863eede135f6a/f4a82c7e76079b2c76d726bf7c5ff37e8f0983b9bdb6e3bf5e7a7809d59bdd2b.jpg.webp",
+  "price": 58999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4a9"
+  },
+  "name": "ПК ARDOR GAMING NEO M152 [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce GTX 1650, SSD 500 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/5fbcb9336492a13e6d06890190f90236/9d3d4c88b9c0996af9b37b599bccd0ab5e689b458a5abdda0fa4a26b98a127bd.jpg.webp",
+  "price": 58999,
+  "rating": 4.47
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4aa"
+  },
+  "name": "ПК DEXP Atlas H518 [Intel Core i7-12700, 8 x 2.1 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/dfd8a2058b5f44ef1579a0fced221ba2/36ecb4c98724f499d2771f74faf08383ac2cd58ec70fd992cd74f49609a663ef.jpg.webp",
+  "price": 59299,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ab"
+  },
+  "name": "Мини ПК ASUS ExpertCenter PN52-S5149MD [90MS02F1-M004N0] [AMD Ryzen 5 5600H, 6 x 3.3 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3911bb9c43f0b562e4e6a18fc4237722/477330cfddac40388d3f9f9af02c613a90f2500c6b8213d128725fc09124832b.jpg.webp",
+  "price": 59999,
+  "rating": 4.56
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ac"
+  },
+  "name": "ПК ASUS D500SE-313100073W [90PF0401-M01WU0] [Intel Core i3-13100, 3.4 ГГц, 8 ГБ DDR4, SSD 512 ГБ, Windows 10 Home, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel B760, блок питания - 180 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/23ccdd2e9a6297deeb7708f10d8190a9/f29ea7ee243469f5e1a633961f11dd2e7c5c3a39fab2f58f729065b286f5c109.jpg.webp",
+  "price": 59999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ad"
+  },
+  "name": "ПК DEXP Atlas H507 [Intel Core i7-12700, 8 x 2.1 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/0b8a65e9c4c3b51005d52d0e3a44cdb2/d0d05a6182d0f3d38225c8fa6ab1c8b0ed72ab05551b4ef2815e82dbc25a1269.jpg.webp",
+  "price": 59999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ae"
+  },
+  "name": "ПК ARDOR GAMING NEO M149 [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce GTX 1650, SSD 500 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/535e22ae09266f3ae62177f36ba25953/1dd689dca36f50c0f386ec25996e8663d58e68501fc8a79477d5deb6dfe980e5.jpg.webp",
+  "price": 59999,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4af"
+  },
+  "name": "ПК ARDOR GAMING NEO M142 [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce GTX 1650, SSD 500 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/6902038e47787f62a270722982619770/bc8a198777b60007ba5429fc95f857d2fe5f93dc9b54d989a5b37ad7d9a98b88.jpg.webp",
+  "price": 60999,
+  "rating": 4.78
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4b0"
+  },
+  "name": "Мини ПК HP ProDesk 400 G9 Mini [935X8EA#BH5] [Intel Core i3-13100T, 4 x 2.5 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 2 x DisplayPort, Wi-Fi, Bluetooth, блок питания - 90 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b4fbfdb600fd6b5d2eb541500907ec30/944e961b189a6a927b627d063a707aedb304ac8ff7c45ed0f5e568c43cdc4843.jpg.webp",
+  "price": 61499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4b1"
+  },
+  "name": "Мини ПК MSI Cubi NUC 1M-044XRU [9S6-B0B111-044] [Intel Core 5-120U, 2 x 1.4 ГГц, 16 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c04776d224bcdda294fdb943d95cd920/15f01fc5a223738e42dd6f090b9584a1257607d9de2c683fe755b7dd208733be.jpg.webp",
+  "price": 61499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4b2"
+  },
+  "name": "ПК ARDOR GAMING NEO M164 [Intel Core i3-12100F, 4 x 3.3 ГГц, 16 ГБ DDR4, GeForce RTX 3050, SSD 500 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/219e296742ed44004e3e9b2c3e6e8cd9/3103468d50c5ccd600edd8a947291b6fc810e16fd53eed1e1acb274babb3245e.jpg.webp",
+  "price": 61499,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4b3"
+  },
+  "name": "ПК ARDOR GAMING NEO M146 [Intel Core i3-12100F, 4 x 3.3 ГГц, 16 ГБ DDR4, GeForce RTX 3050, SSD 500 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/5269baa9638072e610dc5d2f9d46f4cf/7299a6ecf586aa52c341da95b30b75a06b039e4d24711f2b2607780c6f418a1b.jpg.webp",
+  "price": 61499,
+  "rating": 4.85
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4b4"
+  },
+  "name": "Мини ПК MSI Cubi 5 12M-295XRU [9S6-B0A811-295] [Intel Core i5-1235U, 2 x 1.3 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/4a208564dbb2f32085c6b92db6f659b0/877d552b7e90641ed9afc17b3e39819cfeb8b5b2b3e0aab0472b05200145cf66.jpg.webp",
+  "price": 61799,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4b5"
+  },
+  "name": "Мини ПК MSI PRO DP10 12M-220XRU [9S6-B0A622-220] [Intel Core i7-1255U, 2 x 1.7 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/0f82a910d85dea0a26c7414c75cd506e/19046c3a0a6eb2a3b574bbfc6958bd3f3c461093bd61e0491f57cf29ddcaa9b1.jpg.webp",
+  "price": 61999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4b6"
+  },
+  "name": "ПК DEXP Mars G003 [AMD Ryzen 7 5700G, 8 x 3.8 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), AMD B550, блок питания - 600 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/cf0e7c8d64345fa9d1ee2b128e4aa7e9/a3a073abe3651267e37a646e84b984cc3820d70b521eaf9fde2423f989cc499e.jpg.webp",
+  "price": 62299,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4b7"
+  },
+  "name": "Мини ПК MSI PRO DP21 13M-848RU [9S6-B0A421-848] [Intel Core i3-13100, 4 x 3.4 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Intel H610, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ce53fe10fc3a303c58ac758adbe676a0/fc0483e68ba80caa754833addc751169d5d2ec154fcf94d3d791800d239da409.jpg.webp",
+  "price": 62299,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4b8"
+  },
+  "name": "ПК ARDOR GAMING NEO M161 [Intel Core i3-12100F, 4 x 3.3 ГГц, 16 ГБ DDR4, GeForce RTX 3050, SSD 500 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/92da25483697fa52edb4a9575924ec63/0cfed0f61af874cc2536c6139a24ba5e3f0d6b7716756f064ef3d898a1517cd2.png.webp",
+  "price": 62799,
+  "rating": 4.75
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4b9"
+  },
+  "name": "Мини ПК ASUS ExpertCenter PN64-S5434MD [90MS02G1-M00DK0] [Intel Core i5-12500H, 4 x 2.5 ГГц, 8 ГБ DDR5, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/d070844dd315beb88e6a679044cf712e/a5846bc54b8f4ab37f5be69670a3221496aaed77e1e638116a0554715a7428f3.jpg.webp",
+  "price": 62999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ba"
+  },
+  "name": "ПК MSI PRO DP180 12-442XRU [9S6-B0A721-442] [Intel Core i5-12400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c55fc5b1428a90d255506002e4ed754e/65f0e0a022f3394241ca7beebe587cf0c965dc26e49a85971773184c0b08037c.jpg.webp",
+  "price": 63999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4bb"
+  },
+  "name": "ПК ASUS D500TE-5135001610 [90PF03Y2-M02V00] [Intel Core i5-13500, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel B760, блок питания - 200 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/54785dce749f8656ea8ee00b6c4e9022/617558e6a50b5f97a1c78693bd649e1441d235f2d73111b05cede49aeb08367b.jpg.webp",
+  "price": 63999,
+  "rating": 3.67
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4bc"
+  },
+  "name": "Мини ПК HIPER FACTUM FT20 [FT20-i3141R8N2R6BWP] [Intel Core i3-14100, 4 x 3.5 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2ed90ab35b60e0a209f00d721b457c30/9aa011729a09a288d395e6e63ffcb9f5fbc42202decb0492bb1177d8fdc0e583.jpg.webp",
+  "price": 63999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4bd"
+  },
+  "name": "Мини ПК ASUS ExpertCenter PN52-S5155MD [90MS02F1-M004V0] [AMD Ryzen 5 5600H, 6 x 3.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3861074cc872d3cb54902e6ca6f5c199/9cfd68f15c14658b2bc474d805a27b37f3804af7ebc7aabd0da8ef98805f6447.jpg.webp",
+  "price": 64999,
+  "rating": 4.57
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4be"
+  },
+  "name": "Мини ПК MSI Cubi NUC 1M-096XRU [9S6-B0B111-096] [Intel Core 5-120U, 2 x 1.4 ГГц, 8 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/19bc2473801a23f27bb48b1370850f75/51c430e3134f7ee353f11778e182640e3a5076b7322896e5c792d3c2de2dee35.jpg.webp",
+  "price": 64999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4bf"
+  },
+  "name": "ПК ASUS D500SE-5135001190 [90PF0401-M039J0] [Intel Core i5-13500, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel B760, блок питания - 180 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a98a20e2716c78ff3d323b4080bf6b2c/f7fe820e881c2051d4e1cf2a6b0324dc20fbe21f3414b112909eac00c8060888.jpg.webp",
+  "price": 64999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4c0"
+  },
+  "name": "Мини ПК MSI PRO DP 21 13M-625XRU [9S6-B0A421-625] [Intel Core i5-13400, 6 x 2.5 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, Intel H610, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/8743e095e149e47a42de4bceb6d2817c/7143934afb0cb984dede8a18d92f7d1cce2c3fd643d2d7e1b427ddfa61b5a038.jpg.webp",
+  "price": 65999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4c1"
+  },
+  "name": "Мини ПК ASUS PL64-S5213MN [90MS02J2-M006N0] [Intel Core i5-1235U, 2 x 1.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 3 x HDMI, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3e338860ee56eb019d656cc224141078/0c45f12b4783a367f09271170101400a202dab3685add37f0563e20cc27ccdec.jpg.webp",
+  "price": 67499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4c2"
+  },
+  "name": "Мини ПК ASUS ExpertCenter PN53-S5163MD [90MS02H1-M00540] [AMD Ryzen 5 7535HS, 6 x 3.3 ГГц, 16 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x HDMI, 2 x USB Type-C, SoC]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2b7b65ff2cfac7fc332a9593eaf7c1d2/1b6c4ac40e6e6e6565265c2a57c282b5ceae0dca95885a39a6e4b9e931a53100.jpg.webp",
+  "price": 67999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4c3"
+  },
+  "name": "Мини ПК MSI PRO DP10 12M-216RU [9S6-B0A621-216] [Intel Core i3-1215U, 2 x 1.2 ГГц, 8 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/604f6687e741bad7fe24cfb7d27a4935/0f33a57db34f744638351fb1e2a6324a354a1c27751a355c32af35a76c7e7ee2.jpg.webp",
+  "price": 68999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4c4"
+  },
+  "name": "ПК DEXP Mars G004 [AMD Ryzen 5 8600G, 6 x 4.3 ГГц, 32 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, AMD B650, блок питания - 600 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/cf88d5a57544a2e9a91eeadee4b5aae1/a02f707c4d75429a54936e49df8de77708a876cb14446378d86ecfd010396c31.jpg.webp",
+  "price": 69299,
+  "rating": 4.71
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4c5"
+  },
+  "name": "ПК ARDOR GAMING NEO M162 [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 3050, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/d1015ad436b71163db7cfb59c1876f64/aecebbd4c418250f5c9d4f2456c92982d00e27d2cd9ceefa2367f974cf7a078e.png.webp",
+  "price": 69999,
+  "rating": 4.38
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4c6"
+  },
+  "name": "ПК ARDOR GAMING NEO M159 [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 3050, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c1a302b929bbdabfe4e514cb735d9c0b/76f2c0fe757dc3eee4f864f1a3979cac0135236d36901209291a1a2224512ded.jpg.webp",
+  "price": 69999,
+  "rating": 4.52
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4c7"
+  },
+  "name": "ПК ARDOR GAMING NEO M143 [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 3050, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/a9d6c5eb8c6b02564546e23ced59b43e/40a36afea37242b3e2faa935725e81ee56b364f6dc40aea2e41807e2f614b67a.jpg.webp",
+  "price": 69999,
+  "rating": 4.81
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4c8"
+  },
+  "name": "Мини ПК ASUS ExpertCenter D7 D700SE-5135000490 [90PF0421-M01T60] [Intel Core i5-13500, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), 2 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 300 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/97efc22b09d1e8ce8aa02a80f5b96adc/29252a1042925688e16ae64d996ead3763f21d9fd4f756a711f1698f037a5515.jpg.webp",
+  "price": 69999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4c9"
+  },
+  "name": "ПК ARDOR GAMING NEO M155 [Intel Core i3-12100F, 4 x 3.3 ГГц, 16 ГБ DDR5, GeForce RTX 3050, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ee8d714ee37c3df575d8989348525337/eac5f7d127fa91c2d1045e72760ee166e3a97af9b11a58cc93bc06da64ec2deb.jpg.webp",
+  "price": 69999,
+  "rating": 4.79
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ca"
+  },
+  "name": "Мини ПК MSI PRO DP10 12M-221RU [9S6-B0A622-221] [Intel Core i5-1235U, 2 x 1.3 ГГц, 16 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/6096e6509efab190810fe55917b9ce89/ba3d1feaad07001c4fee53bf532d79970754fa65c74951dcbbada7aedb500b97.jpg.webp",
+  "price": 70799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4cb"
+  },
+  "name": "ПК ARDOR GAMING NEO M163 [Intel Core i5-12400F, 6 x 2500 ГГц, 16 ГБ DDR4, GeForce RTX 3050, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c5ac5914d5d10cb85db8c0cf53af6bc9/721074339c92ea5daaa63864daacf918da890d681d22628e36fdadd5da47ee75.jpg.webp",
+  "price": 70999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4cc"
+  },
+  "name": "Мини ПК Rombica Blackbird i5 T134165P [PCMI-0340] [Intel Core i5-13400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel H610, блок питания - 90 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/1b9112d5321313d4b50f21782b3ab6ba/a6aa18fdfefe9ed9c22308db4cc75c1775a90ce8ab766603aeab3978fdf303ea.jpg.webp",
+  "price": 71999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4cd"
+  },
+  "name": "Мини ПК ASUS ExpertCenter D5 D500SER-5144000210 [90PF04K1-M006V0] [Intel Core i5-14400, 6 x 2.5 ГГц, 16 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel B760, блок питания - 180 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9823cc838cee01ae8131f278f69c6d2e/d19feded4725943a401b0c0ef6160a8f1be567821c59e3fb04272d45246aaa9c.jpg.webp",
+  "price": 71999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ce"
+  },
+  "name": "Мини ПК ASUS ExpertCenter D7 D700SER-5144000170 [90PF04N1-M004P0] [Intel Core i5-14400, 6 x 2.5 ГГц, 16 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Wi-Fi, Bluetooth, Intel B760, блок питания - 300 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/1bd188129d042a66c7e412db94f5b755/aa8346a385cb57843412e0a2de8180bee44637da4a0a9404c8edab2a2914c736.jpg.webp",
+  "price": 71999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4cf"
+  },
+  "name": "ПК ARDOR GAMING NEO M168 [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 3050, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ab415054ae0a31b4bcd49f11fa3b4d5c/d5c3f529b1ebdf8f8fc4fa0802817146054b518411fe635f3cebbee8fb2f6d35.jpg.webp",
+  "price": 72499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4d0"
+  },
+  "name": "ПК ARDOR GAMING NEO M169 [Intel Core i5-12400F, 6 x 2500 ГГц, 16 ГБ DDR4, GeForce RTX 3050, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/e69e9204e31ee6470ca1c52b6b845dcb/cf55067588a37b763d077ea589590bf1e98a4edc9e559fcde4816d77835f710b.jpg.webp",
+  "price": 72499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4d1"
+  },
+  "name": "Мини ПК MSI Cubi NUC 1M-097RU [9S6-B0B111-097] [Intel Core 3-100U, 2 x 1.2 ГГц, 8 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2a83c94e30d534d0a4756a6f26db896f/ebe2a60b52d737bde18c1be0b151936b244e750d69e548a8829f091e2c6d63c2.jpg.webp",
+  "price": 72999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4d2"
+  },
+  "name": "Мини ПК Rombica Whitebird i5 WX134165P [PCMI-0354] [Intel Core i5-13400, 6 x 2.5 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, Intel H610, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/37ba8a905ce773122fe4e73fbd0b19ec/1880eaa15eba15dcf6c22e69c92529905a9d5cea23b23af44e9ec2ed0c4786f2.jpg.webp",
+  "price": 73999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4d3"
+  },
+  "name": "Мини ПК HP Pro Mini 260 G9 [6B2W5EA] [Intel Core i5-1235U, 2 x 1.3 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/16787f2e205520042b6a65400f518628/890d1f6dafdef625ba4369f8e2baa6c8896a91ee0c7bbb4ce1da188011dff74b.jpg.webp",
+  "price": 74299,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4d4"
+  },
+  "name": "ПК DEXP Mars G006 [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 4060, SSD 500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7f35a8de89355fa16885d0682fcacb81/61e76b1e54fba3988c9ff4780c715a1548a00a1207d68a2ef083a3a7c4647330.jpg.webp",
+  "price": 74799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4d5"
+  },
+  "name": "ПК DEXP Mars G005 [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 4060, SSD 500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/18df8e23a7539fb14ef388e18bbacafc/76d55088d11027855c5b999eb4bf2b97c41cee214a2e4c384dc9e8844bd66c80.jpg.webp",
+  "price": 75999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4d6"
+  },
+  "name": "Мини ПК Tecno MEGA MINI M1 [71003300338] [Intel Core i9-13900H, 6 x 2.6 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, Windows 11 Home, 2 x HDMI, 2 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/0b51a34d6ccfd0e996e91bbc0bb8482e/61b9640a4a930ee0660c3b7cb5054018394b895ed63c469635a0412abab5ed07.jpg.webp",
+  "price": 77999,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4d7"
+  },
+  "name": "ПК ARDOR GAMING NEO M160 [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 3050, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f5087db34d5d2ae8bc20b05e69f80773/d07b4ba94b9e819a946807c5233b0520c4a81bc212c8b2b3acecc187a9d91dcb.jpg.webp",
+  "price": 78499,
+  "rating": 4.95
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4d8"
+  },
+  "name": "Мини ПК MSI Cubi NUC 1M-043XRU [9S6-B0B111-043] [Intel Core 7-150U, 2 x 1.8 ГГц, 16 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/18af8e69f12e70ce7248a3fc56329f12/fdf808b8973f975e7a4b8bc928479c187d4ea251fe09cec69fa32a457725b3d0.jpg.webp",
+  "price": 79999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4d9"
+  },
+  "name": "Мини ПК HP Pro Mini 260 G9 [883X8EA] [Intel Core i5-1335U, 2 x 1.3 ГГц, 16 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/26f73e74058eeae2011179a460a99e09/60229617c3c510ab06d2734ba12d9ccbb700ff7050860ca9f65c06b35c94bbbc.jpg.webp",
+  "price": 80799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4da"
+  },
+  "name": "ПК ARDOR GAMING NEO M170 [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/95c12ced1a84a6427cf3a61c82461b32/25402358558410262c004a2be05d92e3a3c163845171c9a58ea750fd879a12e6.jpg.webp",
+  "price": 82999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4db"
+  },
+  "name": "Мини ПК HP ProDesk 400 G9 R Mini [935X2EA] [Intel Core i7-13700T, 8 x 1.4 ГГц, 8 ГБ DDR4, SSD 512 ГБ, без ОС, 1 x HDMI, 2 x DisplayPort, Wi-Fi, Bluetooth, Intel Q670, блок питания - 90 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/5fa266b23dbc22b672ef595371a17dbf/183003053da5384e9e20a70c42f2f24a301248f9ed2ab02c43f3403182d6adf5.jpg.webp",
+  "price": 83999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4dc"
+  },
+  "name": "ПК ASUS S501MER-5135000060 [90PF04W1-M00770] [Intel Core i5-13500, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 3050, SSD 512 ГБ, без ОС, 1 x DisplayPort, 1 x DVI-D, 1 x HDMI, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/fcf8cf0cb3d42400ff6aac3cf0b58eb5/67d749435f49d2f83ee8f68da9abd02033af4d541b1b0ed1dbadc590984e890d.jpg.webp",
+  "price": 84799,
+  "rating": 4.25
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4dd"
+  },
+  "name": "Мини ПК Maibenben PC87 [PC8700J0LB0E0] [AMD Ryzen 7 7840HS, 8 x 3.8 ГГц, 32 ГБ DDR5, SSD 1000 ГБ, Linux, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, блок питания - 100 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/68fb3dbeaac165149c5140c26dfde9a8/976dd9c4473931ef14ea673b99b0e978f41ed4e2825223da6cefbef3db767091.jpg.webp",
+  "price": 84999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4de"
+  },
+  "name": "ПК iRU Game 510B7GS [2055740] [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 4060, SSD 512 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Intel B760, блок питания - 600 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3eaf6546763060f0be61de31679a1dc3/2fa2005b459cb18d9a4bedab58ba3fed12e7214402a91f5fa4da3d9eca562106.jpg.webp",
+  "price": 84999,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4df"
+  },
+  "name": "Мини ПК MSI Cubi NUC 1M-098RU [9S6-B0B111-098] [Intel Core 5-120U, 2 x 1.4 ГГц, 16 ГБ DDR5, SSD 512 ГБ, без ОС, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/67d4a859f3be54fa617e560a157aa54e/e146f05a7291e411477de7ca0792b17318e52628aaec5e7d918a26666e83a71b.jpg.webp",
+  "price": 84999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4e0"
+  },
+  "name": "Мини ПК HP ProDesk 400 G9 Mini [883S7EA] [Intel Core i3-13100T, 4 x 2.5 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x HDMI, 2 x DisplayPort, Wi-Fi, Bluetooth, Intel Q670, блок питания - 90 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/632d0863000052cb54332113f09788fe/49040fa7af3c03f900b8de8fc2c91193d77ff8b33dee26acf6b98e36625b50cd.png.webp",
+  "price": 85999,
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4e1"
+  },
+  "name": "ПК MSI PRO DP180 12-604RU [9S6-B0A721-604] [Intel Core i5-12400, 6 x 2.5 ГГц, 8 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b37d70315258624e5f2ad43181ee7052/1f3eb99fe0c1bb759bbfc9e787e66da7f579218ae2c99dbb68fc72341b4aa51f.jpg.webp",
+  "price": 87799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4e2"
+  },
+  "name": "Мини ПК Dell OptiPlex 7020 SFF [7020S-3860] [Intel Core i3-14100, 4 x 3.5 ГГц, 8 ГБ, SSD 256 ГБ, Linux, 1 x DisplayPort, 1 x HDMI, блок питания - 200 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/38688d599f0f61f83b673677207d473e/4f3e8abb2f6e99d4aac19684b796edfbcb51bf9fc28d9fcd1a6a257c2f083f95.jpg.webp",
+  "price": 87799,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4e3"
+  },
+  "name": "ПК iRU Game 515 [2067596] [Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 3060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Intel B760, блок питания - 550 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/421c0b67bcc823fc3423545f78e87bdf/b11737e40375d7adac7e480510da2ff034595a17ad7d802cc81399b8a4d877fe.jpg.webp",
+  "price": 87999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4e4"
+  },
+  "name": "ПК ARDOR GAMING NEO M148 [Intel Core i3-13100F, 4 x 3.4 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/8b89f4920c957fbd95953e7130859312/1c1589c4bad9e3d81507224afadc4b2d670f7941752f961042625853d2689aa4.jpg.webp",
+  "price": 88999,
+  "rating": 4.39
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4e5"
+  },
+  "name": "ПК ARDOR GAMING NEO M165 [Intel Core i3-13100F, 4 x 3.4 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ca82700affc76da37bffa0085e76e542/5d0967306f9447889a8946dd683f7c4a6aa35bf42f0e8d8a5740e63e92aa7373.jpg.webp",
+  "price": 89499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4e6"
+  },
+  "name": "ПК Acer Nitro N50-650 [DG.E3GCD.007] [Intel Core i5-13400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 4060, SSD 512 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/8ec1a10ba930ae742d601d1a8057f25a/eeb825ee9fc6b24c04540bd7e22438b7d2ba01937c33634c51fafbead6ef1a43.jpg.webp",
+  "price": 89999,
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4e7"
+  },
+  "name": "ПК ARDOR GAMING NEO M156 [Intel Core i3-13100F, 4 x 3.4 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/12483a00aceccd4fa6acf097c2433c89/7ec8666e8e854097297c530e81e42eecdef37333b9f6001970899f5dd4941463.jpg.webp",
+  "price": 89999,
+  "rating": 4.74
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4e8"
+  },
+  "name": "Мини ПК MSI PRO DP21 13M-861RU [9S6-B0A421-861] [Intel Core i5-13400, 6 x 2.5 ГГц, 8 ГБ DDR4, SSD 256 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Intel H610, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/0518b39aa17e750f327ba9012ebe3506/c9cd003e1cd3db9cba83ca49a4b177479691c7b2f32810e78d385a9e34dd424c.jpg.webp",
+  "price": 89999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4e9"
+  },
+  "name": "Мини ПК ASUS ExpertCenter PN64-S5436AD [90MS02G1-M00DM0] [Intel Core i5-12500H, 4 x 2.5 ГГц, 16 ГБ DDR5, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7a57b048b4ce7c9be560407aae33014b/1fe6d5fbcb3dd8dccaa20eb30d8a64349e8a1cef0ce8019ca28bcf3c4634a45f.jpg.webp",
+  "price": 94999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ea"
+  },
+  "name": "Мини ПК Lenovo ThinkCentre M70q Gen 3 [11USA03PCT] [Intel Core i5-12500T, 6 x 2 ГГц, 16 ГБ DDR4, SSD 1000 ГБ, без ОС, 1 x DisplayPort, 1 x HDMI, Wi-Fi, Bluetooth, блок питания - 65 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2d97b3680df2c4acb3da9a23c003645c/883f9402050956ba50ad52adf25398574f67f5fd0d467a9c91e8f239c8b1adb0.jpg.webp",
+  "price": 101999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4eb"
+  },
+  "name": "ПК ARDOR GAMING RAGE H363 [Intel Core i5-13400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2abe8b8abf4b0fc8c65c77cf82d15932/a45f93d31971614b1c4370097758fc86e83d5dd1bb67801b09fb4c04ae6202d2.png.webp",
+  "price": 103999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ec"
+  },
+  "name": "ПК ARDOR GAMING RAGE H350 [Intel Core i5-13400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/0b4e4c3544d542cc48b9fe4014e57816/103c1fd3f0f162d0426ec4ac81fc7c30c155764dc51d864355c35f3712c10bfe.jpg.webp",
+  "price": 104999,
+  "rating": 4.89
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ed"
+  },
+  "name": "ПК ARDOR GAMING RAGE H335 [Intel Core i5-13400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/ada348e7d4f07ab7a03bd771391fe3f1/fc30681755498431587b5317c6ae0062eb5dde16dd738dd80bffeaec38e66c4a.jpg.webp",
+  "price": 104999,
+  "rating": 4.81
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ee"
+  },
+  "name": "ПК ARDOR GAMING RAGE H346 [Intel Core i5-13400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/27df31143dd82f081f386d1d1d89d36b/084c75e88911a6e93532ffdd963ca30489e34710a5f15757f348388b1fbffc4b.jpg.webp",
+  "price": 104999,
+  "rating": 4.57
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ef"
+  },
+  "name": "ПК ARDOR GAMING RAGE H345 [Intel Core i5-13400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f9b9ba01d6327945af3cee15e73a0d2f/fe5d2ae5780e2f217b6d25d95d30fde03362dd57d444d877cece32d18e968d26.jpg.webp",
+  "price": 104999,
+  "rating": 4.84
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4f0"
+  },
+  "name": "Мини ПК MSI Cubi NUC 1M-095RU [9S6-B0B111-095] [Intel Core 7-150U, 2 x 1.8 ГГц, 16 ГБ DDR5, SSD 512 ГБ, Windows 11 Pro, 1 x USB Type-C, 2 x HDMI, Wi-Fi, Bluetooth, SoC]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ab3817196a281b4dca18d6a365cfb02c/206006e9f377652fbb438e9c65201839098b8ebc5903e7832c5ee5c1ba9e781c.jpg.webp",
+  "price": 108499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4f1"
+  },
+  "name": "ПК ASUS ExpertCenter D7 D700MER-5144000120 [90PF04M1-M002N0] [Intel Core i5-14400, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 512 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/fa8df880d5eddbeca2f4b00b6d7ec1c3/706cfeb4bebf2e9b5c850de35e0c48145e41efa151a91b51118cbf2011587cf8.jpg.webp",
+  "price": 109999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4f2"
+  },
+  "name": "ПК Dell Precision 3260 Compact [3260-5650] [Intel Core i5-13500, 6 x 2.5 ГГц, 16 ГБ DDR5, NVIDIA T400, SSD 512 ГБ, Linux, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel W680, блок питания - 240 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/fd109c97e5255ec4764cf6bea8e29108/54ee1c290e6348c08de4a2bf77e537470fc9ec896e56f0bc0ba06a9e1c246ea1.jpg.webp",
+  "price": 115999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4f3"
+  },
+  "name": "ПК ARDOR GAMING RAGE H352 [Intel Core i5-13400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4060, SSD 1500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/e84b1eaaa4806e7b484632cbd4c3abd7/b3d9dc55daaa15846f15d1345fb22f04c880f0d6aa2bf831f8fe3ab745ce0a54.jpg.webp",
+  "price": 115999,
+  "rating": 4.91
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4f4"
+  },
+  "name": "ПК ARDOR GAMING RAGE H362 [Intel Core i5-13400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4060, SSD 1500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ea424c7f8a4ff239fba7e44fa7d8a6b9/ec52a908fafa7fcf02677ad92087e6f00dd952e04bd2f69fa42e4cf394d9c147.png.webp",
+  "price": 115999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4f5"
+  },
+  "name": "ПК ARDOR GAMING RAGE H332 [Intel Core i5-13400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060 Ti, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b29974dad8c35de580200ae47b072948/568e16ef0a6805a1c88b61ac952c4f6e4c0df400ce360b5cdc3b1f9f7ee9376b.jpg.webp",
+  "price": 117999,
+  "rating": 4.87
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4f6"
+  },
+  "name": "ПК ARDOR GAMING RAGE H366 [AMD Ryzen 5 7500F, 6 x 3.7 ГГц, 32 ГБ DDR5, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD B650, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/83d3b22323d8aec17e2552a33533bde4/28fc3cf3fe0f884d85897ccdd77bd5bc4c98a265ff1c73146f2a685a43c5af1a.jpg.webp",
+  "price": 117999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4f7"
+  },
+  "name": "ПК ARDOR GAMING RAGE H351 [Intel Core i5-13400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060 Ti, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ca6085cd3f436c99b53e9a257a6427c4/d096c0ca2bc927de4cd2316ecc0bc2ebf277c9d86498943f4dad422731deaf6b.jpg.webp",
+  "price": 117999,
+  "rating": 4.85
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4f8"
+  },
+  "name": "ПК ARDOR GAMING RAGE H364 [Intel Core i5-13400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060 Ti, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/54e885162d4a4923f74b1ccd90b418eb/783aea5c83adc1f6f8e61904debf677d376c2b8d234c9cc7ee47b9ad73c57602.jpg.webp",
+  "price": 119999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4f9"
+  },
+  "name": "ПК Lenovo LOQ Tower 17IRR9 [90X0006TKZ] [Intel Core i5-14400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 512 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9143fa108515748ac88ac9f63f707c4a/277c07a767aa0e0723ee13dfcdcaf40612ca6d5058790c0f81852e5d95678dfc.jpg.webp",
+  "price": 119999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4fa"
+  },
+  "name": "Мини ПК HP ProDesk 400 G9 Mini [623T4ET] [Intel Core i5-13500T, 6 x 1.6 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 2 x DisplayPort, Wi-Fi, Bluetooth, Intel Q670, блок питания - 90 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/8cdd75bfc3909b8d3bf4c203ce08a710/53ed4ca9d88b9abde9d1d2143e5b62a8276d47d037b16650c3288104f606b761.jpg.webp",
+  "price": 122999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4fb"
+  },
+  "name": "Мини ПК MSI PRO DP21 14MQ-012RU [9S6-B0B211-012] [Intel Core i7-14700, 8 x 2.1 ГГц, 16 ГБ DDR5, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, Intel Q670, блок питания - 120 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/1eddd4b3b9a0e523a0330f08b40f74a5/040fdf1233f863d6b1c810e1cd6d93ab981bfbb3bf071902c10de6a1ba53637c.jpg.webp",
+  "price": 123499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4fc"
+  },
+  "name": "ПК ARDOR GAMING RAGE H355 [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4060, SSD 1500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3a9fa0f3876e2a23de426bcd25325879/f80cb353f994477e198d0702772ac96d949350b78ef39e4cb1bdf65dbbc42862.jpg.webp",
+  "price": 123499,
+  "rating": 4.89
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4fd"
+  },
+  "name": "ПК ARDOR GAMING RAGE H374 [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4060, SSD 1500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/6c7686820b50247e75e7e881788a6e42/29faf4c2d7034a6d55868a3c17a2bd080f240f1aa4dc972b964e80f08e5b005c.jpg.webp",
+  "price": 124499,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4fe"
+  },
+  "name": "Мини ПК TECNO MEGA MINI Gaming G1 [71003310005] [Intel Core i7-13620H, 6 x 2.4 ГГц, 16 ГБ DDR5, GeForce RTX 4060 для ноутбуков, SSD 1000 ГБ, Windows 11 Home, 2 x HDMI, 2 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 330 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/e9b1d9f6f7ef9376c66310f78166e178/98f4504af221345b5aae38b2e508a4b622c6bbb8a9aa458a4b8ef943998b5f62.jpg.webp",
+  "price": 124999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c4ff"
+  },
+  "name": "ПК ARDOR GAMING RAGE H353 [Intel Core i5-13400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4060 Ti, SSD 1500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/79f8f951ccd1beeff78457759cba0d53/1371a569764ad95277d8cad405083a482e04d0449052757bb62a18126d3b80d6.jpg.webp",
+  "price": 124999,
+  "rating": 4.85
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c500"
+  },
+  "name": "ПК Lenovo LOQ Tower 17IRR9 [90X0006SKZ] [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4060, SSD 512 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/89799c55514997137afae1d27182dafa/0de850be16263fa9f0907eaebb03a4fdf079b901834fc149821c46ba3b91ce1b.jpg.webp",
+  "price": 126999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c501"
+  },
+  "name": "ПК MSI PRO DP180 14-473RU [9S6-B0A731-473] [Intel Core i7-14700, 8 x 2.1 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x DisplayPort, 1 x HDMI, 1 x VGA (D-Sub), Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9a0a32d272462e156fc040a77a1a4a70/2ccd200da1219ef73e715c2f96f864cdfe54c130ee5289c5e3147576e6ad9918.jpg.webp",
+  "price": 127499,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c502"
+  },
+  "name": "ПК Fragmachine LIQUID 5106 [173173] [Intel Core i5-14400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 2 x DisplayPort, 2 x HDMI, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/39ab2e1f5a89bf5ea192a0b7ea6e4cb1/fecb2ff37b474a51604aa377fe56dc3cf91ae92556b9743195c5c8046b2f98e3.jpg.webp",
+  "price": 129999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c503"
+  },
+  "name": "ПК ARDOR GAMING RAGE H359 [Intel Core i5-13400F, 6 x 2.5 ГГц, 32 ГБ DDR5, Radeon RX 7800 XT, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/25cf1c355f4ce2babd672e73dbd8342c/5ab4c60d9f0ecfa49cb45a952af0ff77062f0cb91c5717738c6a65222618184e.jpg.webp",
+  "price": 130499,
+  "rating": 4.52
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c504"
+  },
+  "name": "ПК ARDOR GAMING RAGE H375 [AMD Ryzen 5 9600X, 6 x 3.9 ГГц, 32 ГБ DDR5, GeForce RTX 4060, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD B650, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2da6b9a958de1a1f49c196e9fd3b52d2/04505cca53d5c383984195cf8c8ad40f997a3c76f04bf82fe9e66685f6932c15.jpg.webp",
+  "price": 130499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c505"
+  },
+  "name": "ПК ARDOR GAMING RAGE H367 [AMD Ryzen 5 7500F, 6 x 3.7 ГГц, 32 ГБ DDR5, GeForce RTX 4060 Ti, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD B650, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/e2a51130ef76dd69f5ec6a6f05ec8613/c0c880362d6a89e4598268de68af4ee55858a789ccd0aca03148286ebb893d16.jpg.webp",
+  "price": 133999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c506"
+  },
+  "name": "ПК HP OMEN GT21-0014ur [5D440EA] [AMD Ryzen 7 5800X, 8 x 3.8 ГГц, 16 ГБ DDR4, GeForce RTX 3070 Ti, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD B550, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c697839b6bcfb9eaad2b85ffe8eedacf/6299e7b8cfeebee8cf07b9098eaa25b240fd81e2ae023ef5dcc49a452126666c.jpg.webp",
+  "price": 134999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c507"
+  },
+  "name": "ПК ARDOR GAMING RAGE H354 [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4060 Ti, SSD 1500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/30c230fafdf49b370b39d5aad22774e3/9ded70dadbddd6d005359b24d54a3345ca08fff5aa67b58039efca844b4bf4ff.jpg.webp",
+  "price": 135999,
+  "rating": 4.72
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c508"
+  },
+  "name": "ПК ARDOR GAMING RAGE H373 [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4060 Ti, SSD 1500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/6f8adbe8ea87220af69f905abb7b3511/748e48626799bffc31e9aa806f948c8a8f1c2d5dfc7ede1184c136c333e22d24.jpg.webp",
+  "price": 138999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c509"
+  },
+  "name": "Мини ПК TECNO MEGA MINI Gaming G1 [71003310003] [Intel Core i7-13620H, 6 x 2.4 ГГц, 32 ГБ DDR5, GeForce RTX 4060 для ноутбуков, SSD 1000 ГБ, Windows 11 Home, 2 x HDMI, 2 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 330 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7aa44a91a4f61518260a1b534d5946f0/15a6bb93a6307a77bd22839474b1f971a3ede24211c36202f298f587e92e6a15.jpg.webp",
+  "price": 139999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c50a"
+  },
+  "name": "ПК Lenovo LOQ Tower 17IRR9 [90X0006VKZ] [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4060 Ti, SSD 512 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/e78ff409545f05504bda181094d869a1/01e8407fb5086ce8dd971afba5b63433b016240689336f77a8917a00a2d4249d.jpg.webp",
+  "price": 139999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c50b"
+  },
+  "name": "Мини ПК HP ProDesk 400 G9 Mini [6B243EA] [Intel Core i7-12700T, 8 x 1.4 ГГц, 16 ГБ DDR4, SSD 512 ГБ, Windows 11 Pro, 1 x HDMI, 2 x DisplayPort, Wi-Fi, Bluetooth, Intel Q670, блок питания - 90 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/8cdd75bfc3909b8d3bf4c203ce08a710/53ed4ca9d88b9abde9d1d2143e5b62a8276d47d037b16650c3288104f606b761.jpg.webp",
+  "price": 143999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c50c"
+  },
+  "name": "ПК ARDOR GAMING RAGE H372 [Intel Core i5-13400F, 6 x 2.5 ГГц, 32 ГБ DDR5, Radeon RX 7800 XT, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9b7adf3e016fa1b933327c1e664d2dc6/d380753453f6b4dfe2643786570b5f199f3e90b3e741ed087c0bccf161d37724.jpg.webp",
+  "price": 145499,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c50d"
+  },
+  "name": "ПК ASUS ROG G22CH-51440F0130 [90PF03T2-M01220] [Intel Core i5-14400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060, SSD 512 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 600 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b4eb61412fbbaff293f642ce2599be59/6cdb7a9329ee1018c3ee80f5f94a5860460a4b0a2f5cce01713bd7eaac46d30d.jpg.webp",
+  "price": 145999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c50e"
+  },
+  "name": "ПК ASUS ROG G22CH-51440F0120 [90PF03T2-M011Z0] [Intel Core i5-14400F, 6 x 2.5 ГГц, 16 ГБ DDR5, GeForce RTX 4060 Ti, SSD 512 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 600 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b4eb61412fbbaff293f642ce2599be59/6cdb7a9329ee1018c3ee80f5f94a5860460a4b0a2f5cce01713bd7eaac46d30d.jpg.webp",
+  "price": 146999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c50f"
+  },
+  "name": "ПК ASUS ROG Strix G13CHR-71470F0280 [90PF04S2-M00C30] [Intel Core i7-14700F, 8 x 2.1 ГГц, 16 ГБ DDR5, GeForce RTX 4060 Ti, SSD 512 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 700 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/1c94cc9dbe9bcb37b0645eb765973196/3102edef9838299cda7a29720895a846db0accb378f5a409d2efe53ac735fb66.png.webp",
+  "price": 146999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c510"
+  },
+  "name": "ПК ARDOR GAMING RAGE H343 [Intel Core i5-13400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f888340c379b6605ebcf5866ec30e8af/6f1d72c8fb8ddda18e9284ccac9c336e2dab0ddba555d47acf9c99a8e0d91395.jpg.webp",
+  "price": 148499,
+  "rating": 4.06
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c511"
+  },
+  "name": "Мини ПК TECNO MEGA MINI Gaming G1 [71003310001] [Intel Core i9-13900H, 6 x 2.6 ГГц, 32 ГБ DDR5, GeForce RTX 4060 для ноутбуков, SSD 2000 ГБ, Windows 11 Home, 2 x HDMI, 2 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 330 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/e7a896265fc1495ba442e03f19755d11/f5ce92b41cb8b03c27df3e702f25156e11458d5d89986611a5f7cf64ccfaa0f3.jpg.webp",
+  "price": 149999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c512"
+  },
+  "name": "ПК ASUS ROG STRIX G13CH-51340F0560 [90PF0472-M00S00] [Intel Core i5-13400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 4070, SSD 512 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/8c7102781baafb7441d8adc7ba9bc449/3da7e73e26a329c10a30ae36d39e568def85f061bacece7bf1a6f30ed3561d45.jpg.webp",
+  "price": 149999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c513"
+  },
+  "name": "ПК ARDOR GAMING RAGE H349 [AMD Ryzen 5 7500F, 6 x 3.7 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD B650, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c8946253fadbac5eeb79a3801c717041/c66c9494dd52c02474e27f53eec965ac9ddf91b4711923ea3dc5c4853411ac8c.jpg.webp",
+  "price": 161999,
+  "rating": 4.38
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c514"
+  },
+  "name": "ПК ARDOR GAMING GEAR AX002 [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 750 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b77b4e9374f7dbf357be19f1969e629d/bf62577ae4a88f9c3875b18ee317c1b6c29bfb87b5e59a4f8370b2d7a3d33895.jpg.webp",
+  "price": 166999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c515"
+  },
+  "name": "ПК ASUS G16CHR-1470KF0370 [90PF04T2-M00SD0] [Intel Core i7-14700KF, 8 x 3.4 ГГц, 16 ГБ DDR5, GeForce RTX 4060 Ti, SSD 512 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 750 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c34b7bcc5b3841a500a73aa363bdb8f3/e0b5f9b4f736adcccaf7d8876a45c44b7ca5e84f315ccbf14799515a5cbb7e4f.jpg.webp",
+  "price": 167999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c516"
+  },
+  "name": "ПК ASUS D500TE-7137000550 [90PF03Y2-M02VW0] [Intel Core i7-13700, 8 x 2.1 ГГц, 16 ГБ DDR4, RTX A2000, SSD 1000 ГБ, без ОС, 4 x Mini DisplayPort, Intel B760, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/9c87845d8bfc06a60cb6d2aa6405d181/348fef73bda4a59bcefe7bf637ed1017efd627ba6d5f7d4bb14e33f3f19ef939.jpg.webp",
+  "price": 169999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c517"
+  },
+  "name": "ПК ARDOR GAMING RAGE H371 [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/67d007392a833c38c27d5b4ba9add006/f969733a9bdf377e08b004e90b0ecfbee0e97ecdc830bd5e25f9ff5299cc3b00.jpg.webp",
+  "price": 170999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c518"
+  },
+  "name": "ПК ARDOR GAMING RAGE H379 [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/da5a9d9dfbfae23af319778d502467af/6a0b7bffde1e7b437ea9f3d04d6dc2b43c5b97923a0bfd9c1d3e1edf7569c372.jpg.webp",
+  "price": 175999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c519"
+  },
+  "name": "ПК ARDOR GAMING RAGE H361 [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/751c81be1f17c6e5aca13ad6b2c2af48/aa79c114283b0835b6d373616d061f3a9f9bb3e8a9e6beb7be81b75e9c5dafe3.jpg.webp",
+  "price": 176999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c51a"
+  },
+  "name": "ПК ARDOR GAMING GEAR AX001 [AMD Ryzen 5 7500F, 6 x 3.7 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 4 x DisplayPort, Wi-Fi, Bluetooth, AMD B650, блок питания - 750 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/83feaafc5d79fa48dce4046858ae994f/a8ce4f253635aa87048168c69ac75cc3573b20ee31c0192d86323ce0843b304e.jpg.webp",
+  "price": 179999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c51b"
+  },
+  "name": "ПК ARDOR GAMING RAGE H378 [AMD Ryzen 5 7500F, 6 x 3.7 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD B650, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/8c5b8d0ee39349960103c02f692f0be4/a672baf8808ee926dd2ffd1fb9e6c31a443f7640c10b0d97037e63777e396d00.jpg.webp",
+  "price": 180999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c51c"
+  },
+  "name": "ПК ARDOR GAMING RAGE H360 [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/eba11e61ae15fb4d181ed1516916955c/6f7cfe9e1c9ca2440c2cc70725a29cc6cf293207751e498762295cc1f4bf8578.png.webp",
+  "price": 189999,
+  "rating": 4.78
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c51d"
+  },
+  "name": "ПК ARDOR GAMING RAGE H358 [Intel Core i5-14600KF, 6 x 3.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 1500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/dd72c023ad705667f8cb153b42eb99d0/7dc547040091f98fade2e134addb0ac11a742b7653a26558ae51ba6da2857fc7.jpg.webp",
+  "price": 189999,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c51e"
+  },
+  "name": "ПК ARDOR GAMING RAGE H358 [Intel Core i5-14600KF, 6 x 3.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 1500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/43a52c885c5c44763f048427625839d9/f46724b6d3d30474a67ce2ea5b646780f5e9a22bbab917a6b72ad1a2977926e7.jpg.webp",
+  "price": 199999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c51f"
+  },
+  "name": "ПК ARDOR GAMING RAGE H380 [AMD Ryzen 5 7500F, 6 x 3.7 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD B650, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c5c4d18655f03d22af581e593796efc7/d3b8413658b833c4489c96a45f51da1a6c45731d16b1d542c139be957f6658ba.jpg.webp",
+  "price": 201999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c520"
+  },
+  "name": "ПК MSI MAG Infinite S3 14NUE7-1832XRU [9S6-B93852-1832] [Intel Core i7-14700F, 8 x 2.1 ГГц, 16 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel H610, блок питания - 500 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f38adaa847cedced5c830c90dd821c2e/8b36c999caf53e6e55b71e2f4c5ce0dfa928b55f6e1371cba3242caacb66cc74.png.webp",
+  "price": 207999,
+  "rating": 4.33
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c521"
+  },
+  "name": "ПК ARDOR GAMING GEAR GE0 [Intel Core i5-14400F, 6 x 2.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/8bd7a5baaae92527b444ae66a22dbff0/5e074d39f591fd9194ee5a0177251ed9292254bd970dff53e4b5f3a561b129c7.jpg.webp",
+  "price": 209999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c522"
+  },
+  "name": "ПК ARDOR GAMING RAGE H376 [Intel Core i5-14600KF, 6 x 3.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 1000 ГБ, Windows 11 Home Single Language, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 650 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2a1c5dcb6836bc1dcb089e42dc867bb3/c33bc64901861c7d901de3b1751d33fb63654a1b20a9872389dcd94eceeef978.jpg.webp",
+  "price": 209999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c523"
+  },
+  "name": "ПК ARDOR GAMING EVO X077 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/818caae1efbf8fbe7f4eed992e971164/6feef8039fa99d33606f4d41ea7d7190bdcd78d328ef1e587962a6d2c7cef20d.jpg.webp",
+  "price": 214999,
+  "rating": 4.45
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c524"
+  },
+  "name": "ПК iRU Game 715 TWR [2047535] [Intel Core i5-14600KF, 6 x 3.5 ГГц, 32 ГБ DDR4, GeForce RTX 4070 Ti SUPER, SSD 1024 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ee99edf24736b52a25b550cc0135696f/4bc06750f6349b9622b3746f82b5b5eba6d1cc5bb58c1de07dd4c8f4ff3c8e22.jpg.webp",
+  "price": 218999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c525"
+  },
+  "name": "ПК ARDOR GAMING EVO X078 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2978d0adc574ebd8952876eaf907583f/29096ae4d6abf0607c1747ad2ee84c26db1e5edac1264c392c28e92d17dd6d83.jpg.webp",
+  "price": 221999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c526"
+  },
+  "name": "ПК ASUS G22CH-1470KF0260 [90PF03T2-M016H0] [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel B760, блок питания - 600 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/49af3db8deffaac07cecb551b5eb21d1/0e4107a96b912b56e5016db534424df71454f91074fd625073e362d9aa25ea4d.jpg.webp",
+  "price": 222999,
+  "rating": 3.67
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c527"
+  },
+  "name": "ПК ARDOR GAMING EVO X098 [AMD Ryzen 7 7700, 8 x 3.8 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD B650, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2ffd817f3c82cace0430c9211e0760e7/efb004653f11ea470941892e7c5e0eaae3ab9876baefd0d91b408c7ef50a9ba1.jpg.webp",
+  "price": 232999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c528"
+  },
+  "name": "ПК ARDOR GAMING EVO X093 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/25ffe7c5c5b911502dbc3c249cbae3dd/2d26782183c424c29e3519380fcb915471f019f11996ed1a19fda520281aa211.jpg.webp",
+  "price": 233999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c529"
+  },
+  "name": "ПК ARDOR GAMING EVO X095 [AMD Ryzen 7 9700X, 8 x 3.8 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD B650, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/009699f0159d29d4e8ee189f3fb69090/5716e2b7b4302f3a1e852eddf6c84c564fce2cd2411e4339f61380040f12103b.jpg.webp",
+  "price": 246999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c52a"
+  },
+  "name": "ПК Fragmachine LIQUID 5107 [173183] [Intel Core i5-14600KF, 6 x 3.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z690, блок питания - 750 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/345cdcd216ca7a61e5623e81e7b7c8d6/79bdd065becb7b77d689bf347a7fca1b906f325ec7801ff12c9a6cd5c9cfa383.jpg.webp",
+  "price": 246999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c52b"
+  },
+  "name": "ПК ARDOR GAMING EVO X083 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a5697e040e3d79012c5eedeeb9063646/47fff3eadc9bc97227783be42571346659102f36bef817e7c835e01f3ee1c6fd.jpg.webp",
+  "price": 247999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c52c"
+  },
+  "name": "ПК ARDOR GAMING EVO X084 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a85f2cfa7b7dbf81cc284802eed14cf0/3bced3b5c9ebf1d8b87ee8743a389f672715a95f4a97fa96ae66845b56f19693.jpg.webp",
+  "price": 250999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c52d"
+  },
+  "name": "ПК ARDOR GAMING EVO X076 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/25fe4217be35864865c5e6bd9e498b72/7bf237fd5903d682ed1429b28824cc32a1a7726559788509e94d981332bbf7ec.jpg.webp",
+  "price": 256999,
+  "rating": 4.84
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c52e"
+  },
+  "name": "ПК iRU Game 710Z7GP MT [2016218] [Intel Core i7-13700KF, 8 x 3.4 ГГц, 32 ГБ DDR4, GeForce RTX 4070 Ti, SSD 1024 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 800 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7b4a421a1e4f1e09ca9cb772673eca94/7d401ec34e48d5ce061c7fa58736f194096572e63dd65e2de8d195cc1f1cd2ad.jpg.webp",
+  "price": 260999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c52f"
+  },
+  "name": "ПК Lenovo Legion T7 34IRZ8 [90V700K7KZ] [Intel Core i9-14900K, 8 x 3.2 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/bfa16541c1e7564bae5458eb0081a68a/359f4489685ec067200d87cc461c69904f72538a3e030bb103000f64d4987004.jpg.webp",
+  "price": 261999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c530"
+  },
+  "name": "ПК ARDOR GAMING EVO X099 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/24656351d84446123f8b9cd583c5a57c/8c61550bc80b23697b9b95b133ea8463a2fd8de2f06b8af9424d725c7bca975b.jpg.webp",
+  "price": 261999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c531"
+  },
+  "name": "ПК ARDOR GAMING EVO X097 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 1000 ГБ, Windows 10 Home Single Language, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b03f7c6c90ac1bd60739efdd96944573/4ae8c1b1cd9a4fe18dc7757861f77df7d3908e51795c2a39e584e625a7f8adb3.jpg.webp",
+  "price": 261999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c532"
+  },
+  "name": "ПК ARDOR GAMING GEAR GS001 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/2a5ca9e695bef5e9b876760f262bc220/0b7459912aa04732ddd542df03764da5d06f0227e84b003407542b98c7913405.jpg.webp",
+  "price": 263999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c533"
+  },
+  "name": "ПК iRU Game 717EC TWR [1920471] [Intel Core i7-13700KF, 8 x 3.4 ГГц, 32 ГБ DDR4, GeForce RTX 4080, SSD 1024 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Intel Z790, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/21ebcf06d323c063e3d4d8eeb02d7241/26447419162d83f84e9595993b98fd4def0f350d6d69c675c9a80069ea9df5fd.jpg.webp",
+  "price": 263999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c534"
+  },
+  "name": "ПК Lenovo Legion T7 34IRZ8 [90V700HLKZ] [Intel Core i9-14900KF, 8 x 3.2 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/58ddb24c4af9fac7e6a6437c3c879e5e/69e385a83a02df891ebf0f89336cb392fc026c5c10f73e3d5337919f61f52054.jpg.webp",
+  "price": 269999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c535"
+  },
+  "name": "ПК iRU Game 715 TWR [2047544] [Intel Core i5-14600KF, 6 x 3.5 ГГц, 64 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 2048 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/27dd06addeddadf663f8283d92bc7132/cf247b11b3847b17ae8fa7730038e5cbdbd4cc4a013907c027e3d53fef46281d.jpg.webp",
+  "price": 275999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c536"
+  },
+  "name": "ПК ARDOR GAMING EVO X100 [AMD Ryzen 7 9700X, 8 x 3.8 ГГц, 32 ГБ DDR5, GeForce RTX 5070 Ti, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD X870, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3ef5f06910bb26d3076cc8da8b58d25d/cb485cbf4ea855cc03cd7b58bfedb7cfb0e4e91555deaf1f20f82391d1cf4566.jpg.webp",
+  "price": 284999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c537"
+  },
+  "name": "ПК ARDOR GAMING EVO X091 [AMD Ryzen 7 7800X3D, 8 x 4.2 ГГц, 32 ГБ DDR5, GeForce RTX 4080, SSD 2000 ГБ, Windows 11 Home Single Language, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD B650, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f694447040d127d0e9a99935b9b352fe/aa1d14d5396b6591203f011c20a3ab939e8789f56f4579ea0334bb6a9c44bd6a.jpg.webp",
+  "price": 286999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c538"
+  },
+  "name": "ПК ARDOR GAMING EVO X079 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 2000 ГБ, без ОС, 1 x DisplayPort, 3 x HDMI, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/a915539f0f5c30a0f004ce2a00a17244/e1e2454597a5145405bb96bb98b655a126a0672e1a4865b63b0db36fa888e732.jpg.webp",
+  "price": 291999,
+  "rating": 4.47
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c539"
+  },
+  "name": "ПК ARDOR GAMING EVO X092 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 2000 ГБ, без ОС, 2 x DisplayPort, 2 x HDMI, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7658fe9bbc9a0dc9e5a3600b7cfc9c68/d21302e524d0f1126789415433949ef62ab542fb2f9d00256179c00e18f3d306.jpg.webp",
+  "price": 295999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c53a"
+  },
+  "name": "ПК Lenovo Legion T7 34IRZ8 [90V700HMKZ] [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/bef7cb959fa8753d10662185576bd21f/a0b03fb20760cd99c29f53cb39914388bc8b0358b5577621484a92d22b26e956.jpg.webp",
+  "price": 299999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c53b"
+  },
+  "name": "ПК MSI MPG Infinite X3 AI 2NUE7-009XRU [9S6-B94211-009] [Intel Core Ultra 7 265K, 8 x 3.9 ГГц, 32 ГБ DDR5, GeForce RTX 4070 SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z890, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/28e8797068638c6eba32516f42f81311/1548cc809da292a9fb56fe2d8337c974dc53379a1f5876cd0366526e424c718e.jpg.webp",
+  "price": 309999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c53c"
+  },
+  "name": "ПК MSI MPG Infinite X3 AI 2NUF7-008XRU [9S6-B94211-008] [Intel Core Ultra 7 265K, 8 x 3.9 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z890, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/09c000fd110b72189af5df44b34ad374/a5b6bc05915885225ee0efa40575b1df1f94d10cb2e87bece1f9d38f7bc3175f.jpg.webp",
+  "price": 309999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c53d"
+  },
+  "name": "ПК ARDOR GAMING EVO X096 [Intel Core i9-14900KF, 8 x 3.2 ГГц, 32 ГБ DDR5, GeForce RTX 4080, SSD 2000 ГБ, Windows 11 Home Single Language, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/7071e128ce736ce11000dfcc17cf22da/78dc9d6a46563cb77077aa520e75acf38a70ef67b9b2636ed892d5080f719b3b.jpg.webp",
+  "price": 318999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c53e"
+  },
+  "name": "ПК MSI MPG Infinite X3 AI 2NUF7-007RU [9S6-B94211-007] [Intel Core Ultra 7 265K, 8 x 3.9 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 2000 ГБ, Windows 11 Home, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z890, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/3cf2db5e1e6f7b35e50c9b9c82efa828/3ade27ab41213597401482c1ccea6f2689034a731795b951df10e6c525f409fa.jpg.webp",
+  "price": 319999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c53f"
+  },
+  "name": "ПК ARDOR GAMING EVO X102 [AMD Ryzen 7 9700X, 8 x 3.8 ГГц, 32 ГБ DDR5, GeForce RTX 5080, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD X870, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/70327a5c8b7bbf920163449633daac5e/0432a19aef1e9c025dc7801bd5ab4c479028e3463c9a0b04a00ecd0fdbff2d43.jpg.webp",
+  "price": 324999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c540"
+  },
+  "name": "ПК ARDOR GAMING EVO X087 [Intel Core Ultra 7 265K, 8 x 3.9 ГГц, 32 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 2000 ГБ, без ОС, 2 x DisplayPort, 2 x HDMI, Wi-Fi, Bluetooth, Intel Z890, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/adfba18b5d13b76f939b1e9c86d8e85b/93f72757a2c3bce62223b40a8f73aad588185768bd4ae2652aec7bb236886f42.jpg.webp",
+  "price": 327999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c541"
+  },
+  "name": "ПК Lenovo Legion T7 34IRZ8 [90V700K5KZ] [Intel Core i9-14900K, 8 x 3.2 ГГц, 32 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/bfa16541c1e7564bae5458eb0081a68a/359f4489685ec067200d87cc461c69904f72538a3e030bb103000f64d4987004.jpg.webp",
+  "price": 327999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c542"
+  },
+  "name": "ПК ARDOR GAMING GEAR GX002 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 64 ГБ DDR5, GeForce RTX 4070 Ti SUPER, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b4cc666014d5a0d83a9a3d2f87d5f931/9a910f942fe9ec8cef0aed685fdc0899bed3efacf92802ce09d1c6f3daa7b644.jpg.webp",
+  "price": 333999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c543"
+  },
+  "name": "ПК Lenovo Legion T7 34IRZ8 [90V700HNKZ] [Intel Core i7-14700KF, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/e62c04b8cac16f726d720c5cf51edbf3/0e979983917eb06008586623f7f03e68ec7f5dbf89dc0f0edc6516fb4453d8fa.jpg.webp",
+  "price": 347999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c544"
+  },
+  "name": "ПК Lenovo Legion T7 34IRZ8 [90V700K6KZ] [Intel Core i9-14900KF, 8 x 3.2 ГГц, 32 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/bfa16541c1e7564bae5458eb0081a68a/359f4489685ec067200d87cc461c69904f72538a3e030bb103000f64d4987004.jpg.webp",
+  "price": 349999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c545"
+  },
+  "name": "ПК Lenovo Legion T7 34IRZ8 [90V700HPKZ] [Intel Core i7-14700K, 8 x 3.4 ГГц, 32 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 1000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/bd0b6a92b1108ae26d9a20a29ca603d4/d3658910c95d5a71cf296a2b2824ac8fbcaae3a98eba8e41ec8d592f275cc11d.jpg.webp",
+  "price": 357999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c546"
+  },
+  "name": "ПК Lyambda FRONTIER [L-GM1738-BK] [Intel Core i7-13700KF, 8 x 3.4 ГГц, 64 ГБ DDR5, GeForce RTX 4070 Ti, SSD 1000 ГБ, Windows 11 Home Single Language, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/6d4ad325aa4ea3eb98e2ec3444e84304/c53b938939581de9f160670dd11586974ca18b9685d317dfbfe6f78efedbc160.jpg.webp",
+  "price": 358999,
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c547"
+  },
+  "name": "ПК MSI MPG Infinite X3 AI 2NUG7-006XRU [9S6-B94211-006] [Intel Core Ultra 7 265K, 8 x 3.9 ГГц, 32 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 1000 ГБ, без ОС, 2 x DisplayPort, 2 x HDMI, Wi-Fi, Bluetooth, Intel Z890, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/c876d9da4cfb8dcd18372d9db316e543/7e383e35fcb79573a28d927d488b2011eb280d0d38b457d4a414278b144ffa87.jpg.webp",
+  "price": 364999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c548"
+  },
+  "name": "ПК MSI MPG Infinite X3 AI 2NUG7-004XRU [9S6-B94211-004] [Intel Core Ultra 7 265K, 8 x 3.9 ГГц, 32 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 2000 ГБ, без ОС, 2 x DisplayPort, 2 x HDMI, Wi-Fi, Bluetooth, Intel Z890, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/50578ee8916cf385c019c912daf6d5c1/31fd4e28e8e08d3ff44b9178b1860e158fab26b6bc95134f243d0f966c89cf07.jpg.webp",
+  "price": 379999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c549"
+  },
+  "name": "ПК MSI MPG Infinite X3 AI 2NUG7-005RU [9S6-B94211-005] [Intel Core Ultra 7 265K, 8 x 3.9 ГГц, 32 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 1000 ГБ, Windows 11 Home, 2 x DisplayPort, 2 x HDMI, Wi-Fi, Bluetooth, Intel Z890, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/16aa0bc40181b4ec97ff522672be649c/da0a3e92b9e12379485d64ef2e6e1979cbf46587db764e517d90d7d4fb4ab6f5.jpg.webp",
+  "price": 379999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c54a"
+  },
+  "name": "ПК MSI MPG Infinite X3 AI 2NUG7-003RU [9S6-B94211-003] [Intel Core Ultra 7 265K, 8 x 3.9 ГГц, 32 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 2000 ГБ, Windows 11 Home, 2 x DisplayPort, 2 x HDMI, Wi-Fi, Bluetooth, Intel Z890, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/5927eb3a8be3ddb515db7a8f6db43e4b/c5ee2ca525e67db541ef413a4eaadc95607f20e8697dada153c872c79347f8d0.jpg.webp",
+  "price": 399999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c54b"
+  },
+  "name": "ПК HYPERPC G2 PRO PLUS [Intel Core i5-13600KF, 6 x 3.5 ГГц, 32 ГБ DDR5, GeForce RTX 4070 Ti, SSD 1000 ГБ, Windows 11 Home Single Language, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 850 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/6ed25345b5472ca26271b186d3ee11bf/c93807f95cfe40ee280e2a7112eca4fce515dc4717491199987981e0f7265d34.jpg.webp",
+  "price": 402999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c54c"
+  },
+  "name": "ПК ARDOR GAMING GEAR GX001 [Intel Core i9-14900KF, 8 x 3.2 ГГц, 64 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 2500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f1414d84c10609f071271fa854a39df3/ef2262e71f337f8192d865a98980d70668bc090119eeb015f9af4a568534e415.jpg.webp",
+  "price": 403999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c54d"
+  },
+  "name": "ПК MSI MPG Infinite X3 AI 2NUG9-002RU [9S6-B94211-002] [Intel Core Ultra 9 285K, 8 x 3.7 ГГц, 64 ГБ DDR5, GeForce RTX 4080 SUPER, SSD 2000 ГБ, Windows 11 Home, 2 x DisplayPort, 2 x HDMI, Wi-Fi, Bluetooth, Intel Z890, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ae7c0d9a5593e143f3ed234b0c42301f/6d8faf0afd4b4023a213b609d7bb2beb3e6003f22e8fd2e56489f7e3d570edb2.jpg.webp",
+  "price": 419999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c54e"
+  },
+  "name": "ПК ARDOR GAMING EVO X082 [Intel Core i7-14700KF, 8 x 3.4 ГГц, 64 ГБ DDR5, GeForce RTX 4090, SSD 2500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 1200 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/309a5ab1c5cc13772b492b0c1f49f231/8f57c39bd68d7623a9ca52960b00217ecd24dbb168101c1ecc94dce2c6c21a05.jpg.webp",
+  "price": 434999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c54f"
+  },
+  "name": "ПК Fragmachine FIRE 7107 [189997] [Intel Core Ultra 7 265KF, 8 x 3.3 ГГц, 32 ГБ DDR5, GeForce RTX 5080, SSD 2048 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z890, блок питания - 1000 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ec8625d2299e141b107e476703af5879/cc7b7242d0147034dace6d20965070671365274264c857f00f91d644a96a0f34.jpg.webp",
+  "price": 439999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c550"
+  },
+  "name": "ПК Fragmachine FIRE 7107 [191879] [Intel Core Ultra 7 265KF, 8 x 3.9 ГГц, 32 ГБ DDR5, GeForce RTX 5080, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z890, блок питания - 1200 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/23450f6c62f6eacd6f4ee79b2117d011/cc833c1cead0784c40a163149b5d9bbc72154506ac0e09efaee8a9cc4274e96d.jpg.webp",
+  "price": 439999,
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c551"
+  },
+  "name": "Мини ПК Apple Mac Studio [MQH63] [Apple M2 Ultra, 16 x 3.5 ГГц, 64 ГБ LPDDR5, SSD 1000 ГБ, macOS, 1 x HDMI, 4 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 370 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/49df2de1e5632161fd0880b7392702f6/9c4d65aa8fab22b17c633b8d828927112244a8504ba7c2e31e5d499930841cba.jpg.webp",
+  "price": 477999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c552"
+  },
+  "name": "ПК Fragmachine FIRE 9101 [191880] [AMD Ryzen 9 7950X3D, 16 x 4.2 ГГц, 64 ГБ DDR5, GeForce RTX 5080, SSD 2000 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD X670, блок питания - 1200 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/30a23a4c289a5cf9f6b154348754f8b4/72aefbae447520e3d6492110531f4015b91283932218cb592f269304e7d6954d.jpg.webp",
+  "price": 504999,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c553"
+  },
+  "name": "ПК ARDOR GAMING EVO X081 [Intel Core i9-14900KF, 8 x 3.2 ГГц, 96 ГБ DDR5, GeForce RTX 4090, SSD 4500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, Intel Z790, блок питания - 1200 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/06a893c672de08bfbda0e5f3a4a149a8/b45d7f1545fabd3e2f2e94202e8c1c144f6375f4918ccc71877af7b702309702.jpg.webp",
+  "price": 526999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c554"
+  },
+  "name": "ПК ARDOR GAMING EVO X094 [AMD Ryzen 9 9950X, 16 x 4.3 ГГц, 96 ГБ DDR5, GeForce RTX 4090, SSD 4500 ГБ, без ОС, 1 x HDMI, 3 x DisplayPort, Wi-Fi, Bluetooth, AMD X870, блок питания - 1200 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/ee226ed3beed42dc4761d306f51086d4/a8af660d00aa837307f7f024fe54c6463b7e3d31db2074d443e9d90f63367ef6.jpg.webp",
+  "price": 547999,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6801467e26d63e5e0b88c555"
+  },
+  "name": "ПК Apple Mac Pro M2 Ultra [Apple M2 Ultra, 16 x 3.5 ГГц, 64 ГБ LPDDR5, SSD 1000 ГБ, macOS, 2 x HDMI, 8 x USB Type-C, Wi-Fi, Bluetooth, SoC, блок питания - 1280 Вт]",
+  "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/b1292fb0079b16301c83ed7c32c4f5f6/ca99ee1f00499572600076405f24e4360b2345a80d7c95b13719e50257eec847.jpg.webp",
+  "price": 954999,
+  "rating": 0
+}]

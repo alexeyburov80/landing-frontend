@@ -1,0 +1,552 @@
+[{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd55"
+  },
+  "name": "",
+  "price": 0,
+  "discount": 0,
+  "price_discount": 0,
+  "quantit": "",
+  "img-ref": "",
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd56"
+  },
+  "name": "Black & White PC Системный блок Компьютер Combo i5 512 (Intel Core i5-3470, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2500, Windows), серый",
+  "price": 49000,
+  "discount": "−68%",
+  "price_discount": 15393,
+  "quantit": "Осталось 44 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-p/wc500/7375828273.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd57"
+  },
+  "name": "Системный блок Компьютерные системы Игры Компьютерный офис (Intel Xeon E5-2667V3, RAM 32 ГБ, SSD 1024 ГБ, HDD 1024 ГБ, NVIDIA GeForce RTX 2060 (6 Гб), Windows 11 Pro), черный матовый",
+  "price": 58156,
+  "discount": "−44%",
+  "price_discount": 32518,
+  "quantit": "Осталось 5 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-e/wc500/7362367610.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd58"
+  },
+  "name": "Системный блок Компьютер  (Intel Core i3-3220, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro), черный",
+  "price": 26733,
+  "discount": "−44%",
+  "price_discount": 14715,
+  "quantit": "Осталось 154 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-v/wc500/7355804791.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd59"
+  },
+  "name": "Системный блок Игровой компьютер 1660 SUPER (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 10 Pro), белый",
+  "price": 49625,
+  "discount": "−29%",
+  "price_discount": 35135,
+  "quantit": null,
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-k/wc500/7315501268.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd5a"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-13600KF, RAM 64 ГБ, SSD 500 ГБ, AMD Radeon RX 7700 XT (12 Гб), Windows 11 Pro), черный",
+  "price": 204886,
+  "discount": "−28%",
+  "price_discount": 145514,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-s/wc500/7364008792.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd5b"
+  },
+  "name": "Системный блок Игровой компьютер \"FLAMINGO V1\" M2 NVME (Intel Core i5-13600K, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб), Windows 11 Pro), черный",
+  "price": 212603,
+  "discount": "−41%",
+  "price_discount": 124688,
+  "quantit": "Осталось 15 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-6/wc500/7373035374.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd5c"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i7-13700F, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4070 (12 ГБ), Windows 11 Pro), черный",
+  "price": 202925,
+  "discount": "−28%",
+  "price_discount": 144123,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-z/wc500/7199264447.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd5d"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i7-13700KF, RAM 32 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб), Windows 11 Pro), черный",
+  "price": 202402,
+  "discount": "−28%",
+  "price_discount": 143751,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-o/wc500/7364010408.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd5e"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i3-12100F, RAM 32 ГБ, SSD 2000 ГБ, AMD Radeon RX 7800 XT (16 Гб), Windows 11 Pro), черный",
+  "price": 183290,
+  "discount": "−24%",
+  "price_discount": 138294,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-d/wc500/7364008021.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd5f"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-12600KF, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4070 SUPER (12 Гб), Windows 11 Pro), черный",
+  "price": 199052,
+  "discount": "−28%",
+  "price_discount": 141372,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-o/wc500/7364008968.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd60"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-14600KF, RAM 32 ГБ, SSD 1000 ГБ, AMD Radeon RX 7600 XT (16 Гб), Windows 11 Pro), черный",
+  "price": 172746,
+  "discount": "−24%",
+  "price_discount": 130338,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-u/wc500/7364008902.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd61"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i7-12700KF, RAM 16 ГБ, SSD 2000 ГБ, AMD Radeon RX 7800 XT (16 Гб), Windows 11 Pro), черный",
+  "price": 205512,
+  "discount": "−28%",
+  "price_discount": 145959,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-z/wc500/7199264447.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd62"
+  },
+  "name": "Системный блок kos_chern (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3070 (8 Гб), ), черный матовый",
+  "price": 89133,
+  "discount": "−18%",
+  "price_discount": 72610,
+  "quantit": null,
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-v/wc500/7388341483.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd63"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i7-12700KF, RAM 16 ГБ, SSD 1000 ГБ, AMD Radeon RX 7800 XT (16 Гб), Windows 11 Pro), черный",
+  "price": 203298,
+  "discount": "−28%",
+  "price_discount": 144388,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-r/wc500/7364008791.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd64"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-13400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4070 SUPER (12 Гб), Windows 11 Pro), черный",
+  "price": 201636,
+  "discount": "−28%",
+  "price_discount": 143207,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-b/wc500/7364008991.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd65"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-13600KF, RAM 64 ГБ, SSD 1000 ГБ, AMD Radeon RX 7700 XT (12 Гб), Windows 11 Pro), черный",
+  "price": 208506,
+  "discount": "−28%",
+  "price_discount": 148085,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-s/wc500/7364008792.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd66"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i7-13700KF, RAM 32 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 4060 Ti (16 Гб), Windows 11 Pro), черный",
+  "price": 201636,
+  "discount": "−28%",
+  "price_discount": 143207,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-o/wc500/7364010408.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd67"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-14400F, RAM 64 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 4070 (12 ГБ), Windows 11 Pro), черный",
+  "price": 208394,
+  "discount": "−28%",
+  "price_discount": 148007,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-k/wc500/7364008928.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd68"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-12600KF, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4070 SUPER (12 Гб), Windows 11 Pro), белый",
+  "price": 199887,
+  "discount": "−28%",
+  "price_discount": 141965,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-z/wc500/7364010455.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd69"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-13400F, RAM 16 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 4070 SUPER (12 Гб), Windows 11 Pro), белый",
+  "price": 203716,
+  "discount": "−28%",
+  "price_discount": 144683,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-5/wc500/7364010389.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd6a"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-12600KF, RAM 64 ГБ, SSD 1000 ГБ, AMD Radeon RX 7700 XT (12 Гб), Windows 11 Pro), черный",
+  "price": 193984,
+  "discount": "−27%",
+  "price_discount": 141599,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-9/wc500/7364008773.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd6b"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i7-12700KF, RAM 32 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 4060 Ti (16 Гб), Windows 11 Pro), белый",
+  "price": 194689,
+  "discount": "−27%",
+  "price_discount": 142113,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-l/wc500/7364008533.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd6c"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-12400F, RAM 64 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 4060 Ti (16 Гб), Windows 11 Pro), черный",
+  "price": 181159,
+  "discount": "−24%",
+  "price_discount": 136687,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-1/wc500/7364009053.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd6d"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-13400F, RAM 64 ГБ, SSD 500 ГБ, AMD Radeon RX 7800 XT (16 Гб), Windows 11 Pro), черный",
+  "price": 210065,
+  "discount": "−28%",
+  "price_discount": 149193,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-b/wc500/7364008991.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd6e"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-14400F, RAM 64 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 4060 Ti (16 Гб), Windows 11 Pro), белый",
+  "price": 203922,
+  "discount": "−28%",
+  "price_discount": 144831,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-i/wc500/7364010114.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd6f"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-13600KF, RAM 16 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 4070 (12 ГБ), Windows 11 Pro), белый",
+  "price": 206891,
+  "discount": "−28%",
+  "price_discount": 146939,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-w/wc500/7364010488.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd70"
+  },
+  "name": "Системный блок 3rgb (AMD Ryzen 5 3600, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (6 Гб), ), черный",
+  "price": 88689,
+  "discount": "−18%",
+  "price_discount": 72249,
+  "quantit": null,
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-f/wc500/7388341539.jpg",
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd71"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-12600KF, RAM 64 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 4060 Ti (16 Гб), Windows 11 Pro), черный",
+  "price": 188746,
+  "discount": "−27%",
+  "price_discount": 137775,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-9/wc500/7364008773.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd72"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i7-13700F, RAM 16 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 4060 Ti (16 Гб), Windows 11 Pro), черный",
+  "price": 201547,
+  "discount": "−28%",
+  "price_discount": 143143,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-2/wc500/7364010386.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd73"
+  },
+  "name": "Системный блок Игровой компьютер \"FLAMINGO V1\" M2 NVME (Intel Core i7-12700KF, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), черный",
+  "price": 183033,
+  "discount": "−41%",
+  "price_discount": 107089,
+  "quantit": "Осталось 15 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-0/wc500/7373035332.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd74"
+  },
+  "name": "Системный блок reak_bel (Intel Xeon E5-2640V3, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), ), белый",
+  "price": 57609,
+  "discount": "−18%",
+  "price_discount": 46930,
+  "quantit": null,
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-y/wc500/7388341702.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd75"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i7-13700KF, RAM 16 ГБ, SSD 2000 ГБ, AMD Radeon RX 7700 XT (12 Гб), Windows 11 Pro), черный",
+  "price": 206640,
+  "discount": "−28%",
+  "price_discount": 146761,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-o/wc500/7364010408.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd76"
+  },
+  "name": "Системный блок reak_bel (AMD Ryzen 7 5700X, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 2070 (6 Гб), ), белый",
+  "price": 88134,
+  "discount": "−18%",
+  "price_discount": 71797,
+  "quantit": null,
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-p/wc500/7388341981.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd77"
+  },
+  "name": "Системный блок reak_chern (Intel Core i5-10400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1060 (6 Гб), ), черно-серый",
+  "price": 63936,
+  "discount": "−18%",
+  "price_discount": 52084,
+  "quantit": null,
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-4/wc500/7388342212.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd78"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-14400F, RAM 32 ГБ, SSD 1000 ГБ, AMD Radeon RX 7800 XT (16 Гб), Windows 11 Pro), черный",
+  "price": 195301,
+  "discount": "−27%",
+  "price_discount": 142560,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-f/wc500/7364008779.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd79"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-14600KF, RAM 64 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб), Windows 11 Pro), черный",
+  "price": 202321,
+  "discount": "−28%",
+  "price_discount": 143693,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-u/wc500/7364008902.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd7a"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-14400F, RAM 64 ГБ, SSD 2000 ГБ, AMD Radeon RX 7700 XT (12 Гб), Windows 11 Pro), черный",
+  "price": 204705,
+  "discount": "−28%",
+  "price_discount": 145386,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-k/wc500/7364008928.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd7b"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i7-13700F, RAM 16 ГБ, SSD 2000 ГБ, AMD Radeon RX 7700 XT (12 Гб), Windows 11 Pro), белый",
+  "price": 199055,
+  "discount": "−27%",
+  "price_discount": 145300,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-q/wc500/7364010410.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd7c"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i7-12700F, RAM 64 ГБ, SSD 500 ГБ, AMD Radeon RX 7700 XT (12 Гб), Windows 11 Pro), черный",
+  "price": 204913,
+  "discount": "−28%",
+  "price_discount": 145534,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-j/wc500/7364008855.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd7d"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i5-13600KF, RAM 32 ГБ, SSD 500 ГБ, AMD Radeon RX 7800 XT (16 Гб), Windows 11 Pro), черный",
+  "price": 206760,
+  "discount": "−28%",
+  "price_discount": 146846,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-s/wc500/7364008792.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd7e"
+  },
+  "name": "Системный блок reak_chern (Intel Core i5-10400F, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1070 Ti (8 Гб), ), черно-серый",
+  "price": 69375,
+  "discount": "−18%",
+  "price_discount": 56515,
+  "quantit": null,
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-0/wc500/7359831360.jpg",
+  "rating": null
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd7f"
+  },
+  "name": "SevenGroup Системный блок Игровой компьютер ПК (Intel Core i5-10400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windows 10 Pro), ПК, бежевый",
+  "price": 318824,
+  "discount": "−77%",
+  "price_discount": 72507,
+  "quantit": "Осталось 300 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-l/wc500/7109519313.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd80"
+  },
+  "name": "JetGame Системный блок Office (Intel Core i3-2100, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics, Windows 10 Pro), черный",
+  "price": 26000,
+  "discount": "−55%",
+  "price_discount": 11543,
+  "quantit": null,
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-w/wc500/7113991208.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd81"
+  },
+  "name": "Роскомп Системный блок Игровой компьютер ПК (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 Pro), ПК, красный, прозрачный",
+  "price": 116482,
+  "discount": "−58%",
+  "price_discount": 47846,
+  "quantit": "Осталось 100 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-m/wc500/7247911342.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "680146e826d63e5e0b88dd82"
+  },
+  "name": "Системный блок ПК Игровой компьютер (Intel Core i7-13700F, RAM 32 ГБ, SSD 2000 ГБ, AMD Radeon RX 7700 XT (12 Гб), Windows 11 Pro), черный",
+  "price": 208726,
+  "discount": "−28%",
+  "price_discount": 148242,
+  "quantit": "Осталось 25 шт",
+  "img-ref": "https://ir-3.ozone.ru/s3/multimedia-1-2/wc500/7364010386.jpg",
+  "rating": 5
+}]

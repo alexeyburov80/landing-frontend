@@ -1,10 +1,11 @@
 import {AfterViewInit, Component, CUSTOM_ELEMENTS_SCHEMA, Inject, OnDestroy, PLATFORM_ID} from '@angular/core';
 import {AsyncPipe, isPlatformBrowser, NgForOf, NgIf} from '@angular/common';
-import {Observable} from 'rxjs';
+import {finalize, Observable} from 'rxjs';
 import {ApiService} from '../services/api.service';
 import {JsonViewerComponent} from '../json-viewer/json-viewer.component';
 import {register} from 'swiper/element/bundle';
 import {LoadingComponent} from '../loading/loading.component';
+import {DownloadService} from '../services/download.service';
 
 register();
 
@@ -20,9 +21,11 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
   productItems$: Observable<any[]>;
   private timerId!: any;
   isLoading = false;
+  error: string | null = null;
 
   constructor(@Inject(PLATFORM_ID) private platformId: any,
-              private api: ApiService) {
+              private api: ApiService,
+              private downloadService: DownloadService) {
     this.productItems$ = this.api.getProducts();
   }
 
@@ -74,6 +77,23 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
   }
 
   getJSON(title: string) {
+    if(!title.length) {
+      return;
+    }
+    this.isLoading = true;
 
+    this.error = null;
+    console.log('getJSON', title);
+    this.downloadService.downloadFile(
+      `assets/files/${title}`,
+      title
+    ).pipe(
+      finalize(() => this.isLoading = false)
+    ).subscribe({
+      error: (error) => {
+        this.error = 'Не удалось скачать файл';
+        console.error(error);
+      }
+    });
   }
 }
