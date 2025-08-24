@@ -10,11 +10,6 @@
         "icon": "assets/telegram.svg"
       },
       {
-        "name": "mail",
-        "href": "https://alexeyburov80@gmail.com",
-        "icon": "assets/email.svg"
-      },
-      {
         "name": "vk",
         "href": "https://vk.com/BR_parsing",
         "icon": "assets/vk.svg"
@@ -23,8 +18,12 @@
         "name": "zen",
         "href": "https://dzen.ru/br_parsing",
         "icon": "assets/zen.svg"
+      },
+      {
+        "name": "ok",
+        "href": "https://m.ok.ru/dk?st.cmd=altGroupMain&st.groupId=70000039770861&_prevCmd=userAltGroups&tkn=2870&_aid=groupOwnShowcase",
+        "icon": "assets/ok.svg"
       }
-
     ]
   }
 }

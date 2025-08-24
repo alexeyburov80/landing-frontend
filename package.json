@@ -4,10 +4,16 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve --host 0.0.0.0",
+    "start-dev": "ng serve --host 0.0.0.0 --configuration development",
+    "start-prod": "ng serve --host 0.0.0.0 --configuration production",
     "build": "ng build --ssr --configuration production",
+    "build-dev": "ng build --ssr --configuration development",
+    "build-prod": "ng build --ssr --configuration production",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:landing": "node dist/landing/server/server.mjs"
+    "serve:ssr:landing": "node dist/landing/server/server.mjs",
+    "serve:ssr:landing-dev": "node dist/landing/server/server.mjs",
+    "serve:ssr:landing-prod": "node dist/landing/server/server.mjs"
   },
   "prettier": {
     "overrides": [

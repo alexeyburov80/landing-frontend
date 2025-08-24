@@ -2,7 +2,10 @@
   "products": [
     {
       "title": "hh.ru",
-      "file": "hh.21-05-2025.json",
+      "file": {
+        "json": "hh.21-05-2025.json",
+        "xlsx": "hh.21-05-2025.xlsx"
+      },
       "data": {
         "premium": false,
         "name": "QA специалист / тестировщик",
@@ -122,7 +125,10 @@
     },
     {
       "title": "dns",
-      "file": "electronics-stores.dns-23-03-2025.json",
+      "file": {
+        "json": "electronics-stores.dns-23-03-2025.json",
+        "xlsx": "electronics-stores.dns-23-03-2025.xlsx"
+      },
       "data": [
         {
           "name": "Мини ПК INFERIT Micro [INFR0748] [Intel Celeron J4125, 4 x 2 ГГц, 8 ГБ DDR4, SSD 256 ГБ, без ОС, 1 x HDMI, 1 x VGA (D-Sub), SoC, блок питания - 120 Вт]",
@@ -152,7 +158,10 @@
     },
     {
       "title": "avito",
-      "file": "avito-09062025.json",
+      "file": {
+        "json": "avito-09062025.json",
+        "xlsx": "avito-09062025.xlsx"
+      },
       "data": {
         "room": "3-к",
         "flat": "апартаменты",
@@ -174,7 +183,10 @@
     },
     {
       "title": "ozon",
-      "file": "electronics-stores.ozon=23-03-2025.json",
+      "file": {
+        "json": "electronics-stores.ozon-23-03-2025.json",
+        "xlsx": "electronics-stores.ozon-23-03-2025.xlsx"
+      },
       "data": [
         {
           "name": "Black & White PC Системный блок Компьютер Combo i5 512 (Intel Core i5-3470, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2500, Windows), серый",
@@ -199,7 +211,10 @@
     },
     {
       "title": "citilink",
-      "file": "electronics-stores.citilink-20-01-2025.json",
+      "file": {
+        "json": "electronics-stores.citilink-20-01-2025.json",
+        "xlsx": "electronics-stores.citilink-20-01-2025.xlsx"
+      },
       "data": [
         {
           "name": "Компьютер  iRU Game 310H6GE,  Intel  Core i5  12400F,  DDR4 16ГБ, 512ГБ,  Free DOS,  черный",
@@ -223,7 +238,10 @@
     },
     {
       "title": "wildberries",
-      "file": "electronics-stores.wildberries-23-03-2025.json",
+      "file": {
+        "json": "electronics-stores.wildberries-23-03-2025.json",
+        "xlsx": "electronics-stores.wildberries-23-03-2025.xlsx"
+      },
       "data": [
         {
           "name": "/ Моноблок Optimum 23.8\" N6000 8 256ГБ UHD Graphics W11Pro",
@@ -245,7 +263,10 @@
     },
     {
       "title": "yandex",
-      "file": "electronics-stores.yandex-24-02-2025.json",
+      "file": {
+        "json": "electronics-stores.yandex-24-02-2025.json",
+        "xlsx": "electronics-stores.yandex-24-02-2025.xlsx"
+      },
       "data": [{
           "img": "//avatars.mds.yandex.net/get-goods_pic/10820292/hat7e59d83fac270d7c92e4e8e4c2221852/500x500",
           "name": "Lenovo Системный блок ThinkCentre M71  Intel Core i3-2100, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Pro , черный",
