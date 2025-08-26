@@ -2,6 +2,7 @@
   "products": [
     {
       "title": "hh.ru",
+      "analytics": "hh",
       "file": {
         "json": "hh.21-05-2025.json",
         "xlsx": "hh.21-05-2025.xlsx"
@@ -125,6 +126,7 @@
     },
     {
       "title": "dns",
+      "analytics": "dns",
       "file": {
         "json": "electronics-stores.dns-23-03-2025.json",
         "xlsx": "electronics-stores.dns-23-03-2025.xlsx"
@@ -158,6 +160,7 @@
     },
     {
       "title": "avito",
+      "analytics": "avito",
       "file": {
         "json": "avito-09062025.json",
         "xlsx": "avito-09062025.xlsx"
@@ -183,6 +186,7 @@
     },
     {
       "title": "ozon",
+      "analytics": "ozon",
       "file": {
         "json": "electronics-stores.ozon-23-03-2025.json",
         "xlsx": "electronics-stores.ozon-23-03-2025.xlsx"
@@ -211,6 +215,7 @@
     },
     {
       "title": "citilink",
+      "analytics": "citilink",
       "file": {
         "json": "electronics-stores.citilink-20-01-2025.json",
         "xlsx": "electronics-stores.citilink-20-01-2025.xlsx"
@@ -238,6 +243,7 @@
     },
     {
       "title": "wildberries",
+      "analytics": "wildberries",
       "file": {
         "json": "electronics-stores.wildberries-23-03-2025.json",
         "xlsx": "electronics-stores.wildberries-23-03-2025.xlsx"
@@ -263,6 +269,7 @@
     },
     {
       "title": "yandex",
+      "analytics": "yandex",
       "file": {
         "json": "electronics-stores.yandex-24-02-2025.json",
         "xlsx": "electronics-stores.yandex-24-02-2025.xlsx"

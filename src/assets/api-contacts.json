@@ -11,9 +11,19 @@
       "link": "https://t.me/+79695214640"
     },
     {
-      "name": "E-mail",
-      "text": "br_parsing@mail.ru",
-      "link": "mailto:br_parsing@mail.ru"
+      "name": "Avito",
+      "text": "https://www.avito.ru/",
+      "link": "https://www.avito.ru/"
+    },
+    {
+      "name": "Профи.ру",
+      "text": "https://profi.ru/",
+      "link": "https://profi.ru/profile/BurovaPA2/"
+    },
+    {
+      "name": "YouDo",
+      "text": "https://youdo.com/",
+      "link": "https://youdo.com/u13089790"
     }
   ]
 }

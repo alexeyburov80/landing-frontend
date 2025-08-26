@@ -4,6 +4,7 @@ import { RouterOutlet } from '@angular/router';
 import {isPlatformBrowser, NgOptimizedImage} from '@angular/common';
 import { SeoService } from './services/seo.service';
 import { NavigationComponent } from './navigation/navigation.component';
+import {YandexAnalyticsService} from './services/yandex-analytics.service';
 
 const MOBILE = 780;
 
@@ -15,7 +16,10 @@ const MOBILE = 780;
 })
 export class AppComponent  {
   isMenuOpen = false;
-  constructor(@Inject(PLATFORM_ID) private platformId: any) {}
+  constructor(@Inject(PLATFORM_ID) private platformId: any,
+              private ya: YandexAnalyticsService) {
+    this.ya.init();
+  }
 
   toggleMenu() {
     if(isPlatformBrowser(this.platformId) && window.innerWidth > MOBILE)

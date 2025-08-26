@@ -4,6 +4,9 @@ import {NgClass, NgForOf, NgIf} from '@angular/common';
 import {ResponseService} from '../services/response.service';
 import {LoadingComponent} from '../loading/loading.component';
 import {tap} from 'rxjs';
+import {YandexAnalyticsService} from '../services/yandex-analytics.service';
+import {Analytics} from '../models/analytics';
+import {SeoService} from '../services/seo.service';
 
 @Component({
   selector: 'app-response',
@@ -22,12 +25,17 @@ export class ResponseComponent {
   isLoading = false;
 
   constructor(private fb: FormBuilder,
+              private ya: YandexAnalyticsService,
+              private seoService: SeoService,
               private responseService: ResponseService) {
     this.contactForm = this.fb.group({
       name: ['', Validators.required],
       contacts: this.fb.array([this.createContactField()]),
       description: ['', Validators.required]
     });
+
+    this.ya.sendEvent(Analytics.ResponseEnter);
+    this.seoService.setMetatags('Оставить заявку. Напишите нам.');
   }
 
   createContactField(): FormGroup {
@@ -59,6 +67,7 @@ export class ResponseComponent {
   onSubmit(): void {
     this.isLoading = true;
     if (this.contactForm.valid) {
+      this.ya.sendEvent(Analytics.ResponseSend)
       this.responseService.sendForm(this.contactForm.value).subscribe({
         next: (res) => {
           this.isLoading = false;

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /products
+Allow: /contact
+Allow: /response
+Crawl-Delay: 2

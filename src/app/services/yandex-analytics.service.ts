@@ -44,7 +44,7 @@ export class YandexAnalyticsService {
     return typeof ym === 'function';
   }
 
-  public sendEvent(event: Analytics): void {
+  public sendEvent(event: Analytics | string): void {
     if (this.enabled()) {
       ym(103838337, 'reachGoal', event);
     }

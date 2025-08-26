@@ -11,8 +11,8 @@
         <h4>{{ item.title }}</h4>
         <app-json-viewer class="json-viewer" [jsonData]="item.data"></app-json-viewer>
         <div class="button-container">
-          <button (click)="getJSON(item.file.json)">{{ 'Скачать JSON' }}</button>
-          <button (click)="getJSON(item.file.xlsx)">{{ 'Скачать EXCEL' }}</button>
+          <button (click)="getFile(item.file.json, item.analytics + '_json')">{{ 'Скачать JSON' }}</button>
+          <button (click)="getFile(item.file.xlsx, item.analytics + '_excel')">{{ 'Скачать EXCEL' }}</button>
         </div>
       </div>
     </swiper-slide>

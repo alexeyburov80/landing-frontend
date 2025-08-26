@@ -6,6 +6,9 @@ import {JsonViewerComponent} from '../json-viewer/json-viewer.component';
 import {register} from 'swiper/element/bundle';
 import {LoadingComponent} from '../loading/loading.component';
 import {DownloadService} from '../services/download.service';
+import {YandexAnalyticsService} from '../services/yandex-analytics.service';
+import {Analytics} from '../models/analytics';
+import {SeoService} from '../services/seo.service';
 
 register();
 
@@ -25,8 +28,11 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
 
   constructor(@Inject(PLATFORM_ID) private platformId: any,
               private api: ApiService,
+              private ya: YandexAnalyticsService,
+              private seoService: SeoService,
               private downloadService: DownloadService) {
     this.productItems$ = this.api.getProducts();
+    this.seoService.setMetatags('Продукты. Скачать примеры парсинга. hh.ru dns avito ozon citilynk wildberries yandex');
   }
 
   ngAfterViewInit() {
@@ -68,6 +74,8 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
         }
       }, 300);
     }
+
+    this.ya.sendEvent(Analytics.Products)
   }
 
   ngOnDestroy(): void {
@@ -76,14 +84,14 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
     }
   }
 
-  getJSON(title: string) {
+  getFile(title: string, analytics: string) {
     if(!title.length) {
       return;
     }
     this.isLoading = true;
 
     this.error = null;
-    console.log('getJSON', title);
+    this.ya.sendEvent(analytics)
     this.downloadService.downloadFile(
       `assets/files/${title}`,
       title
