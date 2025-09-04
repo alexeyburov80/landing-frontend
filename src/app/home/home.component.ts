@@ -21,6 +21,6 @@ export class HomeComponent {
               private api: ApiService) {
     this.data$ = this.api.getHome();
     this.ya.sendEvent(Analytics.Home);
-    this.seoService.setMetatags('BR.PARSING. Сбор данных из открытых источников');
+    this.seoService.setMetatags('Парсинг. Сбор данных из открытых источников. Парсинг сайтов. Парсинг данных.');
   }
 }

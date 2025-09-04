@@ -1,6 +1,6 @@
 import {AfterViewInit, Component, CUSTOM_ELEMENTS_SCHEMA, Inject, OnDestroy, PLATFORM_ID} from '@angular/core';
 import {AsyncPipe, isPlatformBrowser, NgForOf, NgIf} from '@angular/common';
-import {finalize, Observable} from 'rxjs';
+import {finalize, Observable, Subscription} from 'rxjs';
 import {ApiService} from '../services/api.service';
 import {JsonViewerComponent} from '../json-viewer/json-viewer.component';
 import {register} from 'swiper/element/bundle';
@@ -25,14 +25,15 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
   private timerId!: any;
   isLoading = false;
   error: string | null = null;
-
+  subscriptions: Subscription[] = [];
   constructor(@Inject(PLATFORM_ID) private platformId: any,
               private api: ApiService,
               private ya: YandexAnalyticsService,
               private seoService: SeoService,
               private downloadService: DownloadService) {
     this.productItems$ = this.api.getProducts();
-    this.seoService.setMetatags('Продукты. Скачать примеры парсинга. hh.ru dns avito ozon citilynk wildberries yandex');
+    this.seoService.setMetatags('Продукты. Скачать примеры парсинга. Парсинг hh.ru. Парсинг dns. Парсинг avito. Парсинг ozon. Парсинг citilynk. Парсинг wildberries. Парсинг yandex.' +
+      'Скачать json. Скачать excel');
   }
 
   ngAfterViewInit() {
@@ -82,6 +83,8 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
     if (this.timerId) {
       clearTimeout(this.timerId);
     }
+
+    this.subscriptions.forEach(subscription => subscription.unsubscribe());
   }
 
   getFile(title: string, analytics: string) {
@@ -92,7 +95,7 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
 
     this.error = null;
     this.ya.sendEvent(analytics)
-    this.downloadService.downloadFile(
+    this.subscriptions.push(this.downloadService.downloadFile(
       `assets/files/${title}`,
       title
     ).pipe(
@@ -102,6 +105,6 @@ export class ProductsComponent implements AfterViewInit, OnDestroy {
         this.error = 'Не удалось скачать файл';
         console.error(error);
       }
-    });
+    }));
   }
 }

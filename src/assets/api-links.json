@@ -1,0 +1,56 @@
+{
+  "links": [
+    {
+      "name": "Главная",
+      "link": "/"
+    },
+    {
+      "name": "Продукты",
+      "link": "/products"
+    },
+    {
+      "name": "Контакты",
+      "link": "/contact"
+    },
+    {
+      "name": "Отклик",
+      "link": "/response"
+    },
+    {
+      "name": "Телефон",
+      "link": "tel:+79695214640"
+    },
+    {
+      "name": "Телеграм",
+      "link": "https://t.me/+79695214640"
+    },
+    {
+      "name": "Avito",
+      "link": "https://www.avito.ru/"
+    },
+    {
+      "name": "Профи.ру",
+      "link": "https://profi.ru/profile/BurovaPA2/"
+    },
+    {
+      "name": "YouDo",
+      "link": "https://youdo.com/u13089790"
+    },
+    {
+      "name": "telegram",
+      "link": "https://t.me/BR_parsing"
+    },
+    {
+      "name": "vk",
+      "link": "https://vk.com/BR_parsing"
+    },
+    {
+      "name": "dzen",
+      "link": "https://dzen.ru/br_parsing"
+    },
+    {
+      "name": "ok",
+      "link": "https://m.ok.ru/dk?st.cmd=altGroupMain&st.groupId=70000039770861&_prevCmd=userAltGroups&tkn=2870&_aid=groupOwnShowcase"
+    }
+  ]
+}

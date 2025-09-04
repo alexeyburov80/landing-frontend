@@ -10,7 +10,7 @@ import {Meta} from '@angular/platform-browser';
 export class SeoService {
 
   constructor(private readonly meta: Meta) {
-    this.meta.addTag({ name: 'description', content: 'BR.PARSING. Сбор данных из открытых источников' });
+    this.meta.addTag({ name: 'description', content: 'Парсинг. Сбор данных из открытых источников. Парсинг сайтов. Парсинг данных.' });
   }
 
   public setMetatags(content: string): void {

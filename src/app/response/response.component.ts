@@ -1,12 +1,12 @@
-import {Component} from '@angular/core';
+import {Component, OnDestroy} from '@angular/core';
 import {FormArray, FormBuilder, FormGroup, ReactiveFormsModule, Validators} from '@angular/forms';
 import {NgClass, NgForOf, NgIf} from '@angular/common';
 import {ResponseService} from '../services/response.service';
 import {LoadingComponent} from '../loading/loading.component';
-import {tap} from 'rxjs';
 import {YandexAnalyticsService} from '../services/yandex-analytics.service';
 import {Analytics} from '../models/analytics';
 import {SeoService} from '../services/seo.service';
+import {Subscription, take} from 'rxjs';
 
 @Component({
   selector: 'app-response',
@@ -20,10 +20,10 @@ import {SeoService} from '../services/seo.service';
   templateUrl: './response.component.html',
   styleUrl: './response.component.scss'
 })
-export class ResponseComponent {
+export class ResponseComponent implements OnDestroy {
   public contactForm!: FormGroup;
   isLoading = false;
-
+  subscriptions: Subscription[] = [];
   constructor(private fb: FormBuilder,
               private ya: YandexAnalyticsService,
               private seoService: SeoService,
@@ -35,7 +35,7 @@ export class ResponseComponent {
     });
 
     this.ya.sendEvent(Analytics.ResponseEnter);
-    this.seoService.setMetatags('Оставить заявку. Напишите нам.');
+    this.seoService.setMetatags('Оставить заявку. Напишите нам. Заявка на парсинг сайта. Заказать парсинг.');
   }
 
   createContactField(): FormGroup {
@@ -67,8 +67,10 @@ export class ResponseComponent {
   onSubmit(): void {
     this.isLoading = true;
     if (this.contactForm.valid) {
-      this.ya.sendEvent(Analytics.ResponseSend)
-      this.responseService.sendForm(this.contactForm.value).subscribe({
+      this.ya.sendEvent(Analytics.ResponseSend);
+      const sb = this.responseService.sendForm(this.contactForm.value).pipe(
+        take(1)
+      ).subscribe({
         next: (res) => {
           this.isLoading = false;
           console.log('Успех:', res)
@@ -78,6 +80,11 @@ export class ResponseComponent {
           console.error('Ошибка:', err)
         }
       });
+      this.subscriptions.push(sb);
     }
+  }
+
+  ngOnDestroy(): void {
+    this.subscriptions.forEach(subscription => subscription.unsubscribe());
   }
 }

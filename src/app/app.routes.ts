@@ -4,6 +4,7 @@ import {ContactComponent} from './contact/contact.component';
 import {ProductsComponent} from './products/products.component';
 import {ResponseComponent} from './response/response.component';
 import {RequisitesComponent} from './requisites/requisites.component';
+import {MultilinkComponent} from './multilink/multilink.component';
 
 export const routes: Routes = [
   { path: '', component: HomeComponent, title: 'BR.PARSING' },
@@ -12,5 +13,6 @@ export const routes: Routes = [
   // { path: 'thanks', component: ThanksComponent },
   { path: 'response', component: ResponseComponent, title: 'Отклик' },
   { path: 'requisites', component: RequisitesComponent, title: 'Реквизиты' },
+  { path: 'multilink', component: MultilinkComponent, title: 'Карта сайта' },
   { path: '**', redirectTo: '' }
 ];

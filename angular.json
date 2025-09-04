@@ -21,8 +21,22 @@
             ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
-              "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              {
+                "glob": "favicon.svg",
+                "input": "public",
+                "output": "."
+              },
+              {
+                "glob": "robots.txt",
+                "input": "public",
+                "output": "."
+              },
+              {
+                "glob": "sitemap.xml",
+                "input": "public",
+                "output": "."
+              }
             ],
             "styles": [
               "src/styles.css"

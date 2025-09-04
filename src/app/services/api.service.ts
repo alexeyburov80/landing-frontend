@@ -17,8 +17,11 @@ export class ApiService {
     return this.http.get('assets/api-products.json').pipe(map(d => (d as any).products)) as Observable<any[]>;
   }
 
-  public getContacts(): Observable<any> {
+  public getContacts(): Observable<any[]> {
     return this.http.get('assets/api-contacts.json').pipe(map(d => (d as any).contacts)) as Observable<any[]>;
   }
 
+  getAllLinks(): Observable<any[]> {
+    return this.http.get('assets/api-links.json').pipe(map(d => (d as any).links)) as Observable<any[]>;
+  }
 }

@@ -1,0 +1,10 @@
+<div class="content-container">
+  <div>
+    <h1>КАРТА САЙТА</h1>
+    <div class="links-container" *ngIf="linkItems$ | async as contacts">
+      <ng-container *ngFor="let contact of contacts">
+        <a [href]="contact.link" class="link">{{ contact.name }}</a>&nbsp;
+      </ng-container>
+    </div>
+  </div>
+</div>

@@ -24,6 +24,6 @@ export class ContactComponent {
               private api: ApiService) {
     this.contactItems$ = this.api.getContacts();
     this.ya.sendEvent(Analytics.Contacts);
-    this.seoService.setMetatags('Наши контакты. Напишите нам для быстрого ответа.Телефон +79695214640');
+    this.seoService.setMetatags('Наши контакты. Напишите нам для быстрого ответа.Телефон: +79695214640. Телеграм: +79695214640. Avito. Профи.ру. YouDo');
   }
 }

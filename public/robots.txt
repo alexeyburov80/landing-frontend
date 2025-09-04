@@ -1,6 +1,12 @@
+# robots.txt https://br-parsing.ru/
 User-agent: *
 Allow: /
+Allow: /multilink
 Allow: /products
 Allow: /contact
 Allow: /response
 Crawl-Delay: 2
+
+
+Sitemap: https://br-parsing.ru/sitemap.xml
+Host: https://br-parsing.ru

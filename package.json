@@ -36,7 +36,6 @@
     "@angular/router": "~19.2.0",
     "@angular/ssr": "^19.2.15",
     "express": "^5.1.0",
-    "hammerjs": "^2.0.8",
     "helmet": "^8.1.0",
     "rxjs": "^7.8.0",
     "swiper": "^11.2.10",
