@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <rss 
+    xmlns:yandex="http://news.yandex.ru" 
+    xmlns:media="http://search.yahoo.com/mrss/"
+    version="2.0">
+    <channel>
+      <title>Сайт предоставляет услуги парсинга</title>
+      <link>https://br-parsing.ru/</link>
+      <description>Парсинг сайтов. Задачи любой сложности. Сбор данных из открытых источников.Профессиональная разработка программного обеспечения.</description>
+      <item>
+        <title>Скачать примеры парсинга</title>
+        <link>https://br-parsing.ru/products</link>
+        <pdalink>https://br-parsing.ru/products</pdalink>
+        <description>Продукты. Скачать примеры парсинга. Парсинг hh.ru. Парсинг dns. Парсинг avito. Парсинг ozon. Парсинг citilynk. Парсинг wildberries. Парсинг yandex.Скачать json. Скачать excel</description>
+        <author>BR.Parsing</author>
+        <category>Продукты</category>
+        <yandex:genre>message</yandex:genre>
+        <yandex:full-text>Продукты. Скачать примеры парсинга. Парсинг hh.ru. Парсинг dns. Парсинг avito. Парсинг ozon. Парсинг citilynk. Парсинг wildberries. Парсинг yandex.Скачать json. Скачать excel</yandex:full-text>
+       </item>
+       <item>
+        <title>Контакты</title>
+        <link>https://br-parsing.ru/contact</link>
+        <pdalink>https://br-parsing.ru/contact</pdalink>
+        <description>Наши контакты. Напишите нам для быстрого ответа.Телефон: +79695214640. Телеграм: +79695214640. Avito. Профи.ру. YouDo</description>
+        <author>BR.Parsing</author>
+        <category>Контакты</category>
+        <yandex:genre>message</yandex:genre>
+        <yandex:full-text>Наши контакты. Напишите нам для быстрого ответа.Телефон: +79695214640. Телеграм: +79695214640. Avito. Профи.ру. YouDo</yandex:full-text>
+       </item>
+       <item>
+        <title>Отклик</title>
+        <link>https://br-parsing.ru/response</link>
+        <pdalink>https://br-parsing.ru/response</pdalink>
+        <description>Напишите нам.Заказать парсинг.</description>
+        <author>BR.Parsing</author>
+        <category>Контакты</category>
+        <yandex:genre>message</yandex:genre>
+        <yandex:full-text>Оставить заявку. Напишите нам. Заявка на парсинг сайта. Заказать парсинг.</yandex:full-text>
+       </item>
+     </channel>
+  </rss>

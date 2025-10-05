@@ -1,0 +1,28 @@
+.content-container {
+  line-height: 28px;
+  margin-top: 82px;
+  max-height: 480px !important;
+  overflow-y: scroll;
+
+  /* Скрываем скролл для Firefox */
+  scrollbar-width: none;
+  /* Скрываем скролл для IE и Edge */
+  -ms-overflow-style: none;
+
+  @media (max-height: 720px) {
+    max-height: 70vh;
+    margin-top: 74px;
+
+  }
+  .contact {
+    color: white;
+  }
+
+  .policy {
+    margin: 0 24px;
+    text-align: left;
+  }
+}
+.content-container ::-webkit-scrollbar {
+  display: none;
+}

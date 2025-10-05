@@ -5,12 +5,13 @@ import {isPlatformBrowser, NgOptimizedImage} from '@angular/common';
 import { SeoService } from './services/seo.service';
 import { NavigationComponent } from './navigation/navigation.component';
 import {YandexAnalyticsService} from './services/yandex-analytics.service';
+import {CookiesComponent} from './cookies/cookies.component';
 
 const MOBILE = 780;
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, NgOptimizedImage, NavigationComponent],
+  imports: [RouterOutlet, NgOptimizedImage, NavigationComponent, CookiesComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
 })
