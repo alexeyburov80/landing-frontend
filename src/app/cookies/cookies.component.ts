@@ -1,5 +1,5 @@
-import {Component, OnInit} from '@angular/core';
-import {NgIf} from '@angular/common';
+import {Component, Inject, OnInit, PLATFORM_ID} from '@angular/core';
+import {isPlatformBrowser, NgIf} from '@angular/common';
 
 @Component({
   selector: 'app-cookies',
@@ -13,9 +13,15 @@ import {NgIf} from '@angular/common';
 export class CookiesComponent implements OnInit {
   visible = false;
 
+  constructor(@Inject(PLATFORM_ID) private platformId: any) {}
+
   ngOnInit() {
-    const consent = localStorage.getItem('cookiesConsent');
-    if (!consent) {
+    if (isPlatformBrowser(this.platformId)) {
+      const consent = localStorage.getItem('cookiesConsent');
+      if (!consent) {
+        this.visible = true;
+      }
+    } else {
       this.visible = true;
     }
   }
